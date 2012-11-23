@@ -94,22 +94,13 @@
         </ul>
       </li>
       <li class="second-list">
-        <div class="genre-name">プログレ (ヨーロッパ)</div>
+        <div class="genre-name">プログレ (イタリア)</div>
         <ul class="band-name-list">
-          <li>
-            <a href="/progressive_rock/anyones_daughter.shtml">Anyone's Daughter</a>
-          </li>
           <li>
             <a href="/progressive_rock/alphataurus.shtml">Alphataurus</a>
           </li>
           <li>
             <a href="/progressive_rock/area.shtml">Area</a>
-          </li>
-          <li>
-            <a href="/progressive_rock/asia_minor.shtml">Asia Minor</a>
-          </li>
-          <li>
-            <a href="/progressive_rock/atoll.shtml">Atoll</a>
           </li>
           <li>
             <a href="/progressive_rock/banco_del_mutuo_soccorso.shtml">Banco Del Mutuo Soccorso</a>
@@ -118,16 +109,7 @@
             <a href="/progressive_rock/cervello.shtml">Cervello</a>
           </li>
           <li>
-            <a href="/progressive_rock/earth_and_fire.shtml">Earth and Fire</a>
-          </li>
-          <li>
-            <a href="/progressive_rock/focus.shtml">Focus</a>
-          </li>
-          <li>
             <a href="/progressive_rock/goblin.shtml">Goblin</a>
-          </li>
-          <li>
-            <a href="/progressive_rock/gong.shtml">Gong</a>
           </li>
           <li>
             <a href="/progressive_rock/i_camaleonti.shtml">I Camaleonti</a>
@@ -136,16 +118,10 @@
             <a href="/progressive_rock/il_volo.shtml">Il Volo</a>
           </li>
           <li>
-            <a href="/progressive_rock/itoiz.shtml">Itoiz</a>
-          </li>
-          <li>
             <a href="/progressive_rock/latte_e_miele.shtml">Latte E Miele</a>
           </li>
           <li>
             <a href="/progressive_rock/locanda_delle_fate.shtml">Locanda Delle Fate</a>
-          </li>
-          <li>
-            <a href="/progressive_rock/magma.shtml">Magma</a>
           </li>
           <li>
             <a href="/progressive_rock/museo_rosenbach.shtml">Museo Rosenbach</a>
@@ -166,10 +142,44 @@
             <a href="/progressive_rock/quella_vecchia_locanda.shtml">Quella Vecchia Locanda</a>
           </li>
           <li>
-            <a href="/progressive_rock/tai_phong.shtml">Tai Phong</a>
+            <a href="/progressive_rock/tito_schipa_jr.shtml">Tito Schipa Jr.</a>
+          </li>
+        </ul>
+      </li>
+      <li class="second-list">
+        <div class="genre-name">プログレ (フランス)</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/progressive_rock/asia_minor.shtml">Asia Minor</a>
           </li>
           <li>
-            <a href="/progressive_rock/tito_schipa_jr.shtml">Tito Schipa Jr.</a>
+            <a href="/progressive_rock/atoll.shtml">Atoll</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/gong.shtml">Gong</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/magma.shtml">Magma</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/tai_phong.shtml">Tai Phong</a>
+          </li>
+        </ul>
+      </li>
+      <li class="second-list">
+        <div class="genre-name">プログレ (その他ヨーロッパ)</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/progressive_rock/anyones_daughter.shtml">Anyone's Daughter</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/earth_and_fire.shtml">Earth and Fire</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/focus.shtml">Focus</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/itoiz.shtml">Itoiz</a>
           </li>
           <li>
             <a href="/progressive_rock/triana.shtml">Triana</a>
