@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   McDonald and Giles (マクドナルド・アンド・ジャイルズ) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="プログレ,名盤,McDonald &amp; Giles,イアン・マクドナルド,マイケル・ジャイルズ" />
+  <meta name="description" content="クリムゾンの1stで主要な役割を担ったイアン・マクドナルドとマイケル・ジャイルズのバンド。牧歌的な音色とジャジーなリズムが特徴的です。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/mcdonald_and_giles.html"-->
+    <h1>
+     McDonald and Giles (マクドナルド・アンド・ジャイルズ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      ロックミュージックに衝撃を与えたKing Crimsonの1st「
+      <a href="/progressive_rock/king_crimson/in_the_court_of_the_crimson_king.shtml">
+       In The Court Of The Crimson King (クリムゾン・キングの宮殿)
+      </a>
+      」でサックスを担当したイアン・マクドナルド、ドラムを担当したマイケル・ジャイルズが中心となって結成したバンド。マイケル・ジャイルズの兄弟であるピーター・ジャイルズもベースとして参加してます。
+      <br />
+      クリムゾンの1stとは、音色がかなり違いますが、マイケル・ジャイルズのドラムを中心に聴き応えはあります。残した作品は一枚だけ。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/McDonaldAndGiles.jpg" border="0" alt="McDonaldAndGiles.jpg(40748 byte)" />
+      <a class="album-name" href="/progressive_rock/mcdonald_and_giles/mcdonald_and_giles.shtml">
+       McDonald and Giles (マクドナルド・アンド・ジャイルズ)
+      </a>
+      <br />
+      当バンドの唯一作。クリムゾンの1stとは全く違った牧歌的な雰囲気と音色が美しい作品です。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Last Tango,ラスト・タンゴ,エスペラント,Esperanto,プログレ,名盤,シンフォ" />
+  <meta name="description" content="多国籍なメンバーと大人数での編成、重厚なストリングスが特徴的な、プログレの中でも唯一な存在のバンド。" />
+  <title>
+   Last Tango (ラスト・タンゴ) - Esperanto (エスペラント) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/last_tango.html"-->
+    <h1>
+     Last Tango (ラスト・タンゴ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/last_tango.jpg" border="0" alt="last_tango.jpg(26765 byte)" />
+     <div class="content">
+      ラスト・タンゴは、その名の通りEsperantoの残した最後の作品。<br />
+      このアルバムもEsperantoらしく、二人のバイオリンと一人のチェロを含め、<span class="black">合計で８人というストリングス中心の大所帯</span>で、重厚なバイオリンとコーラスが特徴的な楽曲が多いです。<br /><br />
+      ①「Eleanor Rigby」はビートルズのアルバム「Revolver」収録の名曲のカバー作品です。原曲もストリングスを使った美しい演奏が魅力ですが、Esperantoのバージョンは<span class="red">重厚感が１００倍増しといった感じで、原曲にはない凄まじい圧力</span>がある、いかにもEsperantoらしい作品に仕上がっています。<br />
+      歌が始まるまでカバーだと気づかなかったほど。しかしこれはこれで名演だと思います。<br /><br />
+      女性ボーカルがたくましく歌い上げる④「Obesession」も良い。<br />
+      ⑤「The Rape」も名曲。何層にも畳み掛けるストリングスとボーカルの勢いが凄まじく、<span class="red">次から次へと押し寄せる音の濁流に飲まれている感じ</span>であっという間に１２分終わります。<br /><br />
+      総じて、音の美しさと圧力が凄まじい。<span class="red">バイオリンを使った作品としてはプログレの中でも随一</span>だと思います。必聴。
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/T2V1MTGWJgA" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00008PT36&amp;nou=1&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Bancod Del Mutto Soccorso 「<a class="album-name" href="/progressive_rock/banco_del_mutuo_soccorso/darwin.shtml">Darwin!</a>」
+        </li>
+        <li>
+         New Trolls 「<a class="album-name" href="/progressive_rock/new_trolls/concerto_grosso.shtml">CONCERTO GROSSO PER 1</a>」
+        </li>
+       </ul>
+      </div>
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

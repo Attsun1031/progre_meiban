@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   The Who (ザ・フー) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="HR/HM,名盤,ハードロック,ザ・フー,the who" />
+  <meta name="description" content="イギリスの代表的ロックバンド。モッズ系の象徴的存在です。結成は1964年と、古株。パフォーマンスが突飛な印象があります。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/who.html"-->
+    <h1>
+     The Who (ザ・フー)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      イギリスの代表的ロックバンド。モッズ系の象徴的存在です。結成は1964年と、古株。
+      <br />
+      名ドラマー、キース・ムーンの異常なまでの暴力的パフォーマンス、ピート・タウンゼントの腕をぐるぐる回し、飛び跳ねながら弾くギターなど、パフォーマンスが突飛な印象があります。
+      <br />
+      個人的には好きでも嫌いでもありませんが、たまーに「これは！」という曲があったりします。まぁ有名どこなのでとりあえず押さえておきましょう。
+      <br />
+      <br />
+      My Generationが最も有名かと思いますが、これを聴くとマシュー南（藤井隆）を思い出してしまうのは僕だけでしょうか？あの番組好きだったなぁ。。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/whos_next.jpg" border="0" alt="whos_next.jpg(22867 byte)" />
+      <a class="album-name" href="/other_rock/who/whos_next.shtml">
+       Who's Next (フーズ・ネクスト)
+      </a>
+      <br />
+      The Whoの傑作。「Baba O'Riley」や「Won't Get Fooled Again」といった良曲がありますが、デラックスエディション収録の「Young Man Blues」を是非とも聴いて頂きたいです。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

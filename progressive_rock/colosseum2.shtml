@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Colosseum II (コロシアム II) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="プログレ,名盤,イギリス,ジャズロック,ColosseumII,コロシアムII" />
+  <meta name="description" content="名ドラマーのジョン・ハインズマンが新たに結成したジャズロックバンド。若き日のゲイリー・ムーアが在籍していた。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/colosseum2.html"-->
+    <h1>
+     Colosseum II (コロシアム II)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      ジョン・ハイズマンを中心に、ドン・エイリー(
+      <a href="/other_rock/rainbow.shtml">
+       レインボー
+      </a>
+      や
+      <a href="/other_rock/deep_purple.shtml">
+       ディープ・パープル
+      </a>
+      といったハードロックバンドで活躍)やゲイリー・ムーアといった名プレーヤーを輩出したジャズロックバンド。
+            			ColosseumII以前に、ハイズマンは
+      <a href="/progressive_rock/colosseum.shtml">
+       コロシアム
+      </a>
+      、テンペストといったジャズとロックの融合を試みたバンドを結成しています。
+            			ジャズならではの、緊張感溢れるインタープレイが聴きどころ。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/wardance.jpg" border="0" alt="wardance.jpg(18347 byte)" />
+      <a class="album-name" href="/progressive_rock/colosseum2/war_dance.shtml">
+       War Dance (ウォーダンス)
+      </a>
+      <br />
+      ゲイリー・ムーアやドン・エイリーといった名プレーヤーとジョン・ハイズマンの死闘。「Inquisition」でのハイズマン、ムーアのプレイはまさに火花散る迫力。ジャズロックの名曲です。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

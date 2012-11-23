@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:mixi="http://mixi-platform.com/ns#">
+  <head>
+    <meta name="keywords" content="プログレ,名盤,ロック,progressiverock,rock,ジャズロック,jazz,ポップス,レビュー,名曲" />
+    <meta name="description" content="プログレッシブロックをはじめ、ハードロック、ジャズロック、その他ロックの名盤を中心に紹介していきます。" />
+    <title>プログレ名盤選 -プログレッシブ・ロック、ジャズ・ロックを始めとした名盤を紹介します</title>
+    <!--#include file="common/head.shtml"-->
+  </head>
+  <body>
+    <div id="body">
+      <div id="header">
+        <!--#include file="common/header.shtml"-->
+      </div>
+      <div id="navi">
+        <!--#include file="common/navi.shtml"-->
+      </div>
+      <div id="main">
+        <h1>TOP PAGE</h1>
+        <!--#include virtual="/common/social.html"-->
+        <div id="main-content">
+          <div class="content">
+            プログレッシブロックをはじめ、ハードロック、ジャズロック、その他ロックの名盤を中心に紹介していきます。
+            なお、紹介文には当然私自身の好みが色濃く反映さてますので、参考程度に見て頂ければなと思っています。<br /><br />
+            ※<a href="http://www.facebook.com/pages/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E5%90%8D%E7%9B%A4%E9%81%B8/231394190242841">facebookページ</a>と<a href="http://p.mixi.jp/progre_meiban">mixiページ</a>を開設してみました。<br /><br />
+            ご感想等は<a class="mail-address"></a>にお願い致します。メッセージ頂けると喜びます！
+
+            <h3>◎一押しの名盤</h3>
+            <img class="m-artwork" src="/img/artwork/el_patio.jpg" border="0" alt="el_patio.jpg(28606 byte)" />
+            <a class="album-name" href="/progressive_rock/triana/el_patio.shtml">
+             El Patio
+            </a>
+            <br />
+            スペインの生んだ、渾身のフラメンコロック。熱いです。迫力と悲壮感が同居しています。名盤。
+            <p class="clear-left">
+            </p>
+
+            <h3>◎更新情報</h3>
+            <!--#include file="common/update_info.html"-->
+
+            <h3>◎誕生日の近いアーティスト</h3>
+            <!--#include file="common/birthday.html"-->
+
+            <h3>◎管理人</h3>
+            ドラムを嗜むプログレ信者です。<br />
+            高校の時に聴いたクイーンに衝撃を受け、ロックにのめり込んでいきました。<br />
+            好きなバンドはピンク・フロイドとキャラバンとサザン。基本的にプログレ好きですが、それでもなお桑田佳祐が大好きです。<br />
+            最近のマイブームは上原ひろみ。<br /><br />
+            お手柔らかにお願いします。<br /><br />
+            Twitterアカウントは、<br /><a href="http://twitter.com/Attsun1031" target="_blank">Attsun1031</a><br />です。お気軽に出入りしてください。
+          </div>
+        </div>
+      </div>
+      <div id="footer">
+        <!--#include file="common/footer.shtml"-->
+      </div>
+    </div>
+  </body>
+</html>

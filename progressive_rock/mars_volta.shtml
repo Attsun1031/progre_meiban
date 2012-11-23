@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="プログレ,アメリカ,メタル,マーズ・ヴォルタ,the mars volta" />
+  <meta name="description" content="21世紀を代表するプログレッシブ・ロックバンドといったら筆頭はこのバンド。1stの完成度の高さは圧倒的。" />
+  <title>
+   The Mars Volta (マーズ・ヴォルタ) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/mars_volta.html"-->
+    <h1>
+     The Mars Volta (マーズ・ヴォルタ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      アメリカ
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      21世紀を代表するプログレッシブ・ロックバンドの筆頭。
+      <br />
+      <br />
+      狂気的で破壊的ながら良く練られた複雑な曲と確かな技術が特徴的。プログレ・メタルとか言われたりしてます。
+      <br />
+      ボーカルのセドリックが素晴らしいですね。マーズ・ヴォルタの狂気さはバックの演奏の激しさ、うまさだけではなく彼のボーカルがかなり寄与しています。
+      <br />
+      20世紀の名盤たちと並べても遜色ない作品もあるので是非とも聴いて頂きたいです。「De-Loused in the Comatorium」は必聴ですよ。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/de_loused_in_the_comatorium.jpg" border="0" alt="de_loused_in_the_comatorium.jpg(15342 byte)" />
+      <a class="album-name" href="/progressive_rock/mars_volta/de_loused_in_the_comatorium.shtml">
+       De-Loused in the Comatorium (ディラウズド・イン・ザ・コーマトリアム)
+      </a>
+      <br />
+      1stアルバムですが、完成度の高さと演奏の迫力は圧倒的。間違いなく名盤です。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/Amputechture.jpg" border="0" alt="Amputechture.jpg(20906 byte)" />
+      <a class="album-name" href="/progressive_rock/mars_volta/amputechture.shtml">
+       Amputechture (アンピュテクチャー)
+      </a>
+      <br />
+      聴きどころは①「Vicarious Atonement」から②「Tetragrammaton」への流れでしょう。①が終わると同時に、間髪入れず②「Tetragrammaton」の激しいイントロが斬り込んでくる。1stで見せた激しい狂騒っぷりは健在。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

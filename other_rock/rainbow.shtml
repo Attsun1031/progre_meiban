@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Rainbow (レインボー) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="HR/HM,名盤,ハードロック,Rainbow,レインボー,ディオ,リッチー・ブラックモア,コージー・パウエル" />
+  <meta name="description" content="レインボーは元ディープ・パープルのリッチー・ブラックモアがパープル脱退後に結成したバンド。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/rainbow.html"-->
+    <h1>
+     Rainbow (レインボー)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      レインボーは元
+      <a href="/other_rock/deep_purple.shtml">
+       ディープ・パープル
+      </a>
+      のリッチー・ブラックモアがパープル脱退後に結成したバンド。
+      <br />
+      ハードロックの中ではパープルと同じくらい好きです（ディオ、ボネット在籍時に限りますが）。
+      <br />
+      <br />
+      ロニー・ジェイムス・ディオ、グラハム・ボネットを一躍スターダムにのし上げたのはレインボーだと思います。そういう意味では、歴史的にも結構重要なバンドだったりする。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/rising.jpg" border="0" alt="rising.jpg(21089 byte)" />
+      <a class="album-name" href="/other_rock/rainbow/rising.shtml">
+       Rising (虹を翔る覇者)
+      </a>
+      <br />
+      三頭政治の力がいかんなく発揮された傑作。「A Light in the Black」はレインボー史上最高の名曲です。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/long_live_rocknroll.jpg" border="0" alt="long_live_rocknroll.jpg(26516 byte)" />
+      <a class="album-name" href="/other_rock/rainbow/long_live_rocknroll.shtml">
+       Long Live Rock 'n' Roll (バビロンの城門)
+      </a>
+      <br />
+      レインボー黄金期の代表作。「Gates of Babylon」、「Kill the King」といった名曲目白押しです。ハードロック好きなら必聴でしょう。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/DownToEarth.jpg" border="0" alt="DownToEarth.jpg(26243 byte)" />
+      <a class="album-name" href="/other_rock/rainbow/down_to_earth.shtml">
+       Down to Earth (ダウン・トゥ・アース)
+      </a>
+      <br />
+      ボーカルにグラハム・ボネットを起用した傑作。「Eyes Of The World」はレインボーの名曲です。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

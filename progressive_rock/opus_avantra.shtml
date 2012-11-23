@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Opus Avantra,オパス・アヴァントラ,前衛,プログレ,イタリア" />
+  <meta name="description" content="バンド名「Opus Avantra」とは、アヴァンギャルドとトラディショナルを融合させた造語で、過去と現在を再開させることを意図しているそうです。1stは必聴。" />
+  <title>
+   Opus Avantra (オパス・アヴァントラ) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/opus_avantra.html"-->
+    <h1>
+     Opus Avantra (オパス・アヴァントラ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イタリア
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      イタリアのプログレッシブ・ロックの中でも、最も「プログレッシブ」なバンドのひとつ。
+      <br />
+      このバンドをロックのジャンルに分けるのも躊躇します。分けるとすれば、前衛音楽。
+      <br />
+      <br />
+      バンド名「Opus Avantra」とは、アヴァンギャルドとトラディショナルを融合させた造語で、過去と現在を再開させることを意図しているそうです。この辺で、重度のプログレ病の方は興味をそそられていることでしょう。
+      <br />
+      メンバーは、ピアノのアルフレッド・ティソッコ、オペラ教育を受けた女性ヴォーカルのドネラ・デル・モナコ、そして"芸術哲学、コンセプト"担当のジョルジョ・ピゾット。メンバーに芸術哲学担当がいるバンドなんてなかなか無いんでは。まさにイタリアの生んだ芸術集団。勿論、楽器はヴァイオリンやフルート等も使われています。1stはすごいぞ。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/introspezione.jpg" border="0" alt="introspezione.jpg(10010 byte)" />
+      <a class="album-name" href="/progressive_rock/opus_avantra/introspezione.shtml">
+       Introspezione (内省)
+      </a>
+      <br />
+      狂気じみていますが、普通に格好良かったりもします。とても落ち着いて聴いてられない緊張感。癖になります。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

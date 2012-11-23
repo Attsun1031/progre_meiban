@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="ORFEO9,ロック・オペラ,Tito Schipa Jr,イタリア,プログレ,名盤" />
+  <meta name="description" content="イタリア発のロック・オペラ作品。TitoとBerteのボーカルを中心に繰り出されるドラマティックなメロディは心に響くものがあります。イタリアを代表する名盤。" />
+  <title>
+   ORFEO9 - Tito Schipa Jr. - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/orfeo9.html"-->
+    <h1>
+     ORFEO9
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/orfeo9.jpg" border="0" alt="orfeo9.jpg(26099 byte)" />
+     <div class="content">
+      1973年発の1stアルバム。２枚組です<br />
+      作品は「ロック・オペラ」と位置づけられており、発売よりも前の1970年からミュージカルとして演奏されていたようです。<br /><br />
+      この時代、イタリアでもAreaの「<a href="/progressive_rock/area/Arbeitmachtfrei.shtml">Arbeit Macht Frei</a>」など多くの名盤が生み出されていますが、この作品は知名度こそ落ちるものの、<span class="red">それらの名盤たちと比較しても遜色ない、胸を張って名盤と言える作品</span>です。<br /><br />
+      内容は、時に叙情的で美しいメロディ、時に熱く激しいドラマティックなメロディが目まぐるしく入れ替わり、まさに一つの壮大な物語を見ているような感覚を味わえます。<br />
+      特に耳を奪われるのは、１枚目４曲目「Vieni Sole」のような、<span class="red">Titoと女性ボーカルのLoredana Berteがドラマティックで激しいメロディを歌い上げる</span>箇所でしょうか。非常に印象的で格好良くて尚且つ覚えやすいメロディなので、これを聴いてしばらくは頭の中でエンドレスループしていました。<br /><br />
+      怒涛のクライマックスを飾る２枚目１０曲目「La citta fatta a inferno」もギターを中心としたヘヴィーなメロディの上で展開される<span class="black">Titoとレナート・ゼロによる情熱と悲哀に満ちたボーカルが非常に魅力的</span>で、一度聴いたら頭から離れません。<br /><br />
+      イタリア屈指の大作です。本当に。イタリアンプログレが好きな方は必聴です。
+      </div>
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/fzd8S13Vk1I" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B001TKRM38&amp;nou=1&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Banco Del Mutuo Soccorso 「<a href="/progressive_rock/banco_del_mutuo_soccorso/darwin.shtml">Darwin!</a>」
+        </li>
+        <li>
+         Museo Rosenbach 「<a href="/progressive_rock/museo_rosenbach/zarathustra.shtml">Zarathustra（ツァラトゥストラ組曲）</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

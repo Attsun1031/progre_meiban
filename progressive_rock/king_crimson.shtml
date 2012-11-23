@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="プログレ,キング・クリムゾン,king crimson,ロック" />
+  <meta name="description" content="キング・クリムゾンはプログレ5大バンドの筆頭。つべこべ言わず聴いて下さい。" />
+  <title>
+   King Crimson (キング・クリムゾン) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/king_crimson.html"-->
+    <h1>
+     King Crimson (キング・クリムゾン)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      プログレ5大バンドの筆頭。プロ野球選手に例えるとしたら王貞治か長嶋茂雄か。
+      <br />
+      まぁ、ロックが好きなら
+      <span class="red">
+       つべこべ言わず聴け
+      </span>
+      、そういことです。絶対好きになる、と言う訳じゃないですけど、このバンドを知らないと話しができないと思いますよー。
+      <br />
+      少なくとも1stとRedは聴いて欲しいですね。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/in_the_court_of_the_crimson_king.jpg" alt="red.jpg(2854 byte)" />
+      <a class="album-name" href="/progressive_rock/king_crimson/in_the_court_of_the_crimson_king.shtml">
+       In The Court Of The Crimson King (クリムゾン・キングの宮殿)
+      </a>
+      <br />
+      ロックミュージックに革命を起こした歴史的名盤。プログレッシブ・ロックの歴史はこのアルバムからスタートした言っても間違いないでしょう。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/LarksToungeInAspic.jpg" border="0" alt="LarksToungeInAspic.jpg(16057 byte)" />
+      <a class="album-name" href="/progressive_rock/king_crimson/larks_tongues_in_aspic.shtml">
+       Larks' Tongues in Aspic (太陽と戦慄)
+      </a>
+      <br />
+      美と恐怖を感じさせる名盤。クリムゾンらしく、緊張感の高さがハンパじゃない。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/starless_and_bible_black.jpg" border="0" alt="starless_and_bible_black.jpg(9266 byte)" />
+      <a class="album-name" href="/progressive_rock/king_crimson/starless_and_bible_black.shtml">
+       Starless And Bible Black (暗黒の世界)
+      </a>
+      <br />
+      全体的に暗鬱さが漂ってます。前作「太陽と戦慄」や次作「レッド」のような完成された感はありませんが、ところどころに耳を傾けるべきフレーズが溢れる実験的な作品です。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/red.jpg" alt="red.jpg(2854 byte)" />
+      <a class="album-name" href="/progressive_rock/king_crimson/red.shtml">
+       Red (レッド)
+      </a>
+      <br />
+      1stとこのアルバムがキング・クリムゾンの双頭。当然必聴。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Atlantis,アトランティス,Earth and Fire,オランダ,プログレ,名盤,シンフォ,叙情" />
+  <meta name="description" content="叙情サウンドが好きな人必聴の名盤。歪んだギターが奏でるメロディとJermeyの美しく幻想的なボーカルにはついつい耳を奪われてしまいます。" />
+  <title>
+   Atlantis (アトランティス) - Earth and Fire - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/atlantis.html"-->
+    <h1>
+     Atlantis (アトランティス)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/atlantis.jpg" border="0" alt="atlantis.jpg" />
+     <div class="content">
+      本作は、オランダのシンフォ系プログレバンドEarth and Fireの代表作にして、叙情系サウンドを特色とする好盤。<br /><br />
+      16分を超す①「Atlantis」が名曲。<a href="/progressive_rock/camel.shtml">Camel</a>のような<span class="black">叙情系サウンドが好きな方は開始２秒くらいで虜になると思います</span>。<br />
+      冒頭の、3連符のリズムの上で歪んだギターが奏でる流れるような、叙情溢れるメロディは秀逸です。その後に続くJerneyの麗しくもあり幻想的でもあるボーカルがまた良い。<br /><br />
+      この作品、確かに叙情性溢れる名盤なんですが、ユーロロックによくあるような濃くて仰々しい感じの音は全くなく、<span class="red">どこまでも緩やかで良い意味でつかみ所のない</span>感じです。エキゾチックなジャケットも、ユーロとは一線を画す感じがします。<br /><br />
+      ちなみにボーカルのJerneyは<a href="/progressive_rock/focus.shtml">Focus</a>のベーシストであったBert Ruiterと結婚したようです。
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/gCU5bejPF8c" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B002ECN400&amp;nou=1&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Asia Minor 「<a class="album-name" href="/progressive_rock/asia_minor/between_flesh_and_divine.shtml">Between Flesh And Divine</a>」
+        </li>
+        <li>
+         Itoiz 「<a href="/progressive_rock/itoiz/itoiz.shtml">Itoiz</a>」
+        </li>
+       </ul>
+      </div>
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Pink Floyd (ピンク・フロイド) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="プログレ,名盤,イギリス,Pink Floyd,ピンク・フロイド" />
+  <meta name="description" content="プログレ5大バンドのひとつ、ピンク・フロイド。このバンドの最大の魅力は、その場にいながらどこか宇宙の果てにでも漂っている感覚を味わえることです。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/pink_floyd.html"-->
+    <h1>
+     Pink Floyd (ピンク・フロイド)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      プログレ5大バンドのひとつ、ピンク・フロイド。このバンドの最大の魅力は、
+      <span class="black">
+       その場にいながらどこか宇宙の果てにでも漂っている感覚を味わえる
+      </span>
+      ことです。
+      <br />
+      こんな体験できるバンドはフロイド以外ありませんよー。
+      <br />
+      その音楽性に最大の貢献をしているのはデイヴィッド・ギルモアのギターだと思います。哀愁が漂いながらも渋く、クールな音色。高音域の使い方。独特の味があります。
+      <br />
+      まぁこのバンドも四の五の言わず聴いとけってとこです。「狂気」、「炎」、「おせっかい」くらいは聴いておきたいですね。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/AtomHeartMother.jpg" border="0" alt="AtomHeartMother.jpg(19518 byte)" />
+      <a class="album-name" href="/progressive_rock/pink_floyd/atom_heart_mother.shtml">
+       Atom Heart Mother (原子心母)
+      </a>
+      <br />
+      ピンク・フロイドをピンク・フロイド足らしめた傑作。初期のサイケ音楽から大きく進化しております。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/meddle.jpg" border="0" alt="meddle.jpg(14151 byte)" />
+      <a class="album-name" href="/progressive_rock/pink_floyd/meddle.shtml">
+       Meddle (おせっかい)
+      </a>
+      <br />
+      23分を超す大作「Echoes」は、プログレを語る上で外せない名曲中の名曲です。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/dark_side_of_the_moon.jpg" border="0" alt="dark_side_of_the_moon.jpg" />
+      <a class="album-name" href="/progressive_rock/pink_floyd/dark_side_of_the_moon.shtml">
+       The Dark Side Of The Moon (狂気)
+      </a>
+      <br />
+      全世界で4500万枚以上のセールスを記録する、世界のあらゆる音楽を代表する歴史的超絶名盤。全ての人に聴いてほしい。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/Wishyouwerehere.jpg" border="0" alt="Wishyouwerehere.jpg(3155 byte)" />
+      <a class="album-name" href="/progressive_rock/pink_floyd/wish_you_were_here.shtml">
+       Wish you were here (炎~あながたここにいてほしい~)
+      </a>
+      <br />
+      狂気の次作、隠れた傑作。僕はこっちの方が好きかもしれない。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/Pulse.jpg" border="0" alt="Pulse.jpg(30123 byte)" />
+      <a class="album-name" href="/progressive_rock/pink_floyd/pulse.shtml">
+       P.U.L.S.E (パルス)
+      </a>
+      <br />
+      1995年のライブアルバム「Comfortably Numb」史上最高のギターソロ。狂気も完全再現。
+      <br />
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,298 @@
+<ul>
+  <li class="first-list special-list">
+    <ul>
+      <li class="list-name"><div class="list-title">特集</div></li>
+      <li class="second-list special-list">
+        <div class="genre-name">プログレ特集</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/special/progressive_rock/for_progre_beginners.shtml">初心者向けプログレ名盤集</a>
+          </li>
+          <li>
+            <a href="/special/progressive_rock/progre_masterpiece.shtml">プログレ名盤集</a>
+          </li>
+          <li>
+            <a href="/special/progressive_rock/10_masterpiece.shtml">プログレ名盤10選</a>
+          </li>
+        </ul>
+      </li>
+      <li class="second-list special-list">
+        <div class="genre-name">その他特集</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/special/others/jazz_rock_masterpiece.shtml">ジャズロック名盤集</a>
+          </li>
+          <li>
+            <a href="/special/others/shocking_songs.shtml">衝撃を受けた名曲集</a>
+          </li>
+          <li>
+            <a href="/special/others/for_drammers.shtml">ドラム好きに捧ぐ名盤集</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li class="first-list band-list">
+    <ul>
+      <li class="list-name"><div class="list-title">ジャンル別バンドリスト</div></li>
+      <li class="second-list">
+        <div class="genre-name">プログレ (イギリス)</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/progressive_rock/camel.shtml">Camel</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/caravan.shtml">Caravan</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/colosseum.shtml">Colosseum</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/colosseum2.shtml">ColosseumⅡ</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/david_gilmour.shtml">David Gilmour</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/elp.shtml">Emerson, Lake &amp; Palmer</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/england.shtml">England</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/esperanto.shtml">Esperanto</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/genesis.shtml">Genesis</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/jethro_tull.shtml">Jethro Tull</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/king_crimson.shtml">King Crimson</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/mcdonald_and_giles.shtml">McDonald and Giles</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/national_health.shtml">National Health</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/pink_floyd.shtml">Pink Floyd</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/soft_machine.shtml">Soft Machine</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/uk.shtml">UK</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/yes.shtml">Yes</a>
+          </li>
+        </ul>
+      </li>
+      <li class="second-list">
+        <div class="genre-name">プログレ (ヨーロッパ)</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/progressive_rock/anyones_daughter.shtml">Anyone's Daughter</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/alphataurus.shtml">Alphataurus</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/area.shtml">Area</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/asia_minor.shtml">Asia Minor</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/atoll.shtml">Atoll</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/banco_del_mutuo_soccorso.shtml">Banco Del Mutuo Soccorso</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/cervello.shtml">Cervello</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/earth_and_fire.shtml">Earth and Fire</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/focus.shtml">Focus</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/goblin.shtml">Goblin</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/gong.shtml">Gong</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/i_camaleonti.shtml">I Camaleonti</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/il_volo.shtml">Il Volo</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/itoiz.shtml">Itoiz</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/latte_e_miele.shtml">Latte E Miele</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/locanda_delle_fate.shtml">Locanda Delle Fate</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/magma.shtml">Magma</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/museo_rosenbach.shtml">Museo Rosenbach</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/new_trolls.shtml">New Trolls</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/opus_avantra.shtml">Opus Avantra</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/osanna.shtml">Osanna</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/pfm.shtml">Premiata Forneria Marconi</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/quella_vecchia_locanda.shtml">Quella Vecchia Locanda</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/tai_phong.shtml">Tai Phong</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/tito_schipa_jr.shtml">Tito Schipa Jr.</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/triana.shtml">Triana</a>
+          </li>
+        </ul>
+      </li>
+      <li class="second-list">
+        <div class="genre-name">プログレ (アメリカ,アジア他)</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/progressive_rock/captain_beyond.shtml">Captain Beyond</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/kansas.shtml">Kansas</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/mahavishnu_orchestra.shtml">Mahavishnu Orchestra</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/mars_volta.shtml">Mars Volta</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/sagrado_coracao_da_terra.shtml">Sagrado Coracao Da Terra</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/sebastian_hardie.shtml">Sebastian Hardie</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/sheshet.shtml">Sheshet</a>
+          </li>
+          <li>
+            <a href="/progressive_rock/yoninbayashi.shtml">四人囃子</a>
+          </li>
+        </ul>
+      </li>
+      </li>
+      <li class="second-list">
+        <div class="genre-name">ジャズ・フュージョン</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/jazz/al_di_meola.shtml">Al Di Meola</a>
+          </li>
+          <li>
+            <a href="/jazz/brand_x.shtml">Brand X</a>
+          </li>
+          <li>
+            <a href="/jazz/chick_corea.shtml">Chick Corea</a>
+          </li>
+          <li>
+            <a href="/jazz/return_to_forever.shtml">Return to Forever</a>
+          </li>
+          <li>
+            <a href="/jazz/uehara_hiromi.shtml">上原ひろみ</a>
+          </li>
+        </ul>
+      </li>
+      <li class="second-list">
+        <div class="genre-name">HR/HMなどのロック</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/other_rock/black_sabbath.shtml">Black Sabbath</a>
+          </li>
+          <li>
+            <a href="/other_rock/santana_mclaughlin.shtml">Carlos Santana &amp; John McLaughlin</a>
+          </li>
+          <li>
+            <a href="/other_rock/deep_purple.shtml">Deep Purple</a>
+          </li>
+          <li>
+            <a href="/other_rock/eagles.shtml">Eagles</a>
+          </li>
+          <li>
+            <a href="/other_rock/jeff_beck.shtml">Jeff Beck</a>
+          </li>
+          <li>
+            <a href="/other_rock/led_zeppelin.shtml">Led Zeppelin</a>
+          </li>
+          <li>
+            <a href="/other_rock/queen.shtml">Queen</a>
+          </li>
+          <li>
+            <a href="/other_rock/rainbow.shtml">Rainbow</a>
+          </li>
+          <li>
+            <a href="/other_rock/santana.shtml">Santana</a>
+          </li>
+          <li>
+            <a href="/other_rock/ufo.shtml">UFO</a>
+          </li>
+          <li>
+            <a href="/other_rock/white_stripes.shtml">The White Stripes</a>
+          </li>
+          <li>
+            <a href="/other_rock/who.shtml">The Who</a>
+          </li>
+          <li>
+            <a href="/other_rock/x_japan.shtml">X Japan</a>
+          </li>
+        </ul>
+      </li>
+      <li class="second-list">
+        <div class="genre-name">日本のポップス、フォーク</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/other_music/kuwata_keisuke.shtml">桑田佳祐</a>
+          </li>
+          <li>
+            <a href="/other_music/southern_all_stars.shtml">サザンオールスターズ</a>
+          </li>
+        </ul>
+      </li>
+      <li class="second-list">
+        <div class="genre-name">吹奏楽、ビッグバンド</div>
+        <ul class="band-name-list">
+          <li>
+            <a href="/big_band/oedo_wind_orchestra.shtml">大江戸ウィンドオーケストラ</a>
+          </li>
+		  <li>
+            <a href="/big_band/tokyo_ska_paradise_orchestra.shtml">東京スカパラダイスオーケストラ</a>
+          </li>
+
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>

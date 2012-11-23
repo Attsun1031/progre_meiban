@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Crac!,クラック,Area,アレア,デメトリオ・ストラトス,プログレ,イタリア,名盤" />
+  <meta name="description" content="1stから続く変態的な攻撃性と技術、ボーカルは健在です。アレアお得意のアラビア風なエキゾチックメロディが炸裂。" />
+  <title>
+   Crac! (クラック！) - Area (アレア) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/crac.html"-->
+    <h1>
+     Crac! (クラック！)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/crac.jpg" border="0" alt="crac.jpg(22881 byte)" />
+     <div class="content">
+      アレアの3rdアルバム。
+      <br />
+      やはり、1stから続く変態的な攻撃性と技術、ボーカルは健在です。
+      <br />
+      <span class="black">
+       期待を裏切らない
+      </span>
+      。
+      <br />
+      <br />
+      ①「L'elefante bianco」ではアレアお得意のアラビア風なエキゾチックメロディが炸裂。
+      <span class="red">
+       この独特のメロディと怒涛の迫力、これぞアレア！！と言いたくなる曲
+      </span>
+      です。
+      <br />
+      ⑥「Imposion」でもジャズロック的な（あくまでも”的”な）インタープレイの応酬が堪能できます。同じくジャズロック系のバンドで
+      <a href="/progressive_rock/soft_machine.shtml">
+       ソフト・マシーン
+      </a>
+      がいますが、ソフト・マシーンの音楽は暗くどんよりとした中に妙な迫力があるのと対象に（後期はそうでもないけど）、アレアの音楽はあっけらかんとした明るさがあります。
+      <br />
+      <br />
+      そして締めは⑦「Area 5」。まぁ、いわゆる実験音楽です。とにかくめちゃめちゃにやってみましたって感じ。こういう実験音楽でも、デメトリオ・ストラトスのボーカルがしっくりきてしまうのは謎。
+      <div class="youtube-movie">
+       <iframe width="420" height="345" src="http://www.youtube.com/embed/6tKHDfZ_EG4" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B002CVQ8WO&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         <a href="/progressive_rock/soft_machine/softs.shtml">
+          Soft Machine 「Softs (ソフツ)」
+         </a>
+        </li>
+       </ul>
+      </div>
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

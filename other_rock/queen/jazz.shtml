@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Jazz,ジャズ,Queen,クイーン" />
+  <meta name="description" content="クイーンの7作目。⑦「Don't Stop Me Now」が有名ですね。" />
+  <title>
+   Jazz (ジャズ) - Queen (クイーン) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/other_rock/jazz.html"-->
+    <h1>
+     Jazz (ジャズ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/jazz_queen.jpg" border="0" alt="jazz_queen.jpg(26495 byte)" />
+     <div class="content">
+      Jazzはクイーンの7作目。ジャズと言っても、音楽のJazzではなく、「戯言」のような意味だそうです。<br />
+      この作品、<span class="black">個人的には非常に思い入れのある作品</span>です。<br /><br />
+      ①「Mustapha」は露骨なまでにアラビアンな雰囲気を出した曲。しかし、なかなか迫力のある良い曲。<span class="black">フレディの表現力豊かなボーカルと、バックの確かなコーラスワークがあってこその作品。</span>そういう意味では、非常にクイーンらしい作品でもあります。<br /><br />
+      ④「Bicycle Race」は日本でも結構有名な曲ですね。この曲も、楽器の演奏というよりは、フレディのボーカルとバックのコーラスが主体となっている曲ですね。「バーイシクル、バーイシクル」というフレーズが有名かな。<br /><br /><br />
+      そして、この作品に対する思い入れを深くさせているのが⑦「Don't Stop Me Now」。日本でもテレビ等で頻繁に流れているので一般の人でも耳にしたことがある人は多いでしょう。<br /><br />
+      僕個人として、どうして思い入れが深いかというと、<span class="red">この曲が僕をロックミュージックの深淵に引きずり込んだ張本人だから。</span><br />
+      まだ自分が中学生でロックのロの字すら知らない頃、親が借りてきた洋楽オムニバスアルバムに入っていたのを聴いてエライ気に入ってしまったのです。<br />
+      当時、音楽に対しては興味がなかった（というか、自分が音痴なせいで嫌悪感すらあった）僕にとっては衝撃的な出来事でしたよ。<br />
+      それ以来、クイーンにはまり、ハードロックにはまり、プログレにはまりまくり、今に至るわけです。<br /><br />
+      当然、楽曲自体もノリがよく、思わず楽しくなるような作品です。まぁ思い入れが深すぎるので客観的なレビューはできません。
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/HgzGwKwLmgM" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B004WS7QPS&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Queen 「<a href="/other_rock/queen/innuendo.shtml">Innuendo</a>」
+        </li>
+       </ul>
+      </div>
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

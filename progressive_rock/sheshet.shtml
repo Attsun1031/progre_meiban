@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Sheshet (シシェット) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="プログレ,名盤,Sheshet,シシェット,イスラエル,辺境,中東" />
+  <meta name="description" content="" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/sheshet.html"-->
+    <h1>
+     Sheshet (シシェット)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イスラエル
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      珍しく、イスラエル出身のプログレッシブロックバンド。プログレにジャンル分けされてますが、中身は正統派ジャズロック。良くも悪くも中東臭さは全く感じさせない洗練っぷりです。1977年にセルフタイトルを一枚残したのみ。
+      <br />
+      2011年の「プログレ三昧」（NHK-FM）で紹介されてましたね。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="../img/artwork/sheshet.jpg" border="0" alt="sheshet.jpg(14652 byte)" />
+      <a class="album-name" href="/progressive_rock/sheshet/sheshet.shtml">
+       Sheshet
+      </a>
+      <br />
+      Sheshetの唯一作。ピアノとフルートをベースとした正統派ジャズロックアルバム。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

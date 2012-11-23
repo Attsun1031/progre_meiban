@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="サザンオールスターズ,日本,桑田佳祐,ポップス,ロック,人気者で行こう" />
+  <meta name="description" content="1984年発表のサザンの傑作。「JAPANEGGAE」、「よどみ萎え、枯れて舞え」の言葉遊びは芸術の領域。" />
+  <title>
+   人気者で行こう - サザンオールスターズ - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/other_music/ninkimono.html"-->
+    <h1>
+     人気者で行こう
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/Ninkimono.jpg" border="0" alt="Ninkimono.jpg(15088 byte)" />
+     <div class="content">
+      次作「
+      <a href="/other_music/southern_all_stars/kamakura.shtml">
+       KAMAKURA
+      </a>
+      」に匹敵するサザンオールスターズの名盤。
+      <br />
+      <br />
+      ①「JAPANEGGAE」と②「よどみ萎え、枯れて舞え」での
+      <span class="red">
+       言葉遊びの巧みさは芸術的です。
+      </span>
+      リズムも良い。”愛苦ねば世も知れず”、”不思議な友情も何の愛情もケセラ・セラ”とかね。桑田の才能を感じさせます。
+      <br />
+      <br />
+      ③「ミス・ブランニュー・デイ」はシングルカットされた名曲。イントロから、原由子のシンセと松田のドラムが良い雰囲気を醸しています。、桑田のテンポの良い歌唱も聴き応えあり。
+      <br />
+      <br />
+      上記3曲を始め、
+      <span class="black">
+       アルバムとしてのクオリティは本当に高い
+      </span>
+      ので、是非とも聴いてみてください。
+      <br />
+      <br />
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00005GXM3&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

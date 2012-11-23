@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="aldimeola,アルディメオラ,elegantgypsy,エレガント・ジプシー,パコデルシア" />
+  <meta name="description" content="アル・ディ・メオラ、パコ・デ・ルシア、スティーブ・ガッド等、豪華な演奏陣による良作" />
+  <title>
+   Elegant Gypsy (エレガント・ジプシー) - Al Di Meola (アル・ディ・メオラ) - プログレ、ロック名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/jazz/elegant_gypsy.html"-->
+    <h1>
+     Elegant Gypsy (エレガント・ジプシー)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/ElegantGypsy.jpg" border="0" alt="ElegantGypsy.jpg(28629 byte)" />
+     <div class="content">
+      <span class="black">
+       聴きどころは１曲目の「Flight Over Rio」。
+      </span>
+      ドラムにスティーブ・ガッド、ベースにアンソニー・ジャクソン、キーボードにヤン・ハマー、パーカッションにミンゴ・ルイスという豪華な布陣に見合った素晴らしい曲。
+      <br />
+      特に、中間部分は圧巻。ガッドの跳ねるようなドラムの上で暴れるギターとキーボードがたまらない。
+      <br />
+      これだけ演奏のテンションが高い曲も珍しいです。テンポが速いとかそういう意味ではなくて。この曲のガッドのドラミング聴いていると体が勝手に動きます。
+      <br />
+      <br />
+      １曲目だけでも買う価値が十分にあるけど、「Mediterｒanean sundance」でのパコ・デ・ルシアとのギター・デュオ、「Race with Devil on Spanish Highway」ではディメオラの超絶速弾きが聴けたりと、
+      <span class="black">
+       楽曲が多彩なので一枚目として非常にオススメです。
+      </span>
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="425" height="349" src="http://www.youtube.com/embed/Siq2qkINyPY" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B0012GMV6W&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

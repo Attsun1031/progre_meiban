@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   X Japan (エックス・ジャパン) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="HR/HM,名盤,ハードロック,X Japan,日本,エックス,メタル" />
+  <meta name="description" content="日本を代表するロックバンド。日本人なら老若男女知っているであろう、説明不要のバンド。「Blue Blood」、「Art of Life」あたりは名作だと思います。僕もみたいなコテコテの洋楽好きでも満足できる内容です。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/x_japan.html"-->
+    <h1>
+     X Japan (エックス・ジャパン)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      日本
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      日本を代表するロックバンド。日本人なら老若男女知っているであろう、説明不要のバンド。信者、アンチともに過激な印象があります。僕は好きですよ。日本で最も影響力のあるバンドのひとつではないでしょうか。
+      <br />
+      「Blue Blood」、「Art of Life」あたりは名作だと思います。僕もみたいなコテコテの洋楽好きでも満足できる内容です。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/blueblood.jpg" border="0" alt="blueblood.jpg(29423 byte)" />
+      <a class="album-name" href="/other_rock/x_japan/blue_blood.shtml">
+       Blue Blood (ブルー・ブラッド)
+      </a>
+      <br />
+      X Japanの狂騒がストレートに表現された傑作。「紅」、「Blue Blood]、「Rose Of Pain」等の名曲がずらり。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/art_of_life.jpg" border="0" alt="art_of_life.jpg(16403 byte)" />
+      <a class="album-name" href="/other_rock/x_japan/art_of_life.shtml">
+       Art of Life (アート・オブ・ライフ)
+      </a>
+      <br />
+      1曲で30分近くの大作。ピアノやストリングスによるクラシカルなメロディとヘヴィなメロディがうまく融合された名作です。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

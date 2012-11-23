@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Itoiz,イトイズ,名盤,シンフォ,フォーク,プログレ,スペイン,バスク" />
+  <meta name="description" content="哀愁爆発の旋律、暖かくも物悲しいボーカル、初期ジェネシスやキャメルを感じさせるシンフォサウンド。素晴らしい作品です。" />
+  <title>
+   Itoiz  - Itoiz - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/itoiz.html"-->
+    <h1>
+     Itoiz
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/itoiz.jpg" border="0" alt="itoiz.jpg(17631 byte)" />
+     <div class="content">
+      スペインバスク自治州出身のバンド、Itoizの1stにして<span class="red">シンフォ系プログレの名盤</span>。<br /><br />
+      スペインといっても同じスペイン出身の<a href="/progressive_rock/triana.shtml">Tirana</a>のようにフラメンコの影響を受けた音楽ではなく、初期の<a href="/progressive_rock/genesis.shtml">ジェネシス</a>や<a href="/progressive_rock/camel.shtml">キャメル</a>を彷彿とさせるシンフォ系バンドの影響が強いように感じます。また、バスクの民族音楽からの影響もあるそうです。歌詞もバスク語だそうな。<br />
+      バスクの民族音楽はよく知りませんが、聴いた感じは英国フォークの物悲しいボーカルのものがあったりアイルランド民謡のような少し愉快なメロディなものがあったりしました。<br /><br />
+      この作品は、そんな<span class="black">バスク音楽の物悲しいフォークな要素、イタリアのシンフォプログレのような要素の２つがうまく溶け合っており、哀愁漂う音楽が大好きな自分にはかなりツボ</span>でした。<br /><br />
+      特に⑤「HILZORIⅠ」、⑥「HILZORIⅡ」が名曲。<br />
+      アコギによる哀しげなイントロ、哀愁メロディをそのまま引き継ぐシンセ、そしてなんといってもボーカルが素晴らしい。<br />
+      <span class="red">素晴らしいメロディを背後に、暖かくも物悲しげな声で高々と歌いあげられてしまえば、琴線が震えざるを得ません</span>。<br />
+      「HILZORIⅡ」の後半は本当、悶絶モノです。<br />
+      哀愁溢れるメロディを懸命に歌う感じは、<a href="/progressive_rock/tai_phong.shtml">Tai Phong</a>のボーカルとよく似ています。こちらのほうが少し温かみがあるか。<br /><br />
+      これもさほど表には出ないものの、疑いようのない名盤です。シンフォ好きは必聴です。
+      </div>
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/a2a82rRkxRE" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B002P4CPJS&amp;nou=1&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Tai Phong「<a href="/progressive_rock/tai_phong/windows.shtml">Windows</a>」
+        </li>
+        <li>
+         Asia Minor「<a href="/progressive_rock/asia_minor/between_flesh_and_divine.shtml">Between Flesh And Divine</a>」
+        </li>
+        <li>
+         Earth and Fire「<a href="/progressive_rock/earth_and_fire/atlantis.shtml">Atlantis</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

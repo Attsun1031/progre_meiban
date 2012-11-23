@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Santana (サンタナ) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/santana.html"-->
+    <h1>
+     Santana (サンタナ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      アメリカ
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      サンタナはアメリカのギタリスト（グループ名でもあります）。ロックにラテンの要素を取り入れたのでこのグループの音楽は「ラテン・ロック」とか呼ばれたりしてます。
+      <br />
+      長いこと食わず嫌いしていましたが、最近になってやっと聴いてみたところ、大ハマリ。小気味良いパーカッションが気持ち良いです。
+      <br />
+      ジャズの要素を取り入れた中期の傑作「Caravanserai」、「Moonflower」はジャズロック好きにもおすすめの名盤。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/CaravanSarai.jpg" border="0" alt="CaravanSarai.jpg(2610 byte)" />
+      <a class="album-name" href="/other_rock/santana/caravansarai.shtml">
+       Caravanserai (キャラバンサライ)
+      </a>
+      <br />
+      サンタナの最高傑作。すべての人に聴いて欲しいです。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/Santana_welcome.jpg" border="0" alt="Santana_welcome.jpg(9166 byte)" />
+      <a class="album-name" href="/other_rock/santana/welcome.shtml">
+       Welcome (ウェルカム)
+      </a>
+      <br />
+      ジャズロック好きには素直にオススメできる作品。「Flame Sky」でのジョン・マクラフリンとの共演が激アツ。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/Moonflower.jpg" border="0" alt="Moonflower.jpg(3088 byte)" />
+      <a class="album-name" href="/other_rock/santana/moonflower.shtml">
+       Moonflower (ムーンフラワー)
+      </a>
+      <br />
+      「Savor」のライブバージョンが圧巻。世紀の名演です。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/Supernatural.jpg" border="0" alt="Supernatural.jpg(42477 byte)" />
+      <a class="album-name" href="/other_rock/santana/supernatural.shtml">
+       Supernatural (スーパーナチュラル)
+      </a>
+      <br />
+      ヒップホップグループ「House of Pain」のMCであるEverlastや、「Matchbox Twenty」のRob Thomas、更にはギターの神様エリック・クラプトンなど、多彩なアーティストが参加しています。超おすすめ。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="El Patio,Triana,スペイン,フラメンコ,名盤" />
+  <meta name="description" content="スペインの生んだ、渾身のフラメンコロック。熱いです。迫力と悲壮感が同居しています。" />
+  <title>
+   El Patio - Triana (トリアーナ) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/el_patio.html"-->
+    <h1>
+     El Patio
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/el_patio.jpg" border="0" alt="el_patio.jpg(28606 byte)" />
+     <div class="content">
+      Trianaの1stアルバム。<br />
+      全体を通して<span class="black">スパニッシュな匂いがプンプン漂っています。</span><br /><br />
+      特に、①「Abre la puerta」はフラメンコギター大活躍の楽曲。<br />
+      アコースティックなギターの響きが好きな人にはたまらないでしょうね。<br />
+      ボーカルもラテン系特有の暑苦しさと物悲しさが同居してる感じが素晴らしいです。<br /><br />
+      ②「Se de un lugar」はそんなボーカルが活躍する曲です。このボーカルは、雰囲気的にフランスの<a href="/progressive_rock/tai_phong.shtml">タイ・フォン</a>とよく似ているかも。<br />
+      この、<span class="red">「死力を尽くして歌っている」</span>感じ、好きですねぇ。<br />
+      迫力あるんですが、同時になんとも言えない悲壮感がある。<br /><br />
+      自分、アコースティックギターの音色や暑苦しいボーカルには非常に弱いので、この作品は結構好きです。<br />
+      スペインの生んだ、渾身のフラメンコロック。熱いです。
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/SaPzgEMQVVQ" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B0006NLJN8&amp;nou=1&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

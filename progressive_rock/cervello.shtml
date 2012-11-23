@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Cervello (チェルベロ) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="プログレ,名盤,Cervello,チェルベロ,イタリア" />
+  <meta name="description" content="オザンナのダニオ・ルスティッチの弟であるコッラード・ルスティッチを中心に結成されたバンド。唯一作「メロス」は超攻撃的な迫力溢れる名盤です。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/cervello.html"-->
+    <h1>
+     Cervello (チェルベロ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イタリア
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      チェルベロは、一作のみ残して解散したという、
+      <a href="/progressive_rock/museo_rosenbach.shtml">
+       ムゼオ・ローゼンバッハ
+      </a>
+      のようなバンド。
+      <br />
+      同じくイタリア出身のオザンナのダニオ・ルスティッチの弟であるコッラード・ルスティッチを中心に結成されました。チェルベロ結成時は彼は16歳だったそうです。まさに神童。
+      <br />
+      唯一作「メロス」は超攻撃的な迫力溢れる名盤です。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/melos.jpg" border="0" alt="melos.jpg(27406 byte)" />
+      <a class="album-name" href="/progressive_rock/cervello/melos.shtml">
+       Melos (メロス)
+      </a>
+      <br />
+      チェルベロの唯一作。超攻撃的な迫力は一聴の価値あり。激しさだけでなく、イタリアらしい荘厳さも兼ね備えた名盤です。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

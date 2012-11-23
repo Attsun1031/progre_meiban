@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="icky thump,イッキー・サンプ,the white stripes,ホワイト・ストライプス,ジャック・ホワイト,アメリカ,ガレージ・ロック" />
+  <meta name="description" content="完成度の高さとバラエティの豊かさを備えた名盤。往年のロックファンでも満足出来る内容でしょう。ストライプスのラストアルバムとなってしまいました。" />
+  <title>
+   Icky Thump (イッキー・サンプ) - The White Stripes (ザ・ホワイト・ストライプス) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/other_rock/icky_thump.html"-->
+    <h1>
+     Icky Thump (イッキー・サンプ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/icky_thump.jpg" border="0" alt="icky_thump.jpg(29944 byte)" />
+     <div class="content">
+      2007年発表の、ホワイト・ストライプスのラストアルバム。
+      <br />
+      <br />
+      <span class="red">
+       完成度の高さとバラエティの豊かさを併せ持った傑作です。
+      </span>
+      <br />
+      ①「Icky Thump」のようヘヴィーなリフが特徴的な曲、④「Conquest」のようなエスニック風なメロディ、⑥「St.Andrew」のような、どこか牧歌的だがあくまでもロックな曲、⑦「Little Cream Soda」のような狂気さと重さが感じられる曲、⑧「Rag and Bone」のようなスピード感とヘヴィーさのあるノリの良い曲。
+      <br />
+      <span class="black">
+       どれもこれも聴き応えのある良曲です。
+      </span>
+      ⑦「Little Cream Soda」、⑧「Rag and Bone」あたりはかなり聴いたなぁ。
+      <br />
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/moSYKuZ7mxY" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000PTYO76&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

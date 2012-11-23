@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="プログレ,イタリア,BANCO DEL MUTUO SOCCORSO,バンコ" />
+  <meta name="description" content="イタリアの代表的なプログレッシブ・ロックバンド。ジャズ風でありながらも、攻撃的な音が特色。イタリアンプログレ好きはチェックしとくべきバンドでしょう。" />
+  <title>
+   Banco Del Mutuo Soccorso (バンコ) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/banco_del_mutuo_soccorso.html"-->
+    <h1>
+     Banco Del Mutuo Soccorso (バンコ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イタリア
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      イタリアの代表的なプログレッシブ・ロックバンド。ジャズ風でありながらも、攻撃的な音が特色。この攻撃性は、演奏の激しさもそうですが、フランチェスコ・ディ・ジァコモのボーカルが最も寄与しているんではないでしょうか。独特の張りと力強さがある、素晴らしい歌声です。イタリアンプログレ好きはチェックしとくべきバンドでしょう。
+      <br />
+      BANCO DEL MUTUO SOCCORSOとは共済銀行という意味らしいです。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/Darwin.jpg" border="0" alt="Darwin.jpg(40706 byte)" />
+      <a class="album-name" href="/progressive_rock/banco_del_mutuo_soccorso/darwin.shtml">
+       Darwin! (ダーウィン)
+      </a>
+      <br />
+      ダーウィンの進化論をテーマとしたコンセプトアルバム。バンコの傑作です。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

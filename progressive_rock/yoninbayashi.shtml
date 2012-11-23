@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   四人囃子 - プログレ名盤選
+  </title>
+  <meta name="keywords" content="プログレ,名盤,日本,四人囃子,一触即発,岡井大二" />
+  <meta name="description" content="四人囃子は日本を代表するプログレッシブロックバンド。代表作「一触即発」は日本からしか生まれないフォークを感じさせる独自のサウント。決して二番煎じなんかじゃありません。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/yoninbayashi.html"-->
+    <h1>
+     四人囃子
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      日本
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      四人囃子は日本を代表するプログレッシブロックバンド。
+      <br />
+      <span class="black">
+       日本にもね、すごいバンドがいるものですよ。
+      </span>
+      今聴いても、微塵も古さを感じさせません。
+      <br />
+      当時20代前半にしての演奏技術の高さが有名ですが、四人囃子の最大の魅力は日本のフォークミュージックを感じさせる曲調にあるんではないでしょうか。まさに「
+      <span class="red">
+       プログレッシブ・フォーク
+      </span>
+      」。ピンク・フロイド狂信者の僕が太鼓判を押します。決して二番煎じなんかじゃありませんよ。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/IsshokuSokuhatsu.jpg" border="0" alt="IsshokuSokuhatsu.jpg(22068 byte)" />
+      <a class="album-name" href="/progressive_rock/yoninbayashi/isshokusokuhatsu.shtml">
+       一触即発
+      </a>
+      <br />
+      「一触即発」は四人囃子の代表作。日本からしか生まれないフォークを感じさせる独自のサウンド。素晴らしい。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

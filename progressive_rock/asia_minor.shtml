@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Asia Minor - プログレ名盤選
+  </title>
+  <meta name="keywords" content="Asia Minor,フランス,フルート,プログレ,名盤" />
+  <meta name="description" content="フルートが奏でる哀愁漂うメロディは、まさにフランスのキャメル。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/asia_minor.html"-->
+    <h1>
+     Asia Minor
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      フランス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      トルコ系フランス人によるグループ。<br />
+      哀愁漂うフルートとボーカルを中心とした叙情的なメロディが特徴的。2ndは傑作です。キャメル好きな方は是非。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/between_flesh_and_divine.jpg" border="0" alt="between_flesh_and_divine.jpg(21526 byte)" />
+      <a class="album-name" href="/progressive_rock/asia_minor/between_flesh_and_divine.shtml">
+       Between Flesh And Divine
+      </a>
+      <br />
+      フルートが奏でる哀愁漂うメロディは、まさにフランスのキャメル。哀愁漂うメロディが好きな方にはおすすめ。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

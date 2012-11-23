@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="yessongs,イエスソングス,ライブ,プログレ,名盤,Yes" />
+  <meta name="description" content="Yesが1972年に行ったライブ。Close to the EdgeやFragileの名曲を数多く収録。スタジオ盤とはまた違った、凄まじい迫力です。" />
+  <title>
+   Yessongs (イエスソングス) - Yes (イエス) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/yessongs.html"-->
+    <h1>
+     Yessongs (イエスソングス)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/yessongs.jpg" border="0" alt="yessongs.jpg(20091 byte)" />
+     <div class="content">
+      Yessongsは、Yesが1972年に行ったライブ音源。メンバーは、Jon Anderson, Chris Squire, Steve Howe, Rick Wakeman, Alan White, Bill Bruford(一部)。
+      <br />
+      噂に聞く名盤ですが、なぜか長いこと聴く機会がなく、最近やっとのこと聴きました。
+      <br />
+      <br />
+      後悔しましたよ。
+      <span class="red">
+       なんでこんな超名演を今まで聴かなかったのかと。期待を遥かに上回る、素晴らしい演奏でした。
+      </span>
+      <br />
+      <br />
+      内容は3枚組で、「The Yes Album」、「
+      <a href="/progressive_rock/yes/fragile.shtml">
+       Fragile
+      </a>
+      」、「
+      <a href="/progressive_rock/yes/close_to_the_edge.shtml">
+       Close to the Edge
+      </a>
+      」収録曲を中心に演奏しています。勿論、プログレを代表する名曲「Close to the Edge」も完全再現。リック・ウェイクマンのソロ作品であるヘンリー8世なんかも一部演奏しています。
+      <br />
+      <br />
+      聴きどころは、1枚目②「Siberian Khantru」や3枚目②「Yours Is No Disgrace」かな。このアルバム全体通してそうですが、
+      <span class="red">
+       特にこの2曲のテンションの高さと迫力、メロディの格好良さは飛び抜けて良いです。
+      </span>
+      Yesって、こんなに迫力ある演奏できたんだな、と改めて感心しました。これもライブの成せる技か。
+      <br />
+      <br />
+      Yes好きなら間違いなく気に入る作品です！
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/LLExJhLHUXM" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000002J1Y&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

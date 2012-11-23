@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="ソフト・マシーン,soft machine,プログレ,カンタベリー,名盤,Softs,ジャズロック" />
+  <meta name="description" content="ソフト・マシーン最後にして最高のジャズロックアルバム。名盤です。" />
+  <title>
+   Softs (ソフツ) - Soft Machine (ソフト・マシーン) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/softs.html"-->
+    <h1>
+     Softs (ソフツ)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/softs.jpg" border="0" alt="softs.jpg(22162 byte)" />
+     <div class="content">
+      <span class="red">
+       ソフト・マシーン最後にして最高の名盤。
+      </span>
+      <br />
+      <br />
+      本作はソフト・マシーン最後のスタジオ・アルバム。名盤だ名盤だと噂には聞いていましたが、
+      <span class="black">
+       ここまでとは思いませんでした。完全にたまげましたね。期待の遥か上を行かれました。
+      </span>
+      <br />
+      <br />
+      メンバーには、脱退したホールズワースの代わりに元ダリル・ウェイズ・ウルフのジョン・エサリッジが加入。このエサリッジが怪物・ホールズワースに勝るとも劣らない素晴らしいプレイを披露しています。
+      <br />
+      特に、③「Ban-Ban Caliban」の後半のプレイが強烈。ベースのロイ・バビングトンとドラムのジョン・マーシャルが奏でる単調で規則だっていながらもで攻撃的でアップテンポなリズムに対して、その強い規則性に挑むかのように不規則に掻き鳴らされるエサリッジのギター。
+      <br />
+      これにアラン・ウェイクマン（
+      <a href="/progressive_rock/yes.shtml">
+       Yes
+      </a>
+      のリック・ウェイクマンの従兄弟だそうです）のサックスとマイク・ラトリッジのシンセを加えて、本当に息がピッタリです。
+      <br />
+      <br />
+      <span class="red">
+       一発でヤラれたアルバムでした。
+      </span>
+      これは間違いなく名盤です！
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/CeYEo0BEhHk" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B003JIOHJK&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

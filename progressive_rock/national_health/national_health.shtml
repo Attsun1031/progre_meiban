@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="National Health,ナショナル・ヘルス,カンタベリー,プログレ,名盤" />
+  <meta name="description" content="フィル・ミラーによる柔らかなギターの音や、ゲストさんかのジミー・ヘイスティングスによる心地のよいフルート、スキャット風の女性ボーカル。これぞカンタベリー系。" />
+  <title>
+   National Health(ナショナル・ヘルス) - National Health(ナショナル・ヘルス) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/national_health.html"-->
+    <h1>
+     National Health(ナショナル・ヘルス)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <div class="amazon-mp3">
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_84b37c47-5580-4108-9de2-76c3e16cb2f6" width="250px" height="250px">
+       <param name="movie" value="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F84b37c47-5580-4108-9de2-76c3e16cb2f6&amp;Operation=GetDisplayTemplate">
+       </param>
+       <param name="quality" value="high">
+       </param>
+       <param name="bgcolor" value="#FFFFFF">
+       </param>
+       <param name="allowscriptaccess" value="always">
+        <embed src="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F84b37c47-5580-4108-9de2-76c3e16cb2f6&amp;Operation=GetDisplayTemplate" id="Player_84b37c47-5580-4108-9de2-76c3e16cb2f6" quality="high" bgcolor="#ffffff" name="Player_84b37c47-5580-4108-9de2-76c3e16cb2f6" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="250px" width="250px">
+        </embed>
+       </param>
+      </object>
+      <noscript>
+       <a href="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F84b37c47-5580-4108-9de2-76c3e16cb2f6&amp;Operation=NoScript">
+        Amazon.com Widgets
+       </a>
+      </noscript>
+     </div>
+     <div class="content">
+      ナショナル・ヘルスの一作目。まぁ、ナショナル・ヘルスといえばこの作品でしょう。
+      <br />
+      <br />
+      フィル・ミラーによる柔らかなギターの音や、ゲストさんかのジミー・ヘイスティングスによる心地のよいフルート、
+      <a href="/jazz/return_to_forever.shtml">
+       RTF
+      </a>
+      のフローラ・プリムに似たスキャット風の女性ボーカル。まさに
+      <span class="black">
+       これぞカンタベリー系
+      </span>
+      といった感じの作品です。
+      <br />
+      <br />
+      音色は上記のような特徴もあり、Hatfield and the Northに非常に近い。 同じカンタベリー系バンドの、
+      <a href="/progressive_rock/caravan.shtml">
+       Caravan
+      </a>
+      のようなアヴァンギャルドさもなければ、
+      <a href="/progressive_rock/soft_machine.shtml">
+       Soft Machine
+      </a>
+      のような重苦しさもなく、
+      <span class="black">
+       ただただメロディが美しいです。
+      </span>
+      <br />
+      CaravanやSoft Machineのようなクセのある音楽が好きな僕としては物足りない感じがしますが、Hatfield and the Northのような音楽が好きな方はきっと気に入ると思いますよ。
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/wlro_VNRViI" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B001WIH1OW&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Soft Machine (ソフト・マシーン) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="プログレ,名盤,Soft Machine,カンタベリー,ソフト・マシーン,ジャズロック" />
+  <meta name="description" content="ジャズを基礎としながらも、サイケデリックな匂いもする独特の音色が特徴です。ボーカル兼ドラムのロバート・ワイアット、独特のこもった感じのオルガンを弾くマイク・ラトリッジ等々、個性的なメンバーが参加しています。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/soft_machine.html"-->
+    <h1>
+     Soft Machine (ソフト・マシーン)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      カンタベリー系バンドの
+      <a href="/progressive_rock/caravan.shtml">
+       キャラバン
+      </a>
+      と同じく、ワイルドフラワーズから派生したバンド。
+      <br />
+      ジャズを基礎としながらも、サイケデリックな匂いもする独特の音色が特徴です。ボーカル兼ドラムのロバート・ワイアット、独特のこもった感じのオルガンを弾くマイク・ラトリッジ等々、個性的なメンバーが参加しています。ワイアットは4th発表後に脱退。メンバーがコロコロ変わっているイメージがあります。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/third.jpg" border="0" alt="third.jpg(25694 byte)" />
+      <a class="album-name" href="/progressive_rock/soft_machine/third.shtml">
+       Third (サード)
+      </a>
+      <br />
+      どのバンドもマネできない、孤高の傑作。全曲18分超という大作。聴き応え抜群。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/Soft_Machine_Fifth.jpg" border="0" alt="Soft_Machine_Fifth.jpg(16691 byte)" />
+      <a class="album-name" href="/progressive_rock/soft_machine/fifth.shtml">
+       Fifth (フィフス)
+      </a>
+      <br />
+      ソフト・マシーンの隠れた名盤。ソフト・マシーン独特の重苦しさとアグレッシブさに、フリージャズの色が注入された傑作。ジャズロック好きなら聴いておくべきですよ。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/bundles.jpg" border="0" alt="bundles.jpg(21027 byte)" />
+      <a class="album-name" href="/progressive_rock/soft_machine/bundles.shtml">
+       Bundles (収束)
+      </a>
+      <br />
+      ホールズワースのギターを中心とした、なんともストレートで分かりやすく、洗練されて格好良いジャズロック。名盤です。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/softs.jpg" border="0" alt="softs.jpg(22162 byte)" />
+      <a class="album-name" href="/progressive_rock/soft_machine/softs.shtml">
+       Softs (ソフツ)
+      </a>
+      <br />
+      ソフト・マシーン最後にして最高のジャズロックアルバム。名盤です。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

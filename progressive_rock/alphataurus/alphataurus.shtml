@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Alphataurus,アルファタウラス,イタリア,ELP,ハード,シンフォ,プログレ" />
+  <meta name="description" content="ELPを彷彿とさせるハードな鍵盤主体のロックに、イタリアらしい熱くメロディアスなボーカルを加えた名盤。" />
+  <title>
+   Alphataurus - Alphataurus - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/alphataurus.html"-->
+    <h1>
+     Alphataurus
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/alphataurus.jpg" border="0" alt="alphataurus.jpg(28606 byte)" />
+     <div class="content">
+      アルファタウラスの1stアルバム。リリースは1973年。<br /><br />
+      <a href="/progressive_rock/elp.shtml">ELP</a>を彷彿させるキーボード主体のハードな作風です。勿論ただの二番煎じではなく、<a href="/progressive_rock/museo_rosenbach.shtml">ムゼオ・ローゼンバッハ</a>のような、たくましく熱情あふれるボーカルもあるので、<span class="black">ELPがイタリア産だったらこういう音になるんだろうな</span>、っていう印象。<br /><br />
+      また、メロディはハードな側面と、いかにもイタリアンなシンフォ系のフレーズもうまく混合されているので、<span class="red">熱くメロディアスなボーカルとハードかつシンフォニックなメロディが噛み合ったときの美しさとエネルギーの強さには琴線痺れます。</span><br /><br />
+      全体を通して捨て曲なしの印象ですが、特に好きなのは④「La Mente Vola」。<br />
+      フルートを思わせるムーグの音色を主体として、穏やかながらも徐々に盛り上がるイントロ、そこから展開される熱のこもったボーカルとコーラス、美しもハードでスリリングなメロディ。<span class="red">これはイタリアンプログレの中でも白眉の一つですね。</span><br /><br />
+      ELPなどの鍵盤主体プログレが好きな方や、情熱的に歌い上げるボーカルが好きな方は必聴でしょう。
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/ed5vapckrKs" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00008NKAE&amp;nou=1&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         I Camaleonti 「<a href="/progressive_rock/i_camaleonti/che_aereo_stupendo_la_speranza.shtml">Che aereo stupendo...la speranza</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

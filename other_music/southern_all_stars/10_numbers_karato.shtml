@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="サザンオールスターズ,日本,桑田佳祐,ポップス,ロック,10ナンバーズ・からっと,いとしのエリー" />
+  <meta name="description" content="シンプルな歌謡曲調のメロディの上に若い桑田の歌唱が繰り広げられる。「いとしのエリー」などの名曲を収録。" />
+  <title>
+   10ナンバーズ・からっと - サザンオールスターズ - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/other_music/10_numbers_karato.html"-->
+    <h1>
+     10ナンバーズ・からっと
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/10numbers.jpg" border="0" alt="10numbers.jpg(18330 byte)" />
+     <div class="content">
+      1979年発表のサザンの2作目。「思い過ごしも恋のうち」や「いとしのエリー」といった初期の傑作が並びます。
+      <br />
+      <br />
+      80年中盤以降の、SEやシンセ等を大胆に用いた複雑さはなく、
+      <span class="black">
+       とにかくシンプルな歌謡曲調の曲
+      </span>
+      が多いです。楽器がさほど目立たず、また、桑田が若いということもあってか、
+      <span class="black">
+       彼の人を喰ったような独特の歌唱と節回しが堪能できる良作
+      </span>
+      です。
+      <br />
+      <br />
+      ④「思い過ごしも恋のうち」や⑩「いとしのエリー」は、こういった純粋なリズムとメロディの上に桑田のストレートな歌詞が良くマッチしたことで生まれた名曲でしょう。
+      <br />
+      ②「奥歯を食いしばれ」や③「ラチエン通りのシスター」、⑦「気分しだいで責めないで」なんかも分かりやすくて心地良い曲です。
+      <br />
+      <br />
+      最初はさほど好きな作品ではありませんでしたが、このシンプルさに惹かれ徐々に好きになっていた、そんな作品です。
+      <br />
+      <br />
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B001JTMMH0&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

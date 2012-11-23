@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="夢魔,Atoll,アトール,フランス,プログレ,ジャズロック,フュージョン,名盤" />
+  <meta name="description" content="フランスを代表する名盤。後期ソフトマシーンを思わせるようなテクニカルなリズム隊の上で縦横無尽に弾きまくるギターとヴァイオリンとキーボードは迫力あります。" />
+  <title>
+   L'Araignee-Mal(組曲「夢魔」) - Atoll - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/laraignee_mal.html"-->
+    <h1>
+     L'Araignee-Mal(組曲「夢魔」)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/laraignee_Mal.jpg" border="0" alt="itoiz.jpg(17631 byte)" />
+     <div class="content">
+      フランスを代表するグループであるアトールの代表作。<span class="black">完成度の高さはかなりのもの。</span><br /><br />
+      変拍子を多用した、独特のつんのめるような勢いのあるリズムの上で流れるように弾きまくるギターがかなり印象的。<br />
+      特に②「Cazotte No1」は、目まぐるしく変わるリズムの上で繰り広げるギター・シンセ・ヴァイオリンの掛け合いが最高。<br />
+      これ聴いてると、このバンドは「フランスのイエス」というか、<span class="black">完全に「フランスのソフトマシーン（後期）」</span>と感じてしまいます。「<a href="/progressive_rock/soft_machine/bundles.shtml">Bundles</a>」や「<a href="/progressive_rock/soft_machine/softs.shtml">Softs</a>」といったバリバリのジャズロックに非常によく似てる。<br /><br />
+      しかしながら時折シンフォ系の流れにシフトするのですが、それが非常に自然で聴いていて心地よい。<span class="red">ベースにはジャズロックがあると思うんですが、その上にうまーくシンフォの層を重ねるのです</span>。ラストを飾る⑦「Le Cimetiere de Plastique」がまさにそれ。<br />
+      この２つを自然に組み合わせることができるのが、このバンドの特色なのでしょうか。<br /><br />
+      ちなみに③「Le Voleur D'Extase」の変なボーカルはちょっとマグマの<a href="/progressive_rock/magma/mekanik_destruktiw_kommandoh.shtml">MDK</a>みたいだったりもする。<br />
+      ま、いづれにせよこの作品が名盤であることは確かだと思います。
+      </div>
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/p27T_1Tf5cs" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B002VA8DWY&amp;nou=1&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Gong「<a href="/progressive_rock/gong/gazeuse.shtml">Gazeuse!</a>」
+        </li>
+        <li>
+         Soft Machine「<a href="/progressive_rock/soft_machine/softs.shtml">Softs</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

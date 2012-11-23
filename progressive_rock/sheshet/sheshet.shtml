@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Sheshet,シシェット,ジャズロック,プログレ,プログレ三昧,イスラエル" />
+  <meta name="description" content="Sheshetの唯一作。ピアノとフルートをベースとした正統派ジャズロックアルバム。" />
+  <title>
+   Sheshet - Sheshet（シシェット）- プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/sheshet.html"-->
+    <h1>
+     Sheshet
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/sheshet.jpg" border="0" alt="sheshet.jpg(14652 byte)" />
+     <div class="content">
+      イスラエルのプログレッシブロックバンド、Sheshetの唯一作が本作。
+      <br />
+      <br />
+      内容は、フルートとピアノを主体とした正統派ジャズロック。「イスラエルのHATFIELD AND THE NORTH」と言われることがありますが、実際はそれほど似ていません。どちらかと言えば、フルートやピアノを主体としたメロディや所々で現れるスキャットから、
+      <span class="black">
+       <a href="/jazz/return_to_forever.shtml">
+        Return To Forever
+       </a>
+       にかなり近い
+      </span>
+      と思います。
+      <br />
+      <br />
+      聴きどころは⑦「Debka」（なんて発音したら良いかわらかん。デッカ？デブカ？）。この曲ではピアノ、フルートのほかエレキが頑張ります。特に
+      <span class="red">
+       中盤以降のエレキとピアノのインタープレイは正に火花散ってます。
+      </span>
+      かんなり格好良いですよ、これは。
+      <br />
+      ジャズロック好きにはおすすめの作品です。
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/mOGQc2Wqm-c" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="itunes">
+       Amazonにはありませんでしたので、iTunesで。
+       <a href="http://click.linksynergy.com/fs-bin/stat?id=QoqMnwbhdAo&amp;offerid=94348&amp;type=3&amp;subid=0&amp;tmpid=2192&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Falbum%252Fsheshet%252Fid160087151%253Fuo%253D4%2526partnerId%253D30" target="itunes_store">
+        <img src="http://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_itunes-lrg.gif" alt="Sheshet - Sheshet" style="border: 0;" />
+       </a>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Chick Corea 「
+         <a class="album-name" href="/jazz/chick_corea/leprechaun.shtml">
+          The Leprechaun (妖精)
+         </a>
+         」
+        </li>
+        <li>
+         Return to Forever 「
+         <a href="/jazz/return_to_forever/light_as_a_feather.shtml">
+          Light as a Feather
+         </a>
+         」
+        </li>
+       </ul>
+      </div>
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

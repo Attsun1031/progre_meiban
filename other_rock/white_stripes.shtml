@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   The White Stripes (ザ・ホワイト・ストライプス) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="the white stripes,ホワイト・ストライプス,ジャック・ホワイト,アメリカ,ガレージ・ロック" />
+  <meta name="description" content="ホワイト・ストライプスは1997年にデビューしたアメリカのバンド。ギターのジャック・ホワイトとドラムのメグ・ホワイトだけの珍しいデュオスタイルのバンドです。2000年代のガレージ・ロックリバイバルの波で主要な活躍をしましたが、2011年に解散してしまいました。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/white_stripes.html"-->
+    <h1>
+     The White Stripes (ザ・ホワイト・ストライプス)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      アメリカ
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      ホワイト・ストライプスは1997年にデビューしたアメリカのバンド。ギターのジャック・ホワイトとドラムのメグ・ホワイトだけの珍しいデュオスタイルのバンドです。2000年代のガレージ・ロックリバイバルの波で主要な活躍をしましたが、2011年に解散してしまいました。
+      <br />
+      結構好きなバンドだっただけに凄く悲しいです。。
+      <br />
+      <br />
+      音色は、ブルース系のロックを主体としながら、エスニック風なアレンジが入ったりハードな曲があったり。とても二人とは思えないヘヴィーなサウンドが心地良い。
+      <br />
+      ジャックとメグは兄弟ということになってますが、元夫婦疑惑があったりして謎です。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/icky_thump.jpg" border="0" alt="icky_thump.jpg(29944 byte)" />
+      <a class="album-name" href="/other_rock/white_stripes/icky_thump.shtml">
+       Icky Thump (イッキー・サンプ)
+      </a>
+      <br />
+      完成度の高さとバラエティの豊かさを備えた名盤。往年のロックファンでも満足出来る内容でしょう。ストライプスのラストアルバムとなってしまいました。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

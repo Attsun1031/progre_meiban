@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="HR/HM,名盤,ハードロック,Led Zeppelin,レッド・ツェッペリン" />
+  <meta name="description" content="最大の聴きどころは、④「Dazed And Confused」。ジョン・ボーナムのドラミングが本当に素晴らしいです。" />
+  <title>
+   LED ZEPPELIN (レッド・ツェッペリン I) - Led Zeppelin (レッド・ツェッペリン) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/other_rock/led_zeppelin1.html"-->
+    <h1>
+     LED ZEPPELIN (レッド・ツェッペリン I)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <div class="amazon-mp3">
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_981a9ac5-2a1c-44f1-bf6e-f40d63ff0257" width="250px" height="250px">
+       <param name="movie" value="http://ws.amazon.co.uk/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fprogremeibans-21%2F8014%2F981a9ac5-2a1c-44f1-bf6e-f40d63ff0257&amp;Operation=GetDisplayTemplate">
+       </param>
+       <param name="quality" value="high">
+       </param>
+       <param name="bgcolor" value="#FFFFFF">
+       </param>
+       <param name="allowscriptaccess" value="always">
+        <embed src="http://ws.amazon.co.uk/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fprogremeibans-21%2F8014%2F981a9ac5-2a1c-44f1-bf6e-f40d63ff0257&amp;Operation=GetDisplayTemplate" id="Player_981a9ac5-2a1c-44f1-bf6e-f40d63ff0257" quality="high" bgcolor="#ffffff" name="Player_981a9ac5-2a1c-44f1-bf6e-f40d63ff0257" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="250px" width="250px">
+        </embed>
+       </param>
+      </object>
+      <noscript>
+       <a href="http://ws.amazon.co.uk/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fprogremeibans-21%2F8014%2F981a9ac5-2a1c-44f1-bf6e-f40d63ff0257&amp;Operation=NoScript">
+        Amazon.co.uk Widgets
+       </a>
+      </noscript>
+     </div>
+     <div class="content">
+      僕がツェッペリンの中で最も気に入っているのがこの作品。
+      <br />
+      <br />
+      ①「Good Times Bad Times」や⑦「Communication Breakdown」のようなストレートで分かりやすいが物凄くヘヴィーな曲、②「Babe I'm Gonna Leave You」のような、ロバート・プラントの熱唱と絶妙の緩急がついた名曲など、幅が広くそれぞれが深い名盤。
+      <br />
+      <br />
+      最大の聴きどころは、④「Dazed And Confused」。前半は、奇妙でゆっくりとしたなギターとプラントのボーカルで進みます。ペイジがツインネックのギターをバイオリンの弓で弾くという奇行っぷり。
+      <br />
+      後半は突如ヒートアップ。こっからの演奏が凄まじく、
+      <span class="red">
+       特にボンゾのドラミングはとてつもなく破壊的。
+      </span>
+      このパートではドラム、ベースの激しいリズム隊の元、ペイジがぶっ飛んだギター・ソロを披露しているんですが、
+      <span class="black">
+       ボンゾのドラムの前にはそのペイジすらも影が薄くなる。
+      </span>
+      スネアが破裂してんじゃないのかと思うほど激しく甲高い音が出てます。
+      <br />
+      <br />
+      ツェッペリンの中では意外と見逃されがちですが、
+      <span class="red">
+       必聴の名盤
+      </span>
+      です。
+      <br />
+      <br />
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000803CQ6&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

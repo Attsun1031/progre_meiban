@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Earth and Fire - プログレ名盤選
+  </title>
+  <meta name="keywords" content="Earth and Fire,オランダ,シンフォ,プログレ,名盤" />
+  <meta name="description" content="６０年代から活動するオランダの古参のバンド。叙情的な音と美しい女性ボーカルが魅力。3rdは名盤です。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/earth_and_fire.html"-->
+    <h1>
+     Earth and Fire
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      オランダ
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      1968年結成の、<a href="/progressive_rock/focus.shtml">Focus</a>とともにオランダを代表する古参のプログレバンド。<br />
+      叙情性を感じさせるシンフォ系の音ですが、<a href="/progressive_rock/anyones_daughter.shtml">Anyone's Daughter</a>などと違うのは仰々しくないところ。女性ボーカルのJerneyの功績か、どこか落ち着いた優しさのある音です。<br />
+      3rdの「Atlantis」は名盤です。<br /><br />
+      ちなみにボーカルのJerneyはFocusのベーシストであったBert Ruiterと結婚したようです。子供はオランダプログレ界を背負って立っていることでしょう（知らない）。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/atlantis.jpg" border="0" alt="atlantis.jpg(26765 byte)" />
+      <a class="album-name" href="/progressive_rock/earth_and_fire/atlantis.shtml">
+       Atlantis (アトランティス)
+      </a>
+      <br />
+      叙情サウンドが好きな人必聴の名盤。歪んだギターが奏でるメロディとJermeyの美しく幻想的なボーカルにはついつい耳を奪われてしまいます。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

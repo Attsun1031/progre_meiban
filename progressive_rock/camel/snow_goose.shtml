@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="The Snow Goose,白雁,プログレ,名盤,Camel,キャメル,ポール・ギャリコ,白雁物語" />
+  <meta name="description" content="アメリカの小説家ポール・ギャリコの「スノーグース」を基に制作されたコンセプトアルバム。ボーカル無しのオールインストです。キャメルの最高傑作として評される事が多いです。" />
+  <title>
+   The Snow Goose (白雁) - Camel (キャメル) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/snow_goose.html"-->
+    <h1>
+     The Snow Goose (白雁)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/snow_goose.jpg" border="0" alt="snow_goose.jpg(18896 byte)" />
+     <div class="content">
+      アメリカの小説家ポール・ギャリコの「スノーグース」を基に制作されたコンセプトアルバム。ボーカル無しのオールインストです。
+      <br />
+      <br />
+      キャメルの最高傑作として呼び声高い本作。アンディ・ラティマーの素晴らしく渋いボーカルを敢えて使っていませんが、
+      <span class="black">
+       キャメル独特の叙情的な雰囲気は十分すぎるほど出ています。
+      </span>
+      <br />
+      特に、②「Rhayader」の出だしの
+      <span class="black">
+       フルートの躍動感と柔らかさが素晴らしい。
+      </span>
+      これを初めて聴いたとき、中世ヨーロッパ風の街の坂道を自転車で駆け抜けている情景がパッと浮かびました。
+      <span class="red">
+       音だけでこれだけ具体的な情景が思い浮かぶのも稀なことです。
+      </span>
+      すごい表現力だ。③「Rhayader Goes To Town」も好きですよ。
+      <br />
+      <br />
+      ちなみにポール・ギャリコの「スノーグース」は未読です。人との関係を拒むと男と少女の純情物語だそうです。興味ある方はどうぞ。
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="425" height="349" src="http://www.youtube.com/embed/-aezncdri9Y" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link-multi">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00005V1B2&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=4900456136&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         <a href="/progressive_rock/camel/mirage.shtml">
+          Camel 「Mirage (蜃気楼)」
+         </a>
+        </li>
+       </ul>
+      </div>
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

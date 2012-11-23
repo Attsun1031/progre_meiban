@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="プログレ,名盤,フランス,タイ・フォン,TAI PHONG " />
+  <meta name="description" content="泣きメロの名作。Camelを彷彿とされる叙情性も感じられるし、泣き専門ハードロック、っていう感じもするし、ELPやYesの影が見えたりと、色々な顔が見えます。" />
+  <title>
+   TAI PHONG (恐るべき静寂) - Tai Phong (タイ・フォン) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/tai_phong.html"-->
+    <h1>
+     TAI PHONG (恐るべき静寂)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/TaiPhong.jpg" border="0" alt="TaiPhong.jpg(30694 byte)" width="250" height="250" />
+     <div class="content">
+      武士っぽいジャケットが特徴的な人気作品。この作品は一貫して
+      <span class="black">
+       泣き、泣き、泣きのオンパレード
+      </span>
+      です。ボーカルの搾り出すような熱唱っぷりが
+      <span class="black">
+       泣きメロに大ハマリ。
+      </span>
+      <br />
+      <br />
+      Camelを彷彿とされる叙情性も感じられるし、泣き専門ハードロック、っていう感じもするし、ELPやYesの影が見えたりと、色々な顔が見えます。決して悪い意味ではないですよ。
+      <br />
+      「Sister Jane」はヨーロッパの国々でシングルヒットしたらしいです。これもまた泣きのバラード系ハードロックという感じ。
+      <br />
+      <br />
+      泣き好きな人は気に入ると思いますよ。最近エンドレスで聴きまくってます。
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/bKFviTwyKtQ" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00000IIKI&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         new trolls 「
+         <a href="/progressive_rock/new_trolls/concerto_grosso.shtml">
+          CONCERTO GROSSO PER 1 (コンチェルト・グロッソ)
+         </a>
+         」
+        </li>
+       </ul>
+      </div>
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

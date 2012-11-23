@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="キャラバン,nine feet underground,プログレ,カンタベリー,名盤,Live at the Astoria,Live Canterbury comes to London" />
+  <meta name="description" content="あまり語られる事はないが、ライブアルバムとして屈指の名盤。震えます。" />
+  <title>
+   Live Canterbury comes to London - Caravan (キャラバン) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/live_at_the_astoria.html"-->
+    <input type="hidden" id="band-member" name="band-member" value="Richard Coughlan,Pye Hastings,Richrad Sinclair,Geoffrey Richardson,Jim Leverton,Doug Boyle,Simon Bentall" />
+    <h1>
+     ‘Live’Canterbury comes to London
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/caravanlivelondon.jpg" border="0" alt="caravanlivelondon.jpg(19518 byte)" width="250" height="244" />
+     <div class="content">
+      Caravanの1997年のライブ。
+      <br />
+      <br />
+      <span class="black">
+       いやぁ、凄いものを聴いてしまったと思った。
+      </span>
+      このアルバムについて語られることはほとんど見たことがないですが、
+      <span class="red">
+       世紀に残るライブアルバム
+      </span>
+      だと思います。
+      <br />
+      <span class="black">
+       「Nine Feet Underground」がものすごいことになってる。
+      </span>
+      スタジオ盤よりも激しさが増してます。特に、ラスト17分位からのギターが最高に格好良い。弾いてるのはヘイスティングスではなくダグ・ボイルらしいです。スタジオ盤が聴けなくなりましたね。
+      <br />
+      <br />
+      キャラバン好きなら必聴の一枚。
+      <br />
+      <br />
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000024VVZ&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

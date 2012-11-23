@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Move,上原ひろみ,Hiromi,サイモン・フィリップス,アンソニー・ジャクソン,ジャズ,Jazz,ジャズピアノ,ピアノ" />
+  <meta name="description" content="サイモン・フィリップス、アンソニー・ジャクソンとのトリオ２作目。エモーショナルなのは前作だが、迫力はこちらが上。" />
+  <title>
+   Move - 上原ひろみ - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/jazz/move.html"-->
+    <h1>
+     Move
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/move.jpg" border="0" alt="move.jpg(16191 byte)" />
+     <div class="content">
+       アンソニー・ジャクソン、サイモン・フィリップスとの２１世紀最強のトリオの２作目。<br />
+       前作は非常にメロディが美しいエモーショナルな曲が多かったですが、本作はもっとカラッとしていて勢いがあります。<br /><br />
+       特に、タイトル曲「Move」の迫力は凄まじい。<br />
+       捉えにくい変拍子にのって<span class="red">休む暇なく叩き出される上原ひろみのピアノには、ただただ圧倒されるばかり。</span>１０分間、ノンストップでこの迫力を維持できるのは現在はこのトリオ以外に存在しないでしょう。<br /><br />
+       本作は一日の流れをアルバム全体で表現したらしく、「Move」は１曲目なので起きてすぐの時間にあたります。実際、Moveのイントロは目覚まし時計のアラーム音を真似た音で始まります。<br />
+       上原ひろみは朝からこんなハイテンションなのでしょうか。<br /><br />
+       サイモンのドラムソロも冴え渡ってます。上原ひろみはこのアルバムで「２人の個性を引き出したい」というようなことを言っていただけに、前作よりも２人の見せ場が増えてる気がします。<br />
+       <span class="black">自分の親ほど年齢の離れたスーパープレイヤーの力を引き出す側に回っているひろみちゃん、恐るべしです。</span><br /><br />
+       ブルーノートで初めてMoveを聴いた時には、あまりの迫力に唖然となってしまったのを良く覚えています。<br />
+       <span class="red">音楽的なショックを受けたい人は必聴</span>です。
+      <div class="youtube-movie">
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/1rxYw7Y45Eo" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B008GVGHV6&amp;nou=1&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         上原ひろみ 「 <a href="/jazz/uehara_hiromi/voice.shtml"> Voice </a> 」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

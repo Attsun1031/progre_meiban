@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="HR/HM,名盤,ハードロック,Down to Earth,レインボー,リッチー・ブラックモア,コージー・パウエル" />
+  <meta name="description" content="ボーカルにグラハム・ボネットを起用した傑作。「Eyes Of The World」はレインボーの名曲です。" />
+  <title>
+   Down to Earth (ダウン・トゥ・アース) - Rainbow (レインボー) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/other_rock/down_to_earth.html"-->
+    <input type="hidden" id="band-member" name="band-member" value="Graham Bonnet,Ritchie Blackmore,Cozy Powell,Don Airey,Roger Glover" />
+    <h1>
+     Down to Earth (ダウン・トゥ・アース)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/DownToEarth.jpg" border="0" alt="DownToEarth.jpg(26243 byte)" />
+     <div class="content">
+      本作からボーカルがディオに代わり、グラハム・ボネットを起用されています。ベースには元パープルのロジャー・グローバー。
+      <br />
+      R&amp;BやAORで活躍していたグラハム・ボネットがハードロックの歌手としても才能を開花させた作品であります。
+      <br />
+      <br />
+      ②「Eyes Of The World」と⑧「Lost In Hollywood」が傑作。グラハム・ボネットの掠れた熱唱ボーカルが大ハマリです。特に、
+      <span class="black">
+       ②「Eyes Of The World」はディオ時代からあるレインボー固有の”怪しい激しさ”が引き出された名曲です。
+      </span>
+      <br />
+      前作に収録されている「Gates of Babylon」が好きな方なら絶対気に入りますよ。
+      <span class="red">
+       この曲でのグラハム・ボネットはディオにも見劣りしてません。
+      </span>
+      <br />
+      ⑧「Lost in Hollywood」も分かりやすいノリの名曲。
+      <br />
+      <br />
+      この作品からハードロック歌手としてのグラハム・ボネットがデビューする訳ですが、レインボー脱退後、彼はAlcatrazzを結成し、ここでイングウェイ・マルムスティーンやスティーブ・ヴァイといった稀代のロックギタリストを発掘します。
+      <br />
+      リッチーに発掘されたボネットがインギーを発掘。。何か、感慨深いものがありますね。
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/O0SVPkXfZ8E" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000000HRP&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

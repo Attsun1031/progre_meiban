@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja">
+  <head>
+  <!--#include virtual="/common/head.shtml"-->
+    <title>サイト内検索 - プログレ、ロック名盤選</title>
+  </head>
+  <body>
+    <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+    </div>
+    <div id="cse-search-results"></div>
+    <script type="text/javascript">var googleSearchIframeName = "cse-search-results"; var googleSearchFormName = "cse-search-box"; var googleSearchFrameWidth = 600; var googleSearchDomain = "www.google.com"; var googleSearchPath = "/cse"; </script>
+    <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
+    <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+    </div>
+  </body>
+</html>

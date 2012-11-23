@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   桑田佳祐 - プログレ名盤選
+  </title>
+  <meta name="keywords" content="サザンオールスターズ,日本,桑田佳祐,ポップス,ロック" />
+  <meta name="description" content="ご存知サザンのボーカル、桑田佳祐。サザンよりはロック調な曲が多いです。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/kuwata_keisuke.html"-->
+    <h1>
+     桑田佳祐
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      日本
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      桑田佳祐といえば、日本で知らない人はいないサザンのボーカル。
+      <br />
+      <br />
+      ソロとしての桑田佳祐はサザンに比べるとロック色の強い作品が多いです。ポップスはサザン、ロックはソロといったところか。
+      <br />
+      日本を代表する大御所中の大御所ですが、気取ったところがないのが凄く好きです。本当、ただのエロオヤジ。
+      <br />
+      土曜夜のラジオ番組「桑田佳祐のやさしい夜遊び」はいつも楽しみにしています。昔テレビでやってた「音楽寅さん」も復活してくれないかな。
+      <br />
+      <br />
+      音楽寅さんは
+      <a href="http://www.amazon.co.jp/gp/product/B0035LO7LE/ref=as_li_tf_tl?ie=UTF8&amp;tag=progremeibans-22&amp;linkCode=as2&amp;camp=247&amp;creative=1211&amp;creativeASIN=B0035LO7LE">
+       DVDボックス
+      </a>
+      <img src="http://www.assoc-amazon.jp/e/ir?t=progremeibans-22&amp;l=as2&amp;o=9&amp;a=B0035LO7LE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      が発売されているので良かったら見てください。「寅光のオールナイトスッポンポン」が一番のお気に入り笑
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/RockAndRollHero.jpg" border="0" alt="RockAndRollHero.jpg(13853 byte)" />
+      <a class="album-name" href="/other_music/kuwata_keisuke/rock_and_roll_hero.shtml">
+       Rock And Roll Hero
+      </a>
+      <br />
+      桑田佳祐のアルバムとしては一番好きな作品。かなりハードロック調で、格好良い曲が多いです。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Gong (ゴング） - プログレ名盤選
+  </title>
+  <meta name="keywords" content="Gong,ゴング,ピエール・ムーラン,アラン・ホールズワース,カンタベリー系,ジャズロック,Jazz Rock" />
+  <meta name="description" content="デイビッド・アレンやピエール・ムーラン、ホールズワース等の名プレーヤが在籍したジャズロックバンド。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/gong.html"-->
+    <h1>
+     Gong (ゴング）
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      フランス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      元
+      <a href="/progressive_rock/soft_machine.shtml">
+       Soft Machine
+      </a>
+      のデイヴィッド・アレンがイギリスに入国できず、フランスで立ち上げてしまったバンド。
+      <br />
+      リーダーのアレンが脱退後は、ドラマーのピエール・ムーランを中心に再結成した。音色はジャズロック系。ムーランはドラムだけでなく、マリンバやビブラフォン等のパーカッションを操るんですが、これが素晴らしい。アラン・ホールズワースが在籍していた頃の「Gazeuse」は必聴の名盤。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/gazeuse.jpg" border="0" alt="gazeuse.jpg(32570 byte)" />
+      <a class="album-name" href="/progressive_rock/gong/gazeuse.shtml">
+       Gazeuse!
+      </a>
+      <br />
+      パーカッション好きにはたまらない傑作。耳が溶けます。ホールズワースのギターもさすが。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Black Sabbath (ブラック・サバス) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="HR/HM,名盤,ハードロック,black sabbath,ブラック・サバス,トニー・アイオミ,オジー・オズボーン" />
+  <meta name="description" content="バンド名（黒い安息日）から想像されるとおり、ダークでヘヴィな音が特徴的。ヘヴィメタルの元祖とも言える存在でしょう。1stのを聴いたときの不気味な恐怖感といったらない。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/black_sabbath.html"-->
+    <h1>
+     Black Sabbath (ブラック・サバス)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      英国三大ハードロックバンドのひとつ、ブラック・サバス。
+      <br />
+      バンド名（黒い安息日）から想像されるとおり、ダークでヘヴィな音が特徴的。ヘヴィメタルの元祖とも言える存在でしょう。
+      <br />
+      特に、ボーカルのオジー・オズボーンの奇行っぷりはまさにヘヴィメタルのイメージそのまま。生きた鳩を食いちぎったり、生きたコウモリを食いちぎったり。。
+      <br />
+      <br />
+      1stを聴いたときの不気味な恐怖感といったらない。僕はあまり好きではありませんが、ハマる人はこの恐怖感の虜になるんだろうなぁ。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/heaven_and_hell.jpg" border="0" alt="heaven_and_hell.jpg(17650 byte)" />
+      <a class="album-name" href="/other_rock/black_sabbath/heaven_and_hell.shtml">
+       Heaven and Hell (ヘヴンアンドヘル)
+      </a>
+      <br />
+      ボーカルにディオが在籍していた時代の傑作。タイトル曲「Heaven and Hell」でのディオのボーカルとアイオミのギターが名演。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

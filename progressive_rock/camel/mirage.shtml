@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Mirage,蜃気楼,プログレ,名盤,Camel,キャメル,ミラージュ,アンディ・ラティマー" />
+  <meta name="description" content="哀愁溢れるキャメルの傑作。「Lady Fantasy」はキャメルを代表する名曲です。" />
+  <title>
+   Mirage (蜃気楼) - Camel (キャメル) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/mirage.html"-->
+    <input type="hidden" id="band-member" name="band-member" value="Andrew Latimer,Peter Bardens,Andy Ward,Doug Ferguson" />
+    <h1>
+     Mirage (蜃気楼)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/mirage.jpg" border="0" alt="mirage.jpg(19479 byte)" />
+     <div class="content">
+      キャメルで１曲オススメするとすれば、このアルバムに収録されている⑤「Lady Fantasy - Encounter - Smile For You - Lady Fantasy」を即答します。
+      <br />
+      <br />
+      <span class="red">
+       この曲は本当には文句のつけようのない傑作
+      </span>
+      。キャメルらしい、哀愁と郷愁に満ちています。
+      <br />
+      最初から最後まで、アンディ・ラティマーのギターを中心に、時には静かに時には激しい演奏が続きますが、
+      <span class="black">
+       土台には常に哀愁と郷愁の二文字
+      </span>
+      があります。
+      <br />
+      <br />
+      後半のアンディ・ウォードの重たいドラム、ピーター・バーデーンスの美しさと強さに満ちたキーボードを中心としたパート、その後に続くアンディ・ラティマーによる哀愁漂うギターでのエンドは
+      <span class="red">
+       本当に感激
+      </span>
+      します。必聴。
+      <br />
+      <br />
+      ③「Nimrodel - The Procession - The White Rider」もなかなか良い曲です。
+      <div class="youtube-movie">
+       <iframe width="425" height="349" src="http://www.youtube.com/embed/wrg_B1pCors" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00005V1B1&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Anyone's Daughter 「<a href="/progressive_rock/anyones_daughter/piktors_verwandlungen.shtml">Piktors Verwandlungen (ピクトルの変身)</a>」
+        </li>
+        <li>
+         Sebastian Hardie 「<a href="/progressive_rock/sebastian_hardie/four_moments.shtml">Four Moments（哀愁の南十字星）</a>」
+        </li>
+        <li>
+         Itoiz 「<a href="/progressive_rock/itoiz/itoiz.shtmll">Itoiz</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

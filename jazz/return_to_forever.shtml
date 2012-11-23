@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Return to Forever (リターン・トゥ・フォーエヴァー) - プログレ名盤選
+  </title>
+  <meta name="keywords" content="Return to Forever,リターン・トゥ・フォーエヴァー,チック・コリア,スタンリー・クラーク,フュージョン" />
+  <meta name="description" content="Return to Foreverはアメリカのジャズロックバンド。ジャズ色の音色が強いです。「ライト・アズ・ア・フェザー」、「浪漫の騎士」あたりが名作でしょうか。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/return_to_forever.html"-->
+    <h1>
+     Return to Forever (リターン・トゥ・フォーエヴァー)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      アメリカ
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      Return to Foreverはアメリカのジャズロックバンド。
+      <br />
+      エレクトリック・ジャズの草分け的なアルバムである、マイルス・デイヴィスの「Bitches Brew」でエレピを担当したチック・コリアとスタンリー・クラークやアイアート・モレイラといったメンバーにより創設されました。
+      <br />
+      他にも、レニー・ホワイトやアル・ディ・メオラ、スティーブ・ガッドといったジャズ界の名プレーヤーが多く在籍しました。
+      <br />
+      <br />
+      同じく、アメリカのジャズロックバンドとして知られる「
+      <a href="/progressive_rock/mahavishnu_orchestra.shtml">
+       マハヴィシュヌ・オーケストラ
+      </a>
+      」よりはジャズ色の音色が強いです。
+      <br />
+      <br />
+      「ライト・アズ・ア・フェザー」、「浪漫の騎士」あたりはフュージョンを語る上で欠かせない名盤です。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/return_to_forever.jpg" border="0" alt="return_to_forever.jpg(10164 byte)" />
+      <a class="album-name" href="/jazz/return_to_forever/return_to_forever.shtml">
+       Return to Forever (リターン・トゥ・フォーエヴァー)
+      </a>
+      <br />
+      「Sometimes Ago/La Fiesta」が素晴らしい名曲。楽器による、激しいインタープレイがお好きな方には超おすすめです。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/light_as_a_feather.jpg" border="0" alt="light_as_a_feather.jpg(8562 byte)" />
+      <a class="album-name" href="/jazz/return_to_forever/light_as_a_feather.shtml">
+       Light as a Feather (ライト・アズ・ア・フェザー)
+      </a>
+      <br />
+      ジャズの定番曲として有名な「Spain」が収録された作品。ラテン系の明るさと軽さが特徴的な良作です。
+      <p class="clear-left">
+      </p>
+      <img class="m-artwork" src="/img/artwork/romantic_warrior.jpg" border="0" alt="romantic_warrior.jpg(28094 byte)" />
+      <a class="album-name" href="/jazz/return_to_forever/romantic_warrior.shtml">
+       Romantic Warrior (浪漫の騎士)
+      </a>
+      <br />
+      フュージョンにおける名盤中の名盤。チック・コリアの最高のプレイが聴けます。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

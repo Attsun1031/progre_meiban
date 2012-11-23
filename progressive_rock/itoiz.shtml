@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Itoiz - プログレ名盤選
+  </title>
+  <meta name="keywords" content="Itoiz,イトイズ,スペイン,バスク,シンフォ,フォーク,プログレ,名盤" />
+  <meta name="description" content="スペインバスク地方出身のバンド。 アコギとボーカルによるによるフォーク独特の物悲しさを感じさせる演奏、フルートやシンセ、ピアノによる荘厳なシンフォニック系の演奏の混ざり合いが非常に魅力的です。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/itoiz.html"-->
+    <h1>
+     Itoiz
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      スペイン
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+      1978年にスペインで結成されたバンド。<br />
+      スペインのバンドといってもバスク自治州出身のバンドだそうで、音的にもフラメンコの影響は全くなく、シンフォ系バンドの影響が強いように感じます。また、バスクの民族音楽からの影響もあるそうです。<br /><br />
+      結成した1978年というのは、バスク自治州が憲法により設定された年だそうで、バスク民族にとって激動の時代だったそうです。<br /><br />
+      アコギとボーカルによるによるフォーク独特の物悲しさを感じさせる演奏、フルートやシンセ、ピアノによる荘厳なシンフォニック系の演奏の混ざり合いが非常に魅力的です。<br /><br />
+      ４作目からはポップスに路線変更しているそうです（聴いてない）。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/itoiz.jpg" border="0" alt="itoiz.jpg(17631 byte)" />
+      <a class="album-name" href="/progressive_rock/itoiz/itoiz.shtml">
+       Itoiz
+      </a>
+      <br />
+      哀愁爆発の旋律、暖かくも物悲しいボーカル、初期ジェネシスやキャメルを感じさせるシンフォサウンド。素晴らしい作品です。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

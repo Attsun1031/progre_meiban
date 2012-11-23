@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Flecha,フレッチャ,Sagrado Coracao Da Terra,サグラド,シンフォ,ブラジル,名盤" />
+  <meta name="description" content="壮大なシンフォニックロックに、AORを彷彿とさせる優しい音色をブレントさせた作品。欧州からは出そうもない独特の魅力があります。" />
+  <title>
+   Flecha - Sagrado Coracao Da Terra - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/flecha.html"-->
+    <h1>
+     Flecha
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/flecha.jpg" border="0" alt="flecha.jpg(28606 byte)" />
+     <div class="content">
+      ブラジルを代表するバンド、サグラドの2ndアルバム。リリースは1987年。<br /><br />
+      聞いてすぐに感じたのが、スティーリー・ダンの名作「Aja」やTOTOの名作「TOTO Ⅳ」のような、70年代後半から80年代にアメリカで流行ったAORの流れを直に受けてるなぁということでした。<br />
+      キー高めの温和で美しいボーカル、ゆったりとしたビート、リスナーを包み込んでしまいそうな優しいメロディなど、<span class="black">AORを彷彿とさせる要素が多分に感じられます。</span><br /></br />
+      じゃあプログレ好きには用はないか？というと案外そんなこともない。AOR的な楽曲は前半部で、<span class="black">後半の⑥「Toccata」からは美しく壮大なシンフォ作品を聴かせてくれます。</span><br />
+      ただし、AORな要素は残っているので、イタリア産シンフォのようなくどくて禍々しいものではなく、もっと爽やかで聴きやすい作品に仕上がっています。<br />
+      「Toccata」はイントロのチャーチオルガンが非常に荘厳で印象的。<br />
+      また、⑦「Cosomos x Caos」での雄大なバイオリン、<span class="red">後半での男性のメインボーカルとバックの女性のコーラスによるパートは圧倒的な迫力。とても宇宙的で美しいです。</span><br /></br />
+      イタリアをはじめとした欧州では出てこなさそうな音。良い作品だと思います。
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/q8uZCO1OjsU" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00008O7CD&amp;nou=1&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

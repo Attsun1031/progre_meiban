@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="キャラバン,ロッキン・コンチェルト,プログレ,カンタベリー,名盤,cunning stunts" />
+  <meta name="description" content="「Dabsong Conshirtoe」が屈指の名曲。この1曲だけでも買う価値あり。" />
+  <title>
+   Cunning Stunts (ロッキン・コンチェルト) - Caravan (キャラバン) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/cunning_stunts.html"-->
+    <input type="hidden" id="band-member" name="band-member" value="Richard Coughlan,Pye Hastings,Geoff Richardson,Dave Sinclair,Mike Wedgwood" />
+    <h1>
+     Cunning Stunts (ロッキン・コンチェルト)
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/caravan-cunning-stunts-1975.jpg" border="0" alt="caravan-cunning-stunts-1975.jpg(33765 byte)" />
+     <div class="content">
+      キャラバンで最も商業的に成功した作品だそうな。
+      <br />
+      <span class="black">
+       聴きどころは18分を超す「Dabsong Conshirtoe」。
+      </span>
+      キャラバンのアルバムにはだいたい1曲だけ大作が含まれていますが、その中でも
+      <span class="red">
+       屈指の名曲。僕の最も好きな曲の１つです。
+      </span>
+      <br />
+      <br />
+      キャラバンらしい美しく聴きやすいメロディで序盤が始まり、途中からパイ・ヘイスティングスのしゃがれた味のあるボーカルとともに盛り上がっていきます。中盤、一旦曲は落ち着き、再び美しいメロディが展開。
+      <br />
+      そして終盤１３分くらいから一気にテンションが上がる。ここからが本当に素晴らしく、怒涛のドラム、ベースの上にギター、オルガンが乱舞。
+      <br />
+      特にヘイスティングスのギターとリチャード・コフランのドラムが聴き応え抜群。
+      <br />
+      この曲を聴いていると18分が嘘のよう！
+      <br />
+      <br />
+      <span class="black">
+       この1曲だけでも聴く価値あります。
+      </span>
+      <br />
+      <br />
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="http://www.youtube.com/embed/ZdnvvUI_NfI" frameborder="0" allowfullscreen="allowfullscreen">
+       </iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B003O6M8VQ&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Caravan 「
+         <a href="/progressive_rock/caravan/waterloo_lily.shtml">
+          Waterloo lily (ウォータールー・リリー)
+         </a>
+         」
+        </li>
+       </ul>
+      </div>
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

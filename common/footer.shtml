@@ -1,0 +1,22 @@
+<!--<div id="slideout">
+  <img src="/img/design/feedback_out.gif" border="0" alt="feedback" />
+  <div id="slideout_inner">
+    <form id="comment_form" action="javascript:void(0)">
+		<textarea name="comment" cols="10" rows="5">ご感想をお願いします！誹謗中傷はご勘弁ください。</textarea>
+		<input id="mail-send-button" type="submit" value="贈る" />
+	</form>
+  </div>
+</div>-->
+
+<p class="sub-contents">
+	<span class="sub-contents">
+		<a href="/sub_contents/links.shtml">リンク集</a>
+	</span>
+	<span class="sub-contents">
+		<a href="/sub_contents/sitemap.shtml">サイトマップ</a>
+	</span>
+	<span class="sub-contents">
+		<a href="/sub_contents/ranking.shtml">作品別アクセスランキング</a>
+	</span>
+</p>
+<div>Copyright (C) 2011 Attsun1031 All Rights Reserved.</div>

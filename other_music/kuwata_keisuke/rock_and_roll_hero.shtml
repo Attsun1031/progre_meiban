@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Rock And Roll Hero,サザンオールスターズ,日本,桑田佳祐,ポップス,ロック" />
+  <meta name="description" content="" />
+  <title>
+   Rock And Roll Hero - 桑田佳祐 - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/other_music/rock_and_roll_hero.html"-->
+    <h1>
+     Rock And Roll Hero
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/RockAndRollHero.jpg" border="0" alt="RockAndRollHero.jpg(13853 byte)" />
+     <div class="content">
+      桑田佳祐のソロ名義のアルバム3作目。個人的にはこれが今のとこ最高傑作。
+      <br />
+      曲調はハードロック調のモノが多いです。バンド演奏による生の音をコンセプトに作られたそうです。
+      <br />
+      <br />
+      どの曲も非常に良いですが、お気に入りは①「HOLD ON (It's Alright)」と⑫「質量とエネルギーの等価性」。
+      <br />
+      ①は一見するとこれといった特徴のないブルース系ロックなんですが、なぜか聴けば聴くほど好きになっていった作品です。桑田の小気味よいボーカルとリズムの良い歌詞が聴きどころ。
+      <br />
+      ⑫は重低音の効いたかなりハードな曲。「ラプラスの魔」とか「相対性理論」とか難しい言葉が沢山散りばめられていますが、特に深い意味はないようです。ただ、語感がリズムと非常に合っていて気持ち良い。
+      <span class="red">
+       桑田の歌詞編成の力はずば抜けてます。世界見渡してもここまで小気味よい歌詞を組める人っていないんじゃないか。
+      </span>
+      <br />
+      <br />
+      シングルカットされた「東京」もこのアルバムに収録されています。
+      <br />
+      <br />
+      総評すれば、
+      <span class="black">
+       間違いなくロックの名盤。必聴です。
+      </span>
+      <br />
+      <br />
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B00006FWRU&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+       </iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <br />
+      <br />
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
