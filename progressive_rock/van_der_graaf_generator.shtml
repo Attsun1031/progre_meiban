@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Van Der Graaf Generator - プログレ名盤選
+  </title>
+  <meta name="keywords" content="Still Life,VDGG,Van Der Graaf Generator,プログレ,名盤,ピーター・ハミル" />
+  <meta name="description" content="五大バンドに次ぐ、イギリスを代表する古参のプログレッシブ・ロックバンド。ピーター・ハミルの独特の世界観と表情豊かなボーカルが素晴らしいです。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/van_der_graaf_generator.html"-->
+    <h1>
+     Van Der Graaf Generator
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+       通称VDGG。プログレッシブ・ロック５大バンドに次ぐ人気と実力を兼ね備えた、古参のバンド。普通の人は知らないけどプログレ好きはみんな知っているという感じです。<br />
+       このバンドの魅力はなんといってもピーター・ハミルの表情豊かなボーカルが作り出す独特の世界観。時に美しく、時に狂気的で、聴くものを魅了します。<br />
+       唯一無二の歌声ですねこれは。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/still_life.jpg" border="0" alt="still_life.jpg(26765 byte)" />
+      <a class="album-name" href="/progressive_rock/van_der_graaf_generator/still_life.shtml">
+       Still Life
+      </a>
+      <br />
+      VDGGの傑作といえばこれ。①「Pigrims」からラストまで、ハミルの独特の世界観を存分に味わうことができる名盤です。演奏陣も当然素晴らしい。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

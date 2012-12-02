@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="LIVE IN TOKYO,山中千尋,ジャズ,Jazz,ジャズピアノ,ピアノ" />
+
+  <meta name="description" content="2007年に東京で行われた、トリオによるライブです。演奏の勢いの凄さに度肝を抜かれました。" />
+  <title>
+   LIVE IN TOKYO - 山中千尋 - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/jazz/live_in_tokyo.html"-->
+    <h1>
+     LIVE IN TOKYO
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/live_in_tokyo.jpg" border="0" alt="live_in_tokyo.jpg(16191 byte)" />
+     <div class="content">
+      2007年6月23日、東京の草月ホールで行われたライブDVD。<br />
+      メンバーは山中千尋のほか、ベースにジェレミー・レイサム、ドラムにアリソン・ミラーと、女性オンリーのトリオ。<br />
+      女性だと思って侮る無かれ、<span class="black">このトリオは迫力や連携ともに素晴らしいの一言です</span>。<br /><br />
+      見所は全部なんですが、あえてピックアップするならば、③「SAND SHIP」とボーナス・トラックの「YAGIBUSHI」ですかね。<br />
+      「SAND SHIP」は中島みゆきの「砂の船」のジャズアレンジですが、<span class="red">そのメロディの美しさと物悲しさや素晴らしい</span>。これが侘び寂びというやつでしょうか。<br />
+      「YAGIBUSHI」は桐生市の民謡。これはスイングしてますねー。軽快なリズムの上で繰り広げられるシャープなメロディがたまりません。これはゾクッときました。<br /><br />
+      他、スタンダード・ナンバーの「TAKE FIVE」やデューク・エリントンの「I'm Gonna Go Fishin'」なども良いです。<br />
+      僕は<span class="black">このライブをDVDで見て以来、山中千尋にはまってしまいました</span>。これは是非とも見て頂きたい名演です。
+      <div class="youtube-movie">
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/etD6YGlYaC0" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000V3PQWS&amp;nou=1&amp;ref=qf_sp_asin_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
