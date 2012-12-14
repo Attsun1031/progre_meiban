@@ -235,8 +235,8 @@ h1 {
 	font-size: 11pt;
 	font-weight: bold;
 	padding: 10px 10px 0px 10px;
-	/*float: left;
-	width: 200px;*/
+	float: left;
+	width: 150px;
 }
 
 .amazon-link-multi {
