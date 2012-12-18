@@ -161,6 +161,7 @@
      <p class="clear-left">
      </p>
     </div>
+    <!--#include virtual="/common/ads.html"-->
    </div>
    <div id="footer">
     <!--#include virtual="/common/footer.shtml"-->
