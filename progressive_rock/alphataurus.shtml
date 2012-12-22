@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
  <head>
   <title>
-   Alphataurus - プログレ名盤選
+   Alphataurus（アルファタウラス） - プログレ名盤選
   </title>
   <meta name="keywords" content="Alphataurus,アルファタウラス,プログレ,イタリア,名盤" />
   <meta name="description" content="ELPを彷彿とさせるハードな鍵盤主体のロックに、イタリアらしい熱くメロディアスなボーカルを加えたグループ。" />
@@ -19,7 +19,7 @@
    <div id="main">
     <!--#include virtual="/common/bread_crumbs/alphataurus.html"-->
     <h1>
-     Alphataurus
+     Alphataurus（アルファタウラス）
     </h1>
     <!--#include virtual="/common/social.html"-->
     <div id="main-content">

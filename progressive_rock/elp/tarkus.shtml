@@ -23,25 +23,7 @@
     </h1>
     <!--#include virtual="/common/social.html"-->
     <div id="main-content">
-     <div class="amazon-mp3">
-      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_87ad1722-31dd-4ede-9d97-15807e468ec2" width="250px" height="250px">
-       <param name="movie" value="http://ws.amazon.co.uk/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fprogremeibans-21%2F8014%2F87ad1722-31dd-4ede-9d97-15807e468ec2&amp;Operation=GetDisplayTemplate">
-       </param>
-       <param name="quality" value="high">
-       </param>
-       <param name="bgcolor" value="#FFFFFF">
-       </param>
-       <param name="allowscriptaccess" value="always">
-        <embed src="http://ws.amazon.co.uk/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fprogremeibans-21%2F8014%2F87ad1722-31dd-4ede-9d97-15807e468ec2&amp;Operation=GetDisplayTemplate" id="Player_87ad1722-31dd-4ede-9d97-15807e468ec2" quality="high" bgcolor="#ffffff" name="Player_87ad1722-31dd-4ede-9d97-15807e468ec2" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="250px" width="250px">
-        </embed>
-       </param>
-      </object>
-      <noscript>
-       <a href="http://ws.amazon.co.uk/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822%2FGB%2Fprogremeibans-21%2F8014%2F87ad1722-31dd-4ede-9d97-15807e468ec2&amp;Operation=NoScript">
-        Amazon.co.uk Widgets
-       </a>
-      </noscript>
-     </div>
+     <img class="artwork" src="/img/artwork/tarkus.jpg" border="0" alt="tarkus.jpg(26765 byte)" />
      <div class="content">
       ELPの2ndアルバムがこのタルカス。ELPの中でも、最も人気かつ有名な作品ではないでしょうか。
       <br />
