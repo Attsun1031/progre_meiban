@@ -91,7 +91,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/uehara_hiromi.shtml</loc>
-  <lastmod>2012-12-25T14:26:38Z</lastmod>
+  <lastmod>2012-12-25T14:31:01Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -106,7 +106,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/uehara_hiromi/brain.shtml</loc>
-  <lastmod>2012-12-25T14:25:18Z</lastmod>
+  <lastmod>2012-12-25T14:45:48Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -785,6 +785,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://progre-meiban.com/progressive_rock/maxophone.shtml</loc>
+  <lastmod>2012-12-28T14:39:08Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/maxophone/maxophone.shtml</loc>
+  <lastmod>2012-12-28T14:39:28Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://progre-meiban.com/progressive_rock/mcdonald_and_giles.shtml</loc>
   <lastmod>2012-11-23T01:49:33Z</lastmod>
   <priority>0.5000</priority>
@@ -1046,7 +1056,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/others/jazz_rock_masterpiece.shtml</loc>
-  <lastmod>2012-12-19T10:42:43Z</lastmod>
+  <lastmod>2012-12-26T14:14:58Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1081,7 +1091,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2012-12-25T14:28:26Z</lastmod>
+  <lastmod>2012-12-28T14:41:09Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
