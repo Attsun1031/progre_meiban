@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Nucleus（ニュークリアス） - プログレ名盤選
+  </title>
+  <meta name="keywords" content="Nucleus,ニュークリアス,ジャズ・ロック,プログレ,イギリス" />
+  <meta name="description" content="イギリスのジャズ・ロックグループの古参。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/nucleus.html"-->
+    <h1>
+     Nucleus（ニュークリアス）
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+       1970〜1989年に主に活動した、ジャズ・ロックグループの古参。<br />
+       ジャズ・ロックと言われる<a href="/progressive_rock/soft_machine.shtml">ソフト・マシーン</a>よりも更にジャズに近いです。ジャズ・ロックとしては非常にオススメ。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/elastic_rock.jpg" border="0" alt="elastic_rock.jpg(24112 byte)" />
+      <a class="album-name" href="/jazz/nucleus/elastic_rock.shtml">
+        Elastic Rock
+      </a>
+      <br />
+      マイルスのエレクトリック・ジャズのような、ジャズとロックの融合作。イアン・カーの気怠いトランペットは非常に味があります。
+      <p class="clear-left">
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

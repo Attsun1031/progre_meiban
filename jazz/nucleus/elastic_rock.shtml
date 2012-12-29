@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Elastic Rock,ニュークリアス,Nucleus,プログレ,カンタベリー,名盤,ジャズロック" />
+  <meta name="description" content="マイルスのエレクトリック・ジャズのような、ジャズとロックの融合作。イアン・カーの気怠いトランペットが非常に味があります。" />
+  <title>
+   Elastic Rock - Nucleus (ニュークリアス) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/jazz/elastic_rock.html"-->
+    <h1>
+     Elastic Rock
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/elastic_rock.jpg" border="0" alt="elastic_rock.jpg(22162 byte)" />
+     <div class="content">
+       本作は1970年に発表されたニュークリアスの1stアルバム。<br />
+       もはやロックというよりはジャズに近く、ちょうど同時期にエレクトリック・ジャズに挑戦していたマイルス・デイヴィスの影響を強く受けているのかなと感じます。<br />
+       どうやらギターのChris Spedding意外はジャズ畑の出身だそうな。<br /><br />
+       <span class="black">楽器はそれぞれ非常に聴き応えがあります</span>。<br />
+       特にジョン・マーシャルの手数の多い落ち着かないドラム、イアン・カーとカール・ジェンキンスの<span class="red">気怠くジメッとしたトランペットとサックスは中毒性があります</span>。<br /><br />
+       聴きどころは⑪「Earth Mother」でしょうか。<br />
+       イアン・カーの神妙なトランペット、Jeff Clyneの重々しいベース、ジョン・マーシャルの激しいドラミングが堪能できます。
+       <br /><br />
+       Soft Machineの「<a class="album-name" href="/progressive_rock/soft_machine/fifth.shtml">Fifth</a>」（ジョン・マーシャル参加作）のような<span class="red">ジャズロックが好きな方は必聴</span>ですね。
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/thX-gW_asSA" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B000AQBAVW" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Soft Machine「<a class="album-name" href="/progressive_rock/soft_machine/fifth.shtml">Fifth</a>」
+        </li>
+        <li>
+         National Health「<a href="/progressive_rock/national_health/national_health.shtml">National Health</a>」
+        </li>
+        <li>
+         Brand X「<a href="/jazz/brand_x/unorthodox_behaviour.shtml">Unorthodox Behaviour</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
