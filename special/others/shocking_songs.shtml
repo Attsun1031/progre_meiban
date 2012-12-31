@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
  <head>
-  <meta name="keywords" content="名曲,名盤,オススメ,ロック" />
-  <meta name="description" content="衝撃を受けた名曲集" />
+  <meta name="keywords" content="名曲,名盤,オススメ,ロック,プログレ,ジャズ,フュージョン,ジャズ・ロック" />
+  <meta name="description" content="衝撃を受けた名曲集。" />
   <title>
    衝撃を受けた名曲集 - プログレ名盤選
   </title>
@@ -24,9 +24,32 @@
     <div id="main-content">
      音楽が好きな方なら一度は、音楽を聴いて打ちのめされるような強い衝撃を受けた経験があるでしょう。
      <br />
-     ここでは、僕個人にそういった体験を与えた衝撃的名曲集を紹介します。
+     ここでは、僕個人にそういった体験を与えた衝撃的名曲集を紹介します。<br />
+     <span class="red">どれもジャンル無視の名演</span>だと思いますので、是非聴いてみてください！
     </div>
     <div class="content">
+     <div class="song">
+      <div class="song-title">
+       Return of Kung-Fu World Champion（日本盤限定ボーナストラック）
+      </div>
+      <img class="m-artwork" src="/img/artwork/beyond_standard.jpg" border="0" alt="beyond_standard.jpg(28629 byte)" />
+      From:&nbsp;&nbsp;
+      <a href="/jazz/uehara_hiromi/beyond_standard.shtml">
+       Beyond Standard (ビヨンド・スタンダード)
+      </a>
+      <br />
+      By:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="/jazz/uehara_hiromi.shtml">
+        上原ひろみ
+      </a>
+      <br />
+      Genre:&nbsp;ジャズ
+      <p class="clear-left">
+      </p>
+      縦横無尽に行き交う上原ひろみのシンセサイザーの迫力はまさに天下一品。これにデイヴィッド・フュージンスキーのホールズワースばりのウネウネしたギターが絡みつくんだから手が付けられません。本当、これは中毒になりました。<br />
+      ジャンルはジャズとしてありますが、まぁプログレといって間違い無いですね。日本盤にしか収録されていないのでご注意を。
+     </div>
+
      <div class="song">
       <div class="song-title">
        Hocus Pocus
@@ -47,6 +70,7 @@
       </p>
       HocusPocusのやばさはプログレ好きならご存知かと思いますが、ライブ版のこれは更に凄い。ヤン・アッカーマンの圧倒的に格好良いギター、タイスの圧倒的に気色悪いヨーデルの交錯。初見で完全に飲み込まれました。タイスはヨーデル、フルートに加え、歯笛まで披露しちゃってます。多芸ですな。「衝撃を受けた名曲」という名にふさわしい作品です。
      </div>
+
      <div class="song">
       <div class="song-title">
        Comfortably Numb(Live)
@@ -69,6 +93,7 @@
       <br />
       口を開けて見入ってしまった作品です。是非、映像で。
      </div>
+
      <div class="song">
       <div class="song-title">
        The Show Must Go On
@@ -93,6 +118,7 @@
       <br />
       フレディの、最後の力を振り絞るような精一杯のボーカルと、何か前向きな感じの雰囲気がまた涙を誘います。この曲における、己の生命を賭けたフレディのボーカルは、ロック史上最高だと断言します。泣けます。
      </div>
+
      <div class="song">
       <div class="song-title">
        Dabsong Conshirtoe
@@ -114,6 +140,7 @@
       Caravanの最高傑作といえば、私は迷いなくこれを押します。序盤はキャラバンらしい、明るい曲調とパイ・ヘイスティングスによる穏やかなボーカルが心地よい。<br />
       後半は一気に曲調が変わり、アヴァンギャルドな展開。ポップさとアヴァンギャルドさが詰まった、Caravanというバンドの縮図のような作品。これを初めて聴いて衝撃を受け、それからCaravanにハマりました。個人的に、プログレの中では最も好きな曲の一つかなぁ。
      </div>
+
      <div class="song">
       <div class="song-title">
        Hotel California
@@ -136,6 +163,7 @@
       <br />
       歌パートだけでも感激なんですが、極めつけは、ドン・フェルダーとジョーン・ウォルシュによるラストのギターインストパート。なんと表現したらよいかわからない寂しさと激しさ。ジャケットの風景にもよく合うんだ、これが。狂ったようにエンドレスリピートした曲です。
      </div>
+
      <div class="song">
       <div class="song-title">
        Child In Time
@@ -158,6 +186,7 @@
       <br />
       初めて、音楽で度肝を抜かれた作品ということで、結構思い入れがあります。
      </div>
+
      <div class="song">
       <div class="song-title">
        Lost Angels(Live)
@@ -180,6 +209,7 @@
       バックの演奏も素晴らしいですが、彼のエネルギッシュなボーカルも最高です。<br />
       後半のインストの疾走感、躍動感たるや凄まじい。これほどのものはそうそうないですね。特に、13分くらいで一旦テンポダウンして、「これで終わりかな？」と思わせてからのテンポアップのところが悶絶物。デイブ・クレム・クレムソンのギターが最高。これは今でもエンドレスリピートの一角です。
      </div>
+
      <div class="song">
       <div class="song-title">
        Sing Sing Sing
@@ -202,6 +232,7 @@
       <br />
       感動したのは最後の（確か）村上ポンタ秀一によるドラムソロ。これはロック好きにも聴いてほしいなぁ。
      </div>
+
      <div class="song">
       <div class="song-title">
        Flight Over Rio
