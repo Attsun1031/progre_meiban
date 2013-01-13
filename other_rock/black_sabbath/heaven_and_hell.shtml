@@ -23,8 +23,8 @@
     </h1>
     <!--#include virtual="/common/social.html"-->
     <div id="main-content">
+     <img class="artwork" src="/img/artwork/heaven_and_hell.jpg" border="0" alt="heaven_and_hell.jpg(23459 byte)" />
      <div class="content">
-      <img class="artwork" src="/img/artwork/heaven_and_hell.jpg" border="0" alt="heaven_and_hell.jpg(23459 byte)" />
       ボーカルにはオジー・オズボーンではなく、
       <a href="/other_rock/rainbow.shtml">
        レインボー
