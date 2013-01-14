@@ -1,36 +1,36 @@
 body {
-    margin: 0 auto;
-    width: 820px;
-    font-family: 'メイリオ','Meiryo','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3',Verdana, Geneva, Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  width: 900px;
+  font-family: 'メイリオ','Meiryo','Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3',Verdana, Geneva, Arial, Helvetica, sans-serif;
 }
 
 #header {
-    float: left;
-    width: 820px;
-	margin: 0 0 20px 0;
-	border-bottom: 3px double #24355D;
+  float: left;
+  width: 900px;
+  margin: 0 0 20px 0;
+  border-bottom: 3px double #24355D;
 }
 
 #navi {
-    float: left;
-    width: 215px;
-    font-size: 10pt;
-    font-weight: bold;
-    margin: 0 10px 0 0;
+  float: left;
+  width: 255px;
+  font-size: 10pt;
+  font-weight: bold;
+  margin: 0 10px 0 0;
 }
 
 #main {
-    float: left;
-    width: 585px;
-    font-size: 10pt;
-    margin: 0 0 0 10px;
+  float: left;
+  width: 600px;
+  font-size: 10pt;
+  margin: 0 0 0 10px;
 }
 
 #sitemap-main {
-    float: left;
-    width: 800px;
-    font-size: 10pt;
-    margin: 0 0 0 10px;
+  float: left;
+  width: 800px;
+  font-size: 10pt;
+  margin: 0 0 0 10px;
 }
 
 #footer {
