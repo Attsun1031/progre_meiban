@@ -511,7 +511,7 @@ ul {
 	padding: 3px;
 	background: #333333;
 	font-size: 11px;
-	width: 180px;
+	width: auto;
 	top: 25px;
 }
 .xbreadcrumbs LI UL LI {
