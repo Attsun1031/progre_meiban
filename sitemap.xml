@@ -486,12 +486,12 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/caravan/in_the_land_of_grey_and_pink.shtml</loc>
-  <lastmod>2013-01-14T08:34:31Z</lastmod>
+  <lastmod>2013-01-14T08:52:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/caravan/live_at_the_astoria.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-01-14T08:53:58Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -586,7 +586,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/england/garden_shed.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-01-20T02:39:15Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -615,13 +615,23 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://progre-meiban.com/progressive_rock/fruupp.shtml</loc>
+  <lastmod>2013-01-20T02:46:23Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/fruupp/modern_masquerades.shtml</loc>
+  <lastmod>2013-01-20T02:49:40Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://progre-meiban.com/progressive_rock/genesis.shtml</loc>
   <lastmod>2012-12-30T02:26:30Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/genesis/foxtrot.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-01-20T02:40:33Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -631,7 +641,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/genesis/selling_england_by_the_pound.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-01-20T02:40:30Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1091,7 +1101,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/progressive_rock/progre_masterpiece.shtml</loc>
-  <lastmod>2012-12-19T10:43:15Z</lastmod>
+  <lastmod>2013-01-20T02:51:51Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1106,7 +1116,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-01-14T08:34:53Z</lastmod>
+  <lastmod>2013-01-20T02:52:13Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
