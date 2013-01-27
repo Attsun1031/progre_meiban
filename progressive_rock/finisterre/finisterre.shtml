@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Finisterre,フィニステッレ,イタリア,プログレ" />
+  <meta name="description" content="Genesisを彷彿とさせるリリカルな音色を基本としながらも、ハードロックなど別ジャンルも垣間見える面白い作品。" />
+  <title>
+   Finisterre - Finisterre - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/finisterre.html"-->
+    <h1>
+     Finisterre
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/finisterre.jpg" border="0" alt="finisterre.jpg(20450 byte)" />
+     <div class="content">
+      本作はFinisterreの1stアルバム。<br />
+      基本的には<span class="black">Genesis由来のリリカルな音</span>なんですが、ハードな面があったりジャジーな面があったりと、様々な顔を見せます。<br /><br />
+      聴きどころは１５分の長曲⑤「ΣＹＮ」。<br />
+      この曲の特徴はなんといっても、<span class="red">目まぐるしいほどの曲展開</span>。<br />
+      序盤はピアノとフルートによる叙情的で穏やかな演奏が展開されますが、そこからフルートの美しさそのままにハードなメロディに移行。<br />
+      その後もどんどん曲展開を変えながら15分突っ走ります。後半のギターとフルートの掛け合いは中々のものです。<br /><br />
+      ただうまく融合されているというよりは、ちょっと詰め込み方が無理矢理な感じします。 色々詰め込まれていて一度では消化不良でした。<br />
+      まぁそのカオスさも聴き様によっては面白くも感じられるかもしれないですが。<br /><br />
+      全体的にフルートとギターの音色は非常に美しいと思います。スティーブ・ハケットが好きな方にはうってつけではないでしょうか。<br />
+      詰め込み過ぎとは書きましたが、<span class="black">これがうまくまとまったらかなり面白くなりそう</span>だと感じさせる作品でした。
+      </div>
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/5cqTSC9V4Os" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Asia Minor「<a class="album-name" href="/progressive_rock/asia_minor/between_flesh_and_divine.shtml">Between Flesh And Divine</a>
+        </li>
+        <li>
+         Genesis「<a href="/progressive_rock/genesis/selling_england_by_the_pound.shtml">Selling England By The Pound (月影の騎士)</a>」
+        </li>
+        <li>
+         Itoiz 「<a href="/progressive_rock/itoiz/itoiz.shtml">Itoiz</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
