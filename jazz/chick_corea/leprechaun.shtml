@@ -23,25 +23,7 @@
     </h1>
     <!--#include virtual="/common/social.html"-->
     <div id="main-content">
-     <div class="amazon-mp3">
-      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_0f14e6e7-4953-466e-86a7-efbfce11d00f" width="250px" height="250px">
-       <param name="movie" value="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F0f14e6e7-4953-466e-86a7-efbfce11d00f&amp;Operation=GetDisplayTemplate">
-       </param>
-       <param name="quality" value="high">
-       </param>
-       <param name="bgcolor" value="#FFFFFF">
-       </param>
-       <param name="allowscriptaccess" value="always">
-        <embed src="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F0f14e6e7-4953-466e-86a7-efbfce11d00f&amp;Operation=GetDisplayTemplate" id="Player_0f14e6e7-4953-466e-86a7-efbfce11d00f" quality="high" bgcolor="#ffffff" name="Player_0f14e6e7-4953-466e-86a7-efbfce11d00f" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="250px" width="250px">
-        </embed>
-       </param>
-      </object>
-      <noscript>
-       <a href="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F0f14e6e7-4953-466e-86a7-efbfce11d00f&amp;Operation=NoScript">
-        Amazon.com Widgets
-       </a>
-      </noscript>
-     </div>
+     <img class="artwork" src="/img/artwork/leprechaun.jpg" border="0" alt="leprechaun.jpg(22162 byte)" />
      <div class="content">
       「Leprechaun」は1976年に発表された、チック・コリアのソロ作品。
       <br />
@@ -74,8 +56,6 @@
       があります。
       <br />
       クライマックスのドラムソロ、キレのあるハイハットも素晴らしい。ジャズロック好きならば聴いておくべき名曲ですね。
-      <br />
-      <br />
       <div class="youtube-movie">
        <iframe width="560" height="349" src="http://www.youtube.com/embed/6hUGKu5WwrA" frameborder="0" allowfullscreen="allowfullscreen">
        </iframe>
@@ -91,23 +71,15 @@
        ◎この作品が好きな人へのおすすめ作品
        <ul>
         <li>
-         Al Di Meola 「
-         <a href="/jazz/al_di_meola/elegant_gypsy.shtml">
-          Elegant Gypsy (エレガント・ジプシー)
-         </a>
-         」
-        </li>
+         Al Di Meola 「<a href="/jazz/al_di_meola/elegant_gypsy.shtml">Elegant Gypsy (エレガント・ジプシー)</a>」</li>
         <li>
-         Return to Forever 「
-         <a href="/jazz/return_to_forever/light_as_a_feather.shtml">
-          Light as a Feather (ライト・アズ・ア・フェザー)
-         </a>
-         」
+        <li>
+         Herbie Hancock「<a href="/jazz/herbie_hancock/head_hunters.shtml">Head Hunters</a>」</li>
+        <li>
+         Return to Forever 「<a href="/jazz/return_to_forever/light_as_a_feather.shtml">Light as a Feather (ライト・アズ・ア・フェザー)</a>」
         </li>
        </ul>
       </div>
-      <br />
-      <br />
       <a id="parent-url" href="javascript:void(0)">
        &lt;&lt;戻る
       </a>

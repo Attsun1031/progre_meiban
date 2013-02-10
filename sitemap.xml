@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/index.shtml</loc>
-  <lastmod>2013-01-20T03:00:41Z</lastmod>
+  <lastmod>2013-02-04T12:01:29Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -66,7 +66,17 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/chick_corea/leprechaun.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-02-10T03:37:20Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/jazz/herbie_hancock.shtml</loc>
+  <lastmod>2013-02-10T03:30:53Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/jazz/herbie_hancock/head_hunters.shtml</loc>
+  <lastmod>2013-02-10T03:47:26Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -96,7 +106,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/return_to_forever/romantic_warrior.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-02-10T03:34:45Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -606,7 +616,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/finisterre/finisterre.shtml</loc>
-  <lastmod>2013-01-27T14:36:42Z</lastmod>
+  <lastmod>2013-01-28T12:56:03Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -881,7 +891,17 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/osanna.shtml</loc>
-  <lastmod>2012-12-30T02:26:30Z</lastmod>
+  <lastmod>2013-02-04T12:07:54Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/osanna/:</loc>
+  <lastmod>2013-02-04T11:44:52Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/osanna/milano_calibro9.shtml</loc>
+  <lastmod>2013-02-04T12:17:21Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -986,7 +1006,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/soft_machine/softs.shtml</loc>
-  <lastmod>2013-01-05T02:29:51Z</lastmod>
+  <lastmod>2013-02-10T03:33:19Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1086,12 +1106,12 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/others/for_drammers.shtml</loc>
-  <lastmod>2012-12-19T10:42:20Z</lastmod>
+  <lastmod>2013-02-10T03:42:02Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/special/others/jazz_rock_masterpiece.shtml</loc>
-  <lastmod>2013-01-20T03:30:28Z</lastmod>
+  <lastmod>2013-02-10T03:40:22Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1111,7 +1131,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/progressive_rock/progre_masterpiece.shtml</loc>
-  <lastmod>2013-01-20T03:28:31Z</lastmod>
+  <lastmod>2013-02-04T12:11:47Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1126,7 +1146,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-01-28T12:45:29Z</lastmod>
+  <lastmod>2013-02-10T03:47:45Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Head Hunters,ヘッド・ハンターズ,ジャズ,ファンク,ジャズ・ファンク,エレクトリック・ジャズ,ハービー・ハンコック,Herbie Hancock,名盤" />
+  <meta name="description" content="ファンクビートの上で舞うハービーのエレクトリックピアノやシンセは聴き応え抜群。ジャズとファンクが素晴らしく溶け合った名盤。" />
+  <title>
+   Head Hunters - Herbie Hancock（ハービー・ハンコック） - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/jazz/head_hunters.html"-->
+    <h1>
+     Head Hunters
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/head_hunters.jpg" border="0" alt="head_hunters.jpg(22162 byte)" />
+     <div class="content">
+       本作は1973年にリリースされた１２枚目の作品。<br />
+       エレピやシンセサイザーを大胆に使ったエレクトリックジャズですが、16ビートを多用したジャズ・ファンクの名演でもあります。<br /><br />
+       ハンコックのプレイも素晴らしいのですが、それ以上にハービー・メイスンの<span class="red">一糸乱れぬ緻密かつ強烈なファンクビートに耳を奪われてしまいます</span>。<br />
+       自分も趣味程度にドラムをかじっていますが、「こんなふうに叩けたら気持ち良いだろうな〜」、と思ってしまうようなドラム。<br /><br />
+       全曲素晴らしいですが、圧巻は③「SLY」。場面の展開が目まぐるしい名曲です。<br />
+       最初はゆっくりとしたリズムのなかで同じキメの繰り返しですが、2分を超えたあたりから様相が一変。ハービー・メイスンとポール・ジャクソンのエレキベースによるアグレッシブな16ビートの上でベニー・モウピンのサックスが乱舞。<br />
+       5分を超えたあたりからハンコックがエレピで登場。ここのパートは全員の息がぴったりで、なんというか、<span class="black">一個一個の楽器が独立しているとは思えないほどの一体感を醸し出しています</span>。<br />
+       負けじと繰り出すハービー・メイスンの軽快なフィルインも素敵。<br /><br />
+       本作発表以前にハービー・ハンコックの夢枕に日蓮上人が立ち、「自分の思う通りにやりなさい」みたいなお告げを受け、本作を作ったというなんともスピリチュアルなエピソードもあったりします。<br /><br />
+       これはフュージョン好きはもとより、<span class="red">ジャンルの好き嫌い問わず聴いてほしい名盤</span>です。必聴。
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/I3vhl88j9jg" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B000024F6K" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Chick Corea「<a class="album-name" href="/jazz/chick_corea/leprechaun.shtml">Leprechaun（妖精）</a>」
+        </li>
+        <li>
+         Return To Forever「<a class="album-name" href="/jazz/return_to_forever/romantic_warrior.shtml">Romantic Warrior（浪漫の騎士）</a>」
+        </li>
+        <li>
+         Soft Machine「<a class="album-name" href="/progressive_rock/soft_machine/softs.shtml">Softs</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
