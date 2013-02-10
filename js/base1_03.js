@@ -1,3 +1,21 @@
+var PROGRE = PROGRE || {};
+PROGRE.util = {
+  strip: function(a) {
+    return a.replace(/^\s*(.*?)\s*$/, "$1")
+  }
+};
+
+PROGRE.app = {
+  setupFbBtn: function() {
+    var a = [];
+    a.push("//www.facebook.com/plugins/like.php?href=" + document.URL);
+    a.push("&send=false&layout=button_count&width=100&show_faces=false&action=like&colorscheme=light&font&height=21&appId=377916442224535");
+    a = a.join("");
+    var b = '<iframe src="' + a + '" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>';
+    $("#fb-button").append(b)
+  }
+};
+
 $(function(){
 	// set up fb like
 	var src  = [];
@@ -71,7 +89,7 @@ $(function(){
 	path_arr.shift();
 	var link;
 	while(path_arr.length){
-		link=$('#navi').find('a[href*=/'+path_arr.join('/')+']');
+		link=$('#navi').find('a[href*="/'+path_arr.join('/')+'"]');
 		if(link.length){
 			link.parent("li").addClass("fix-selected");
 			// 親要素のsecond-list以外はリストを閉じる

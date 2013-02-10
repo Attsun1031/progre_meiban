@@ -168,6 +168,7 @@ h1 {
 
 .band-name-list li {
 	padding: 5px 5px;
+	cursor: pointer;
 }
 
 .band-name-list li a {
