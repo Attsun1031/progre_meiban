@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="プログレ,pink floyd,ピンク・フロイド,鬱,A Momentary Lapse of Reason" />
+  <meta name="description" content="ロジャー・ウォーターズ脱退後初めてのアルバム。ギルモア色に染まったフロイド、私は好きです。" />
+  <title>
+   A Momentary Lapse of Reason（鬱） - Pink Floyd (ピンク・フロイド) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/a_momentary_lapse_of_reason.html"-->
+    <h1>
+     A Momentary Lapse of Reason（鬱）
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/a_momentary_lapse_of_reason.jpg" border="0" alt="a_momentary_lapse_of_reason.jpg(30123 byte)" />
+     <div class="content">
+      1987年に発表されたピンク・フロイドの11作目。<br />
+      前作「ファイナルカット」をもってフロイドは解散しましたが、それに反してギルモアはウォーターズ抜きで再結成しようと試みます。<br />
+      その時にやはり色々とトラブルがあり、「ピンク・フロイド」の名義仕様に関してフロイドを解散させたウォーターズとギルモアとの間で裁判にまでなったそうです。<br />
+      こういった経緯を踏まえると、本作は<span class="black">ピンク・フロイドというバンドにおいても重要な作品</span>ではないでしょうか。<br /><br />
+      内容は、やはり<span class="red">ギルモアのギターとボーカルが前面に押し出された作品</span>となっています。<br />
+      ギルモアが中心になると、従来のサイケ色やプログレ色が薄れて非常に聴きやすくなるんですよね。「<a href="/progressive_rock/pink_floyd/atom_heart_mother.shtml">原子心母</a>」のようないかにもなプログレを期待すると裏切られますが、プログレというジャンルを意識しすぎずに聴ければ非常に心地良い作品だということがわかってもらえると思います。<br /><br />
+      メンバーはギルモアとメイスンで、リック・ライトはゲスト扱いとなっています。その他、クリムゾンのトニー・レヴィン、ヴァニラ・ファッジやBBCで活躍のドラマーであるカーマイン・アピスなど多数のミュージシャンが参加しています。<br />
+      また、④「One Slip」ではソロ作「On an Island」でもお世話になるフィル・マンザネラが曲作りに携わっています。
+      <br /><br />
+      ヒプノシスによる、海岸に800台の病院のベッドを並べたジャケットも印象的です。<br />
+      撮影間際に雨が降ってきて慌てて回収したなんていうエピソードもありますね。
+      <br /><br />
+      続く「Division Bell（対）」やギルモアのソロ作が好きな方には自信を持っておすすめできる良作だと思います。
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/eER7ppOcViI" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <a href="http://www.amazon.co.jp/gp/product/B004ZNA5JO/ref=as_li_ss_tl?ie=UTF8&amp;camp=247&amp;creative=7399&amp;creativeASIN=B004ZNA5JO&amp;linkCode=as2&amp;tag=progremeibans-22">Momentary Lapse of Reason</a><img src="http://www.assoc-amazon.jp/e/ir?t=progremeibans-22&amp;l=as2&amp;o=9&amp;a=B004ZNA5JO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         David Gilmour「<a href="/progressive_rock/david_gilmour/live_in_gdansk.shtml">LIVE IN GDANSK (狂気の祭典)</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
