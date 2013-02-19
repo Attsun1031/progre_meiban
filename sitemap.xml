@@ -66,17 +66,17 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/chick_corea/leprechaun.shtml</loc>
-  <lastmod>2013-02-10T03:37:20Z</lastmod>
+  <lastmod>2013-02-10T03:54:39Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/herbie_hancock.shtml</loc>
-  <lastmod>2013-02-10T03:30:53Z</lastmod>
+  <lastmod>2013-02-10T03:49:29Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/herbie_hancock/head_hunters.shtml</loc>
-  <lastmod>2013-02-10T03:47:26Z</lastmod>
+  <lastmod>2013-02-10T03:51:20Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -106,7 +106,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/return_to_forever/romantic_warrior.shtml</loc>
-  <lastmod>2013-02-10T03:34:45Z</lastmod>
+  <lastmod>2013-02-10T03:53:13Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -921,7 +921,12 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/pink_floyd.shtml</loc>
-  <lastmod>2013-01-05T02:12:17Z</lastmod>
+  <lastmod>2013-02-18T15:46:08Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/pink_floyd/a_momentary_lapse_of_reason.shtml</loc>
+  <lastmod>2013-02-18T15:45:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -936,7 +941,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/pink_floyd/meddle.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-02-19T00:07:54Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1006,7 +1011,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/soft_machine/softs.shtml</loc>
-  <lastmod>2013-02-10T03:33:19Z</lastmod>
+  <lastmod>2013-02-10T03:53:52Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1146,7 +1151,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-02-10T03:47:45Z</lastmod>
+  <lastmod>2013-02-19T00:08:10Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
