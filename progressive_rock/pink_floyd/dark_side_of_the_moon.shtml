@@ -23,25 +23,7 @@
     </h1>
     <!--#include virtual="/common/social.html"-->
     <div id="main-content">
-     <div class="amazon-mp3">
-      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_5a265c8d-c917-409a-a895-ed3851a98af2" width="250px" height="250px">
-       <param name="movie" value="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F5a265c8d-c917-409a-a895-ed3851a98af2&amp;Operation=GetDisplayTemplate">
-       </param>
-       <param name="quality" value="high">
-       </param>
-       <param name="bgcolor" value="#FFFFFF">
-       </param>
-       <param name="allowscriptaccess" value="always">
-        <embed src="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F5a265c8d-c917-409a-a895-ed3851a98af2&amp;Operation=GetDisplayTemplate" id="Player_5a265c8d-c917-409a-a895-ed3851a98af2" quality="high" bgcolor="#ffffff" name="Player_5a265c8d-c917-409a-a895-ed3851a98af2" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="250px" width="250px">
-        </embed>
-       </param>
-      </object>
-      <noscript>
-       <a href="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F5a265c8d-c917-409a-a895-ed3851a98af2&amp;Operation=NoScript">
-        Amazon.com Widgets
-       </a>
-      </noscript>
-     </div>
+     <img class="artwork" src="/img/artwork/dark_side_of_the_moon.jpg" border="0" alt="dark_side_of_the_moon.jpg(30123 byte)" />
      <div class="content">
       言わずと知れた、
       <span class="red">
