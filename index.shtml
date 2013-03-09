@@ -21,23 +21,24 @@
           <div class="content">
             プログレッシブロックをはじめ、ハードロック、ジャズロック、その他ロックの名盤を中心に紹介していきます。
             なお、紹介文には当然私自身の好みが色濃く反映さてますので、参考程度に見て頂ければなと思っています。<br /><br />
+            ※アーティストの誕生日を毎日つぶやいてます！<br />
+            <a href="https://twitter.com/progre_birthday" class="twitter-follow-button" data-show-count="false" data-lang="ja">@progre_birthdayさんをフォロー</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            <br /><br />
             ※<a href="http://www.facebook.com/pages/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E5%90%8D%E7%9B%A4%E9%81%B8/231394190242841">facebookページ</a>と<a href="http://p.mixi.jp/progre_meiban">mixiページ</a>を開設してみました。<br /><br />
-            ご感想等は<a class="mail-address"></a>にお願い致します。メッセージ頂けると喜びます！
+            ※ご感想等は<a class="mail-address"></a>にお願い致します。メッセージ頂けると喜びます！
             <h3>◎一押しの名盤</h3>
-            <img class="m-artwork" src="/img/artwork/brain.jpg" border="0" alt="brain.jpg(17754 byte)" />
-            <a class="album-name" href="/jazz/uehara_hiromi/brain.shtml">
-             Brain（ブレイン）
+            <img class="m-artwork" src="/img/artwork/blind_dog_at_stdunstans.jpg" border="0" alt="blind_dog_at_stdunstans.jpg(21547 byte)" />
+            <a class="album-name" href="/progressive_rock/caravan/blind_dog_at_stdunstans.shtml">
+             Blind Dog At St.Dunstans'（聖ダンスタンス通りの盲犬）
             </a>
             <br />
-            本作を通じて披露される高い緊張感とシリアスなピアノの旋律は上原ひろみの真骨頂。
+            パイ・ヘイスティングスのボーカルの比重が高まり、一層聴きやすくなりました。Caravan特有のアバンギャルドなメロディも健在。
             <p class="clear-left">
             </p>
 
             <h3>◎更新情報</h3>
             <!--#include file="common/update_info.html"-->
-
-            <h3>◎誕生日の近いアーティスト</h3>
-            <!--#include file="common/birthday.html"-->
 
             <h3>◎管理人</h3>
             ドラムを嗜むプログレ信者です。<br />
