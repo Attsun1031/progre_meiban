@@ -60,8 +60,6 @@
        </iframe>
       </div>
       <!--#include virtual="/common/ads.html"-->
-      <br />
-      <br />
       <div class="related-recommendation">
        ◎この作品が好きな人へのおすすめ作品
        <ul>
@@ -95,8 +93,6 @@
         </li>
        </ul>
       </div>
-      <br />
-      <br />
       <a id="parent-url" href="javascript:void(0)">
        &lt;&lt;戻る
       </a>

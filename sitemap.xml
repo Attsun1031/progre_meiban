@@ -691,7 +691,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/i_camaleonti/che_aereo_stupendo_la_speranza.shtml</loc>
-  <lastmod>2013-02-24T11:49:24Z</lastmod>
+  <lastmod>2013-02-24T11:55:44Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -766,7 +766,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/king_crimson/red.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-03-09T07:52:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -916,7 +916,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/perigeo/abbiamo_tutti_un_blues_da_piangere.shtml</loc>
-  <lastmod>2013-02-24T11:48:39Z</lastmod>
+  <lastmod>2013-02-24T12:18:50Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1076,12 +1076,17 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/van_der_graaf_generator.shtml</loc>
-  <lastmod>2012-12-30T02:26:30Z</lastmod>
+  <lastmod>2013-03-09T07:24:01Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/van_der_graaf_generator/pawn_hearts.shtml</loc>
+  <lastmod>2013-03-09T07:52:18Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/van_der_graaf_generator/still_life.shtml</loc>
-  <lastmod>2012-12-02T03:31:40Z</lastmod>
+  <lastmod>2013-03-09T07:52:31Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1120,13 +1125,18 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://progre-meiban.com/special/others/:</loc>
+  <lastmod>2013-02-24T11:57:28Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://progre-meiban.com/special/others/for_drammers.shtml</loc>
   <lastmod>2013-02-10T03:42:02Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/special/others/jazz_rock_masterpiece.shtml</loc>
-  <lastmod>2013-02-10T03:40:22Z</lastmod>
+  <lastmod>2013-02-24T11:58:10Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1141,12 +1151,12 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/progressive_rock/for_progre_beginners.shtml</loc>
-  <lastmod>2013-01-20T03:30:19Z</lastmod>
+  <lastmod>2013-03-09T07:26:08Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/special/progressive_rock/progre_masterpiece.shtml</loc>
-  <lastmod>2013-02-04T12:11:47Z</lastmod>
+  <lastmod>2013-03-09T07:26:46Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1161,7 +1171,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-02-24T11:52:07Z</lastmod>
+  <lastmod>2013-03-09T07:59:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

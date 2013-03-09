@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Pawn Hearts,Van Der Graaf Generator,VDGG,プログレ,名盤" />
+  <meta name="description" content="全曲10分超え、重量感のある傑作。聴くのに体力いりますが、プログレを語る上で外せない名作ではないでしょうか。" />
+  <title>
+   Pawn Hearts - Van Der Graaf Generator - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/pawn_hearts.html"-->
+    <h1>
+     Pawn Hearts
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/pawn_hearts.jpg" border="0" alt="pawn_hearts.jpg(26765 byte)" />
+     <div class="content">
+       本作はVDGGの３作目。<br />
+       全曲10分超えの３曲のみと、VDGGの気合が見えます。<br /><br />
+       ①「Lemmings」から、ピーター・ハミルを中心に展開する独特の世界観に飲み込まれていきます。<br />
+       非常に攻撃的な曲で、序盤のベースラインのごつさといったらない。<br />
+       <span class="black">ピーター・ハミルの凶暴的なボーカル、それに負けじと暴れるオルガンとサックス</span>。<br />
+       ほんと、<span class="red">音の洪水と言った感じで一回では何が起こったかよくわからん</span>、という状態でした。<br />
+       １曲目ですが、これだけで十分満足できるんではないでしょうか。<br /><br />
+       続く②「Man Erg」では、ゲストでロバート・フリップが参加しています。<br /><br />
+       そしてクライマックスの③「A Plague of Lighthouse Keepers」は23分を超える大作。<br />
+       こちらはLemmingsのような凶暴性よりも、語りかけるようなハミルのボーカルにうっとりします。<br /><br />
+       また、ボーナストラックとして収録された、ジョージ・マーティン原作の「Theme One」なんかは結構良いので、ボーナストラック付きの盤を買うことをおすすめします。<br /><br />
+       作品の充実度、バンドの人気からして<span class="red">プログレファンならば必聴</span>と言っていいレベルの名盤だと思います。
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/rLd33iMnPTU" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B0009F9O6W" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Anyone's Daughter 「<a href="/progressive_rock/anyones_daughter/piktors_verwandlungen.shtml">Piktors Verwandlungen (ピクトルの変身)</a>」
+        </li>
+        <li>
+         Van Der Graaf Generator「<a href="/progressive_rock/van_der_graaf_generator/still_life.shtml">Still Life</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
