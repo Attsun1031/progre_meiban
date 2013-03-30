@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Forever Begins,山中千尋,ジャズ,Jazz,ジャズピアノ,ピアノ" />
+
+  <meta name="description" content="山中千尋で一枚と言われれば間違い無くこれ。「So Long」は山中千尋の魅力が無駄なく最大に凝縮された、彼女の代表的な曲です。" />
+  <title>
+   Forever Begins - 山中千尋 - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/jazz/forever_begins.html"-->
+    <h1>
+     Forever Begins
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/forever_begins.jpg" border="0" alt="forever_begins.jpg(16191 byte)" />
+     <div class="content">
+       山中千尋の10作目となる今作。2010年作。ベースにはベン・ウィリアムス、ドラムにはケンドリック・スコット。<br /><br />
+       まず①「So Long」。もう<span class="black">これだけで買う価値があるくらいの名曲</span>。<br />
+       昔聴いたことがあるような、なんとも親しみ溢れる曲です。初めて聴いたときは定番のジャズ・スタンダードか、どこかの国の民謡か何かかと本気で思ってましたが、自作と聴いてびっくり・・。<br />
+       このメロディはそう勘違いさせるくらいの暖かさと郷愁を持っております。中盤の激しいソロも素敵。<br />
+       山中千尋の歌心と、時折魅せる激しさの両方を味わえる、まさに<span class="red">山中千尋の魅力がぎっしり詰まった名曲</span>といえるでしょう。<br /><br />
+       しかしこのアルバム、これだけでは終わらない。⑥「Good Morning, Heartache」からラストの⑩「Avance」までの流れが完璧なのです。<br />
+       特に⑥と⑧「Forever Begins」での妖艶な演奏は是非ともしっかり聴いていただきたい。⑧の後半、シリアスな雰囲気の中での波のようなグリッサンドの連続技には本当に心が震えます。<br />
+       ⑦「Saudade E Crinho」はラテン系のナンバー、⑨「The Moon Was Yellow」ではバカテクが惜しみなく披露されてます。<br /><br />
+       筒美京平作曲（近藤真彦の1stアルバム収録）の③「Summer Wave」も、山中千尋らしくピアノの端から端まで縦横無尽に行き交うプレーが味わえます。<br /><br />
+       <span class="red">山中千尋史上会心の傑作</span>です。是非に。
+      <div class="youtube-movie">
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/Uk-FX0jFbYQ" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B003UDP9GO" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
