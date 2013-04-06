@@ -27,15 +27,9 @@
             <br /><br />
             ※<a href="http://www.facebook.com/pages/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E5%90%8D%E7%9B%A4%E9%81%B8/231394190242841">facebookページ</a>と<a href="http://p.mixi.jp/progre_meiban">mixiページ</a>を開設してみました。<br /><br />
             ※ご感想等は<a class="mail-address"></a>にお願い致します。メッセージ頂けると喜びます！
+
             <h3>◎一押しの名盤</h3>
-            <img class="m-artwork" src="/img/artwork/blind_dog_at_stdunstans.jpg" border="0" alt="blind_dog_at_stdunstans.jpg(21547 byte)" />
-            <a class="album-name" href="/progressive_rock/caravan/blind_dog_at_stdunstans.shtml">
-             Blind Dog At St.Dunstans'（聖ダンスタンス通りの盲犬）
-            </a>
-            <br />
-            パイ・ヘイスティングスのボーカルの比重が高まり、一層聴きやすくなりました。Caravan特有のアバンギャルドなメロディも健在。
-            <p class="clear-left">
-            </p>
+            <!--#include file="common/recommendation.html"-->
 
             <h3>◎更新情報</h3>
             <!--#include file="common/update_info.html"-->
