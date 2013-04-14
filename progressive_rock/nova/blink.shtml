@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Nova,Blink,Osanna,オザンナ,イタリア,ジャズ・ロック,プログレ" />
+  <meta name="description" content="オザンナという名前からはあまり想像できない激しいジャズ・ロック作品。オザンナというよりも、後期ソフトマシーンとかが好きな方にオススメです。" />
+  <title>
+   Blink - Nova（ノヴァ） - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/blink.html"-->
+    <h1>
+     Blink
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/blink.jpg" border="0" alt="blink.jpg(20450 byte)" />
+     <div class="content">
+       <a href="/progressive_rock/osanna.shtml">オザンナ</a>解散後にUnoを結成したばかりのダニロ・ルスティッチと、ダニロの弟であり<a href="/progressive_rock/cervello.shtml">チェルベロ</a>で活動してたコラード・ルスティッチを中心として発足した当バンドの1stアルバム。<br /><br />
+       完全にジャズ・ロック指向となっており、<span class="black">オザンナやチェルベロの毒々しさと禍々しさを期待すると見事に裏切られます</span>。<br />
+       オザンナよりも、後期のソフトマシーンのほうがよっぽど近い。逆にそういったジャズ・ロック好きな方ならば気に入るのではないでしょうか。<br /><br />
+       随所で魅せるギターやサックスのフリーなプレーは非常に格好良いと感じるのですが、ソフトマシーンほどには洗練された感じもしない。<br />
+       よく言えば、<span class="red">イタリアバンドらしい泥臭さは残している</span>と感じます。<br /><br />
+       この作品が泥臭く感じるのは、<span class="red">ベースとドラムの存在感がものすごくでかい</span>からでしょうか。ウネウネしたベースとバタバタしたドラムがアルバム通して鳴り止みません。<br />
+       ソフトマシーンの名作「<a href="/progressive_rock/soft_machine/softs.shtml">Softs</a>」収録の「Ban Ban Caliban」並のテンションのベースとドラムが延々と続く感じ。<br />
+       正直、ギターもサックスも完全にベースとドラムに押し込まれています。ま、そのくらいこの作品のリズム体は迫力あるということです。<br /><br />
+       聴きどころは最後の曲である⑥「STROLL ON」でしょうか。<br />
+       ベース・ドラム・サックス・ギターがこれで最後だと言わんばかりに<span class="black">激しく撃ちあうインタープレイ、その乱闘に果敢に挑む男らしいしゃがれ声のボーカルが非常に素敵</span>。これほど全員がテンション上がりっぱなしの演奏はそうそうないです。この辺の勢い激しいジャズ・ロックは<a href="/progressive_rock/colosseum.shtml">コロシアム</a>を連想させます。<br /><br />
+       オザンナという箔がついているだけに、賛否の分かれそうな作品。私は結構好きです。
+      </div>
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/dQoxzvWy11w" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B000I2K7Q2" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Soft Machine「<a href="/progressive_rock/soft_machine/softs.shtml">Softs</a>」
+        </li>
+        <li>
+         Colosseum「<a href="/progressive_rock/colosseum/live.shtml">LIVE</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
