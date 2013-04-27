@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Fourplay（フォープレイ） - プログレ名盤選
+  </title>
+  <meta name="keywords" content="fourplay,フォープレイ,フュージョン,jazz,リー・リトナー, ボブ・ジェームス, ハーヴィー・メイスン, ネイザン・イースト" />
+  <meta name="description" content="フュージョン系のスタープレイヤーたちを集めたスーパーグループ。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/fourplay.html"-->
+    <h1>
+     Fourplay（フォープレイ）
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      アメリカ
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+         1990年結成のフュージョングループ。<br />
+         メンバーはボブ・ジェームス、リー・リトナー、ネイザン・イースト、そしてハーヴィー・メイスンというそうそうたる顔ぶれ。<br />
+         ギターは98年にリー・リトナーからラリー・カールトンに交代し、2010年からはチャック・ローブが務めています。
+         まさにスーパーバンドといって良いでしょう。<br />
+         ポップやR&Bのテイストがあるスムース・ジャズの色合いが強いので、非常に聴きやすいです。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/fourplay.jpg" border="0" alt="fourplay.jpg(24112 byte)" />
+      <a class="album-name" href="/jazz/fourplay/fourplay.shtml">
+        Fourplay
+      </a>
+      <br />
+      フュージョンの名盤。全体的に落ち着いていていながら、どこかセクシーなメロディが非常に心地良いです。
+      <p class="clear-left">
+      </p>
+      <!--#include virtual="/common/band_intro_ads.html"-->
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

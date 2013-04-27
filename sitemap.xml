@@ -70,6 +70,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://progre-meiban.com/jazz/fourplay.shtml</loc>
+  <lastmod>2013-04-27T07:02:00Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/jazz/fourplay/fourplay.shtml</loc>
+  <lastmod>2013-04-27T07:05:25Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://progre-meiban.com/jazz/herbie_hancock.shtml</loc>
   <lastmod>2013-02-10T03:49:29Z</lastmod>
   <priority>0.5000</priority>
@@ -416,7 +426,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/area/Arbeitmachtfrei.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-04-14T02:36:35Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -546,7 +556,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/colosseum/live.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-04-14T02:43:17Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -901,7 +911,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/nova/blink.shtml</loc>
-  <lastmod>2013-04-14T02:22:19Z</lastmod>
+  <lastmod>2013-04-14T02:33:38Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -916,7 +926,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/osanna.shtml</loc>
-  <lastmod>2013-02-04T12:07:54Z</lastmod>
+  <lastmod>2013-04-14T02:44:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1046,7 +1056,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/soft_machine/softs.shtml</loc>
-  <lastmod>2013-02-10T03:53:52Z</lastmod>
+  <lastmod>2013-04-14T02:36:08Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1161,7 +1171,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/others/jazz_rock_masterpiece.shtml</loc>
-  <lastmod>2013-02-24T11:58:10Z</lastmod>
+  <lastmod>2013-04-14T02:39:16Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1196,7 +1206,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-04-14T02:28:33Z</lastmod>
+  <lastmod>2013-04-27T07:10:43Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Fourplay,フォープレイ,ジャズ,フュージョン,AOR,名盤" />
+  <meta name="description" content="フュージョンの名盤。全体的に落ち着いていてどこかセクシーなメロディが非常に良い。" />
+  <title>
+   Fourplay - Fourplay（フォープレイ） - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/jazz/fourplay.html"-->
+    <h1>
+     Fourplay
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/fourplay.jpg" border="0" alt="fourplay.jpg(22162 byte)" />
+     <div class="content">
+         本作はスーパーフュージョングループ、Fourplayの１作目。<br />
+         メンバーは、ボブ・ジェームス、リー・リトナー、ハーヴィー・メイスン、ネイザン・イースト。<br />
+         内容はといえば、<span class="black">その豪華なメンバーに恥じぬ素晴らしい出来です。</span><br /><br />
+         全体的に非常に落ち着いていて、<a href="/jazz/al_di_meola.shtml">Al Di Meola</a>の作品のように各メンバーが激しく個性をぶつけあうという感じではなく、よくまとまっている印象なのですが、要所要所で繰り出されるボブ・ジェームスとリー・リトナーの<span class="red">ちょっとしたメロディが非常にセクシーで印象的</span>。大人の音楽という感じですね。<br />
+         もちろん、ネイザン・イーストのベースとハーヴィー・メイスンのリズム体も、なんというか非常にエロい（笑）<br /><br />
+         聴きどころは①「BALI RUN」。<br />
+         イントロのネイザン・イーストの静かにうねるベースと、リトナー、ジェームスによる落ち着いた疾走感のあるメロディがとにかく素晴らしい。<br /><br />
+         しかしながら一番注目して欲しいのはハーヴィー・メイスンのドラム。<br />
+         序盤はバスドラとハイハット、たまにクラッシュシンバルとタムを使うのみでスネアは全く使わないんですが（もしかしたらクローズド・リム使ってるかも）、それでも妙な存在感があるんですよね。落ち着いてるけど疾走感がある、という矛盾したことを感じるのは、スネアを叩かずともバスドラとハイハットで疾走感のあるリズムを刻むメイスンのドラムのせいな気がします。<br />
+         4分くらいまでスネアほとんどなしで粘り、クライマックスでスネア開放するんですが、ここで盛り上がるのは当然。<br /><br />
+         <span class="red">フュージョン好きならば一度は聴いてほしい名盤</span>です。
+      <div class="youtube-movie">
+          <iframe width="560" height="315" src="http://www.youtube.com/embed/Slprjz11Ds0" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B000002LQ5" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Return To Forever「<a class="album-name" href="/jazz/return_to_forever/romantic_warrior.shtml">Romantic Warrior（浪漫の騎士）</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
