@@ -7,7 +7,7 @@ from BeautifulSoup import NavigableString
 import copy
 import sys
 
-PARENT_DIR = '/Users/atsumitatsuya/Workspace/progre_meiban'
+PARENT_DIR = '/Users/atsumitatsuya/src/progre_meiban'
 SITEMAP = 'sub_contents/sitemap.shtml'
 SITE_DOMAIN = 'http://progre-meiban.com/'
 

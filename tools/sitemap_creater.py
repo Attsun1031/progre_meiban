@@ -7,7 +7,7 @@ from BeautifulSoup import NavigableString
 import os
 
 
-PARENT_DIR = '/Users/atsumitatsuya/Workspace/progre_meiban/'
+PARENT_DIR = '/Users/atsumitatsuya/src/progre_meiban/'
 FORMAT = '/'.join([PARENT_DIR, 'tools/sitemap_orig.shtml'])
 HEADER = '/'.join([PARENT_DIR, 'common/header.shtml'])
 SHTML_EXT = '.shtml'

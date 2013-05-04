@@ -37,7 +37,7 @@
 -->
  <site
   base_url="http://progre-meiban.com/"
-  store_into="/Users/atsumitatsuya/Workspace/progre_meiban/sitemap.xml"
+  store_into="/Users/atsumitatsuya/src/progre_meiban/sitemap.xml"
   verbose="1"
   sitemap_type="web"
  >
@@ -128,7 +128,7 @@
   -->
 
 
-  <directory  path="/Users/atsumitatsuya/Workspace/progre_meiban"    url="http://progre-meiban.com/" />
+  <directory  path="/Users/atsumitatsuya/src/progre_meiban"    url="http://progre-meiban.com/" />
   
   <!--
   "accesslog" nodes tell the script to scan webserver log files to

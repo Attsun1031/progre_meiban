@@ -4,7 +4,7 @@
 import os
 from BeautifulSoup import BeautifulSoup, NavigableString
 
-HOME_PATH = '/Users/atsumitatsuya/Workspace/progre_meiban'
+HOME_PATH = '/Users/atsumitatsuya/src/progre_meiban'
 SITEMAP_PATH = os.path.join(HOME_PATH, 'sub_contents/sitemap.shtml')
 INCLUDE_STRING_MARK = u'!!!include_band_intro_add_here!!!'
 INCLUDE_STRING = NavigableString(u'<!--#include virtual="/common/band_intro_ads.html"-->')

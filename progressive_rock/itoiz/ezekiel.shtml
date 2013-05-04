@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Ezekiel,Itoiz,名盤,シンフォ,フォーク,プログレ,スペイン,バスク" />
+  <meta name="description" content="落ち着いた哀愁と懐かしさのあるメロディが非常に印象的。ロックともフォークとも言えない、他のプログレバンドとは一線を画す音です。" />
+  <title>
+   Ezekiel - Itoiz - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/ezekiel.html"-->
+    <h1>
+     Ezekiel
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/ezekiel.jpg" border="0" alt="ezekiel.jpg(17631 byte)" />
+     <div class="content">
+      バスク出身のバンド、Itoizの２作目にあたる作品。タイトルの意味はよく知りませんが、旧約聖書の３大予言書の一つとして「エゼキエル書（Book of Ezekiel）」というものがあるそうで、それのことなんですかねぇ。<br />
+      前作同様、フォーキーなメロディやバスク語のボーカルなど、<span class="black">他のプログレバンドとは一線を画す</span>面白い作品だと感じます。<br /><br />
+      この作品は本当、形容するのが難しい雰囲気を持っています。ギターやピアノのフレーズはロックやブルースを感じさせるものはあるんですが、何か違うのは間違いないし、フォーキーな雰囲気も出てはいるんですが、フォークだと言われるとそうでない。プログレのバンドでも似たバンドは思いつかない。<br />
+      更にはバスク語による平坦だが不思議な情感と、独特の土臭さを帯びたボーカルが更にこの作品のオリジナリティを感じさせます（バスク語は本作に限りませんが）。<br />
+      まさに、<span class="red">これこそプログレ</span>、と言えるのかもしれませんね。<br /><br />
+      聴きどころは(5)「Ezekielen ikasgaia」。ピアノとアコギの控えめで哀愁漂うメロディの上で舞うItziar Egileorによる美しくも幻想的なボーカルによるイントロ、それに続いてサックス、フルート、ピアノがソロを展開。ここのソロ、激しく盛り上がるという感じではなく常に落ち着いているのですが、<span class="red">なんともいえない湿っぽさと哀愁</span>があって非常に聴き応えあります。これだけ抑揚がないと普通は飽きちゃいそうですが、このバンドはそれでも聴かせてしまうんですよね。<br />
+      後半のItziarのスキャットも感情の爆発を抑えながらも素敵です。<br /><br />
+      これに続く(6)「Ezekielen Ametsa」、今度は幼い子供による唱歌のような歌が冒頭にきます。後半はCarlos Pérezsによるフォーキーで土臭くてのっぺりしていて哀愁漂う魅力的なボーカルが活躍。(5), (6)はほんと、Itoizって<span class="black">不思議な魅力を持ったバンド</span>だなと感じます。<br /><br />
+      ちょっと<span class="red">似た作品が見当たらない、一聴の価値ある良作</span>です。
+      </div>
+      <div class="youtube-movie">
+       <iframe width="560" height="315" src="http://www.youtube.com/embed/QCQWPl5VIXo" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B0002N97AE" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Tai Phong「<a href="/progressive_rock/tai_phong/windows.shtml">Windows</a>」
+        </li>
+        <li>
+         Asia Minor「<a href="/progressive_rock/asia_minor/between_flesh_and_divine.shtml">Between Flesh And Divine</a>」
+        </li>
+        <li>
+         Earth and Fire「<a href="/progressive_rock/earth_and_fire/atlantis.shtml">Atlantis</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
