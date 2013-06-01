@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Semiramis,Dedicato A Frazz,Osanna,イタリア,セミラミス,プログレ" />
+  <meta name="description" content="ダークでヘヴィでおぞましさ全開の良作。一度は聴く価値あります。" />
+  <title>
+   Dedicato A Frazz - Semiramis - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/dedicato_a_frazz.html"-->
+    <h1>
+     Dedicato A Frazz
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/dedicato_a_frazz.jpg" border="0" alt="dedicato_a_frazz.jpg(20450 byte)" />
+     <div class="content">
+         本作はSemiramisの唯一作。1973年発表。<br />
+         内容は、アコースティック音色とエレクトリックな音色、そしてイタリアらしい気味の悪いボーカルがよく融合した良作です。<br /><br />
+         ジャケット含め<span class="red">全体的にかなりダークでヘヴィでおぞましい雰囲気</span>に仕上がっており、<a href="/progressive_rock/opus_avantra.shtml">Opus Avantra</a>とかが好きな人は絶対に気に入るでしょう。<br />
+         特に、ビブラフォンが非常に良いです。美しくて落ち着いた音色の楽器なんですが、この作品の中では<span class="black">その美しさと落ち着きがより一層気味悪い</span>。ビブラフォンに限らず、どの楽器も気味の悪い音を追求している、という感じです。<br /><br />
+         中心人物であるMichele Zarrilloはこのときまだ１６歳というのが恐ろしい。<br />
+         若いといっても、同じく若いメンバーにより作成されたLatte E Mieleの「<a href="/progressive_rock/latte_e_miele/passio_secundum_mattheum.shtml">Passio Secundum Mattheum (受難劇)</a>」のような青臭さはほとんどありません。<br />
+         展開のスムーズさに欠ける点はありますが、まぁ許容範囲でしょう。<br /><br />
+         聴きどころは冒頭の(1)「La bottega del rigattiere」。イントロのビブラフォンの怪しげな音色、不気味に切り込んでくるシンセとハイハット、そしてボーカル。そしてヘヴィなエレキギター。<br />
+         もうこの曲の前半２分にこのアルバムのすべてが詰まっているといっても過言ではありません。こういう雰囲気の曲を延々と聴かされると覚悟してください。<br /><br />
+         これは好みが分かれそうですが、<span class="red">一度は聴く価値のある名盤</span>だと思います。
+      </div>
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="http://www.youtube.com/embed/lMufPrjw8us" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+          <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B000063JY9" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Opus Avantra「<a href="/progressive_rock/opus_avantra/introspezione.shtml">Introspezione</a>」
+        </li>
+        <li>
+         Museo Rosenbach「<a href="/progressive_rock/museo_rosenbach/zarathustra.shtml">Zarathustra</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

@@ -2,10 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
  <head>
   <title>
-   Nova（ノヴァ） - プログレ名盤選
+   Semiramis - プログレ名盤選
   </title>
-  <meta name="keywords" content="Nova,ノヴァ,イタリア,ジャズ・ロック,プログレ,名盤" />
-  <meta name="description" content="元オザンナのダニロ・ルスティッチとチェルベロのコラード・ルスティッチが組んだジャズ・ロックバンド。" />
+  <meta name="keywords" content="Semiramis,セミラミス,イタリア,プログレ,名盤" />
+  <meta name="description" content="ダークでヘヴィな唯一作は名盤です。" />
   <!--#include virtual="/common/head.shtml"-->
  </head>
  <body>
@@ -19,7 +19,7 @@
    <div id="main">
     <!--#include virtual="/common/bread_crumbs/nova.html"-->
     <h1>
-     Nova（ノヴァ）
+     Semiramis
     </h1>
     <!--#include virtual="/common/social.html"-->
     <div id="main-content">
@@ -33,20 +33,18 @@
       ◎概要
      </h3>
      <div class="content">
-       75年、当時Unoにいた元オザンナのダニロ・ルスティッチとElio D'Anna、元Chervelloにいたダニロの弟、コラード・ルスティッチらにより結成されたグループ。<br />
-       イタリアン・プログレというよりは、ソフトマシーンやマハヴィシュヌ・オーケストラのようなジャズ・ロックに近いです。
-
+        1972年デビューのイタリアのバンド。唯一作「Dedicato A Frazz」は一聴の価値のある名盤です。
      </div>
      <h3>
       ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
      </h3>
      <div class="content">
-      <img class="m-artwork" src="/img/artwork/blink.jpg" border="0" alt="blink.jpg(20450 byte)" />
-      <a class="album-name" href="/progressive_rock/nova/blink.shtml">
-        Blink
+      <img class="m-artwork" src="/img/artwork/dedicato_a_frazz.jpg" border="0" alt="blink.jpg(20450 byte)" />
+      <a class="album-name" href="/progressive_rock/semiramis/dedicato_a_frazz.shtml">
+        Dedicato A Frazz
       </a>
       <br />
-      オザンナという名前からはあまり想像できない激しいジャズ・ロック作品。オザンナというよりも、後期ソフトマシーンとかが好きな方にオススメです。
+      ダークでヘヴィでおぞましさ全開の良作。一度は聴く価値あります。
       <p class="clear-left">
       </p>
       <!--#include virtual="/common/band_intro_ads.html"-->
