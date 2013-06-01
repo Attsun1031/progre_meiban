@@ -39,8 +39,6 @@
       <span class="red">
        他にはない異常な魅力を放つ、底知れない作品です。
       </span>
-      <br />
-      <br />
       <div class="youtube-movie">
        <iframe width="425" height="349" src="http://www.youtube.com/embed/uBJxkwjNfvU" frameborder="0" allowfullscreen="allowfullscreen">
        </iframe>
@@ -50,25 +48,20 @@
        </iframe>
       </div>
       <!--#include virtual="/common/ads.html"-->
-      <br />
-      <br />
       <div class="related-recommendation">
        ◎この作品が好きな人へのおすすめ作品
        <ul>
         <li>
-         <a href="/progressive_rock/goblin/roller.shtml">
-          Goblin 「Roller (ローラー)」
-         </a>
+         Goblin 「<a href="/progressive_rock/goblin/roller.shtml">Roller (ローラー)</a>」
         </li>
         <li>
-         <a href="/progressive_rock/new_trolls/concerto_grosso.shtml">
-          New Trolls 「CONCERTO GROSSO PER 1 (コンチェルト・グロッソ)」
-         </a>
+         New Trolls 「<a href="/progressive_rock/new_trolls/concerto_grosso.shtml">CONCERTO GROSSO PER 1 (コンチェルト・グロッソ)</a>」
+        </li>
+        <li>
+         Semiramis 「<a href="/progressive_rock/semiramis/dedicato_a_frazz.shtml">Dedicato A Frazz</a>」
         </li>
        </ul>
       </div>
-      <br />
-      <br />
       <a id="parent-url" href="javascript:void(0)">
        &lt;&lt;戻る
       </a>
