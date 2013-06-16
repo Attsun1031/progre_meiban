@@ -156,7 +156,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/uehara_hiromi/spiral.shtml</loc>
-  <lastmod>2013-06-08T12:29:41Z</lastmod>
+  <lastmod>2013-06-08T12:34:59Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -931,12 +931,17 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/opus_avantra.shtml</loc>
-  <lastmod>2012-12-30T02:26:30Z</lastmod>
+  <lastmod>2013-06-16T02:13:22Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/opus_avantra/introspezione.shtml</loc>
-  <lastmod>2013-06-01T02:49:28Z</lastmod>
+  <lastmod>2013-06-16T02:14:21Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/opus_avantra/lord_cromwell_plays_suite_for_seven_vices.shtml</loc>
+  <lastmod>2013-06-16T02:15:30Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1236,7 +1241,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-06-08T12:31:10Z</lastmod>
+  <lastmod>2013-06-16T02:15:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
