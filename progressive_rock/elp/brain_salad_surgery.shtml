@@ -43,10 +43,8 @@
       <br />
       <br />
       <span class="red">
-       必聴！！
+       必聴です。
       </span>
-      <br />
-      <br />
       <div class="youtube-movie">
        <iframe width="425" height="349" src="http://www.youtube.com/embed/CN11bI1_sZo" frameborder="0" allowfullscreen="allowfullscreen">
        </iframe>
@@ -56,8 +54,14 @@
        </iframe>
       </div>
       <!--#include virtual="/common/ads.html"-->
-      <br />
-      <br />
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Focus「<a class="album-name" href="/progressive_rock/focus/focus_3.shtml">Focus 3</a>」
+        </li>
+       </ul>
+      </div>
       <a id="parent-url" href="javascript:void(0)">
        &lt;&lt;戻る
       </a>

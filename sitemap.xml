@@ -586,7 +586,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/colosseum2/war_dance.shtml</loc>
-  <lastmod>2013-01-13T02:49:59Z</lastmod>
+  <lastmod>2013-06-20T14:09:10Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -656,7 +656,12 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/focus.shtml</loc>
-  <lastmod>2012-12-30T02:26:30Z</lastmod>
+  <lastmod>2013-06-30T02:34:05Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/focus/focus_3.shtml</loc>
+  <lastmod>2013-06-30T02:37:20Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -941,7 +946,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/opus_avantra/lord_cromwell_plays_suite_for_seven_vices.shtml</loc>
-  <lastmod>2013-06-16T02:15:30Z</lastmod>
+  <lastmod>2013-06-16T02:23:54Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1226,7 +1231,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/progressive_rock/progre_masterpiece.shtml</loc>
-  <lastmod>2013-06-01T02:22:45Z</lastmod>
+  <lastmod>2013-06-30T02:36:25Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1241,7 +1246,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-06-16T02:15:49Z</lastmod>
+  <lastmod>2013-06-30T02:38:11Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
