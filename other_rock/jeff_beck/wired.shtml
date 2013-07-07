@@ -23,25 +23,7 @@
     </h1>
     <!--#include virtual="/common/social.html"-->
     <div id="main-content">
-     <div class="amazon-mp3">
-      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_3e5f186c-e1c6-4a0c-8c65-765f153eb2c5" width="250px" height="250px">
-       <param name="movie" value="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F3e5f186c-e1c6-4a0c-8c65-765f153eb2c5&amp;Operation=GetDisplayTemplate">
-       </param>
-       <param name="quality" value="high">
-       </param>
-       <param name="bgcolor" value="#FFFFFF">
-       </param>
-       <param name="allowscriptaccess" value="always">
-        <embed src="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F3e5f186c-e1c6-4a0c-8c65-765f153eb2c5&amp;Operation=GetDisplayTemplate" id="Player_3e5f186c-e1c6-4a0c-8c65-765f153eb2c5" quality="high" bgcolor="#ffffff" name="Player_3e5f186c-e1c6-4a0c-8c65-765f153eb2c5" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="250px" width="250px">
-        </embed>
-       </param>
-      </object>
-      <noscript>
-       <a href="http://ws.amazon.com/widgets/q?rt=tf_w_mpw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fprogremeibans-20%2F8014%2F3e5f186c-e1c6-4a0c-8c65-765f153eb2c5&amp;Operation=NoScript">
-        Amazon.com Widgets
-       </a>
-      </noscript>
-     </div>
+     <img class="artwork" src="/img/artwork/wired.jpg" border="0" alt="wired.jpg(28606 byte)" />
      <div class="content">
       ベックがジャズに傾倒していた頃の作品。前作「ブロウ・バイ・ブロウ」と同様、完全ギターインストのアルバムです。
       <br />
@@ -72,19 +54,21 @@
       <a href="/jazz/brand_x.shtml">
        Brand X
       </a>
-      のような、緊張感たっぷりのジャズロックが好きですが、たまにこういうのも良いですね。②「Come Dancing」の、ファンキーなリズムの上で繰り広げられるベックとハマーのソロは中々クセになります。ギターのゴリゴリした独特の音色が印象的。①「Led Boots」は変拍子の上でハマーとベックがひたすらにひきまくる作品。
+      のような、緊張感たっぷりのジャズロックが好きですが、たまにこういうのも良いですね。②「Come Dancing」の、ファンキーなリズムの上で繰り広げられるベックとハマーのソロは中々クセになります。ギターのゴリゴリした独特の音色が印象的。
       <br />
       <br />
-      ただ、本音を言うとさほど感動はしませんでした。どうも緊張感溢れるという感じはしないんだよなぁ。洗練されすぎていて、聴き手の顔をしかめさせるような、鋭角的な"粗さ"がないという感じでしょうか。聴いていて悪い感じはしないんですが。まぁ世間的な評価は非常に高いので一度聴いてみても良いのではないでしょうか。
-      <br />
-      <br />
+      一番の聴きどころは(1)「Led Boots」。ナラダ・マイケル・ウォルデンのドラムがすごいんです。<br />
+      イントロからなんという違和感溢れるドラム。このハイハットの音と超変則的な足の組み合わせパターンはなんですかね？機械的という表現がぴったり。<br />
+      曲に入ってからのリズム・パターンもまた変態的。これはちょっと真似できそうにありません。<br /><br />
+      <span class="red">Led Bootsのためだけにでも聴く価値はあるでしょう</span>。ドラム好きな方はぜひとも聴いてみてください。
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="//www.youtube.com/embed/BQIdjHcS4m4" frameborder="0" allowfullscreen></iframe>
+      </div>
       <div class="amazon-link">
        <iframe src="http://rcm-jp.amazon.co.jp/e/cm?t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as1&amp;asins=B000E1NY9Y&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=000000&amp;bg1=FFFFFF&amp;f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
        </iframe>
       </div>
       <!--#include virtual="/common/ads.html"-->
-      <br />
-      <br />
       <a id="parent-url" href="javascript:void(0)">
        &lt;&lt;戻る
       </a>
