@@ -141,7 +141,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/uehara_hiromi/beyond_standard.shtml</loc>
-  <lastmod>2012-12-31T08:17:34Z</lastmod>
+  <lastmod>2013-07-07T03:20:54Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -261,7 +261,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/other_rock/jeff_beck/wired.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-07-07T02:55:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -521,7 +521,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/caravan/blind_dog_at_stdunstans.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-07-06T03:18:52Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -590,6 +590,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://progre-meiban.com/progressive_rock/cressida.shtml</loc>
+  <lastmod>2013-08-04T02:51:45Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/cressida/asylum.shtml</loc>
+  <lastmod>2013-08-04T02:51:09Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://progre-meiban.com/progressive_rock/david_gilmour.shtml</loc>
   <lastmod>2012-12-30T02:26:30Z</lastmod>
   <priority>0.5000</priority>
@@ -631,7 +641,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/england/garden_shed.shtml</loc>
-  <lastmod>2013-01-20T02:39:15Z</lastmod>
+  <lastmod>2013-08-04T02:53:15Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -881,7 +891,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/matching_mole/matching_mole.shtml</loc>
-  <lastmod>2013-07-06T02:59:06Z</lastmod>
+  <lastmod>2013-07-06T03:16:55Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -921,7 +931,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/national_health/national_health.shtml</loc>
-  <lastmod>2012-12-29T13:18:02Z</lastmod>
+  <lastmod>2013-07-06T03:21:06Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1106,12 +1116,12 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/soft_machine/softs.shtml</loc>
-  <lastmod>2013-04-14T02:36:08Z</lastmod>
+  <lastmod>2013-07-07T14:53:14Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/soft_machine/third.shtml</loc>
-  <lastmod>2013-07-06T03:05:16Z</lastmod>
+  <lastmod>2013-07-06T03:22:13Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1216,7 +1226,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/others/for_drammers.shtml</loc>
-  <lastmod>2013-02-10T03:42:02Z</lastmod>
+  <lastmod>2013-07-07T03:00:28Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1256,7 +1266,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-07-06T03:05:39Z</lastmod>
+  <lastmod>2013-08-04T02:57:12Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
