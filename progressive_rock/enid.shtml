@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   The Enid - プログレ名盤選
+  </title>
+  <meta name="keywords" content="Aerie Faerie Nonsense,プログレ,オーケストラ" />
+  <meta name="description" content="オーケストラとロックの融合をハイレベルに行った異色のバンド。" />
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/enid.html"-->
+    <h1>
+     The Enid
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <h3>
+      ◎国籍
+     </h3>
+     <div class="content">
+      イギリス
+     </div>
+     <h3>
+      ◎概要
+     </h3>
+     <div class="content">
+         The Enid は1973年に結成されたバンド。<br />
+         作曲家でありピアニストでもあるRobert John Godfrey, Stephan Stewart, Francis Lickerishにより結成。<br />
+         ロックバンドというのが不適切だと感じるほどにかなりオーケストラよりの作品が特徴的。<br />
+         GodfreyはBarclay James Harvestのオーケストラを率いて参加もしてました。
+     </div>
+     <h3>
+      ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
+     </h3>
+     <div class="content">
+      <img class="m-artwork" src="/img/artwork/aerie_faerie_nonsense.jpg" border="0" alt="aerie_faerie_nonsense.jpg(26765 byte)" />
+      <a class="album-name" href="/progressive_rock/enid/aerie_faerie_nonsense.shtml">
+       Aerie Faerie Nonsense
+      </a>
+      <br />
+      オーケストラがロックをうまく取り込んだ良作。この音楽は他のロックバンドでは聴けないです。
+      <p class="clear-left">
+      </p>
+      <!--#include virtual="/common/band_intro_ads.html"-->
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

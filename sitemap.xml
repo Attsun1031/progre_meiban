@@ -411,7 +411,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/alphataurus/alphataurus.shtml</loc>
-  <lastmod>2013-05-04T05:00:07Z</lastmod>
+  <lastmod>2013-08-10T01:14:13Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -645,6 +645,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://progre-meiban.com/progressive_rock/enid.shtml</loc>
+  <lastmod>2013-08-17T03:30:13Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/enid/aerie_faerie_nonsense.shtml</loc>
+  <lastmod>2013-08-17T03:30:31Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://progre-meiban.com/progressive_rock/esperanto.shtml</loc>
   <lastmod>2012-12-30T02:26:30Z</lastmod>
   <priority>0.5000</priority>
@@ -786,7 +796,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/jethro_tull/thick_as_a_brick.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-08-10T01:14:19Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1251,7 +1261,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/special/progressive_rock/progre_masterpiece.shtml</loc>
-  <lastmod>2013-06-30T02:36:25Z</lastmod>
+  <lastmod>2013-08-04T03:04:15Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1266,7 +1276,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-08-04T02:57:12Z</lastmod>
+  <lastmod>2013-08-17T03:32:07Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
