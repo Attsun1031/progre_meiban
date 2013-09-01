@@ -41,8 +41,6 @@
        ド迫力のインタープレイ
       </span>
       が堪能できる名演です。
-      <br />
-      <br />
       <div class="youtube-movie">
        <iframe width="425" height="349" src="http://www.youtube.com/embed/SrN4_Eg2Zx4" frameborder="0" allowfullscreen="allowfullscreen">
        </iframe>
@@ -52,8 +50,6 @@
        </iframe>
       </div>
       <!--#include virtual="/common/ads.html"-->
-      <br />
-      <br />
       <div class="related-recommendation">
        ◎この作品が好きな人へのおすすめ作品
        <ul>
@@ -80,8 +76,6 @@
         </li>
        </ul>
       </div>
-      <br />
-      <br />
       <a id="parent-url" href="javascript:void(0)">
        &lt;&lt;戻る
       </a>
