@@ -95,6 +95,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://progre-meiban.com/jazz/fuse_one.shtml</loc>
+  <lastmod>2013-09-15T05:31:58Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/jazz/fuse_one/fuse.shtml</loc>
+  <lastmod>2013-09-16T02:21:49Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://progre-meiban.com/jazz/herbie_hancock.shtml</loc>
   <lastmod>2013-02-10T03:49:29Z</lastmod>
   <priority>0.5000</priority>
@@ -126,7 +136,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/return_to_forever/return_to_forever.shtml</loc>
-  <lastmod>2012-11-23T01:49:33Z</lastmod>
+  <lastmod>2013-09-16T02:21:18Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1286,7 +1296,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-09-01T01:34:10Z</lastmod>
+  <lastmod>2013-09-16T02:24:26Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

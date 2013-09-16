@@ -57,7 +57,6 @@
       <br />
       <br />
       楽器による、激しいインタープレイがお好きな方には超おすすめです。必聴。
-      <br />
       <div class="youtube-movie">
        <iframe width="560" height="345" src="http://www.youtube.com/embed/M6f1VvlnsbE" frameborder="0" allowfullscreen="allowfullscreen">
        </iframe>
@@ -67,36 +66,23 @@
        </iframe>
       </div>
       <!--#include virtual="/common/ads.html"-->
-      <br />
-      <br />
       <div class="related-recommendation">
        ◎この作品が好きな人へのおすすめ作品
        <ul>
         <li>
-         Al Di Meola 「
-         <a href="/jazz/al_di_meola/elegant_gypsy.shtml">
-          Elegant Gypsy (エレガント・ジプシー)
-         </a>
-         」
+         Al Di Meola 「<a href="/jazz/al_di_meola/elegant_gypsy.shtml">Elegant Gypsy (エレガント・ジプシー)</a>」
         </li>
         <li>
-         Chick Corea 「
-         <a class="album-name" href="/jazz/chick_corea/leprechaun.shtml">
-          The Leprechaun (妖精)
-         </a>
-         」
+         Chick Corea 「<a class="album-name" href="/jazz/chick_corea/leprechaun.shtml">The Leprechaun (妖精)</a>」
         </li>
         <li>
-         Sheshet 「
-         <a class="album-name" href="/progressive_rock/sheshet/sheshet.shtml">
-          Sheshet
-         </a>
-         」
+         Fuse One「<a class="album-name" href="/jazz/fuse_one/fuse.shtml">Fuse</a>」
+        </li>
+        <li>
+         Sheshet 「<a class="album-name" href="/progressive_rock/sheshet/sheshet.shtml">Sheshet</a>」
         </li>
        </ul>
       </div>
-      <br />
-      <br />
       <a id="parent-url" href="javascript:void(0)">
        &lt;&lt;戻る
       </a>
