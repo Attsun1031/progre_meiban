@@ -101,7 +101,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/jazz/fuse_one/fuse.shtml</loc>
-  <lastmod>2013-09-16T02:21:49Z</lastmod>
+  <lastmod>2013-09-16T02:26:10Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -756,7 +756,12 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/gong.shtml</loc>
-  <lastmod>2012-12-30T02:26:30Z</lastmod>
+  <lastmod>2013-09-22T06:26:25Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/gong/flying_teapot.shtml</loc>
+  <lastmod>2013-09-23T00:33:19Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1026,7 +1031,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/perigeo/abbiamo_tutti_un_blues_da_piangere.shtml</loc>
-  <lastmod>2013-02-24T12:18:50Z</lastmod>
+  <lastmod>2013-09-23T00:33:15Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1296,7 +1301,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-09-16T02:24:26Z</lastmod>
+  <lastmod>2013-09-23T00:33:53Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

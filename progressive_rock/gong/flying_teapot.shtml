@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="Gong,ゴング,Flying Teapot,名盤,ラジオグノーム3部作" />
+  <meta name="description" content="Radio Gnome３部作の１作目。聴いていてとても心地よさを感じるスペーシーなジャズ・ロックです。" />
+  <title>
+   Flying Teapot - Gong (ゴング) - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/flying_teapot.html"-->
+    <h1>
+     Flying Teapot
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/flying_teapot.jpg" border="0" alt="flying_teapot.jpg(32570 byte)" />
+     <div class="content">
+         本作は1973年にリリースされたゴングの4作目。これに続く「Angel's Egg」、「You」を合わせてRadio Gnome３部作と言われています。<br />
+         このコンセプトは、ゴング惑星からフライングティーポットに乗ってやってきた宇宙人がテレパシーによって地球人に向けて海賊ラジオ放送を行うということらしいです。マグマ臭いですねぇ。<br />
+         「ラッセルのティーポット」にも影響を受けているとデイヴィッド・アレンが自著に書いていたらしいです。<br /><br />
+         なんともスペーシーなコンセプトですが、曲は多少スペーシーな感じはするものの基本的には<span class="red">かなりイカしたジャズ・ロック</span>です。さすがです。<br />
+         タイトル曲である、(2)「Flying Teapot」なんかは単調な波が寄せては返すようなベース・ラインの気持よさがかなりのもの。<br />
+         デイヴィッド・アレンの囁くようなボーカルも良いです。控えめなフルートも曲にマッチしていて、<span class="black">宙を浮いているような気分</span>になってきます。<br />
+         こういう、聴いていると自然に体が動いちゃう音楽って素敵ですよね。心臓の鼓動や脈拍とシンクロしているような感じです。<br /><br />
+        ゴングを代表する３部作の幕開けにふさわしい好盤。ジャズ・ロック好きな方は是非。
+      <div class="youtube-movie">
+       <iframe width="420" height="315" src="//www.youtube.com/embed/SIgzP4Rj0Ns" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+       <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B00005REQR" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Perigeo「<a href="/progressive_rock/perigeo/abbiamo_tutti_un_blues_da_piangere.shtml">Abbiamo Tutti Un Blues Da Piangere（感涙のブルース）</a>」</li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+     </div>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>

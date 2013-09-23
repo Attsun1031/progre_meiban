@@ -45,6 +45,15 @@
       ◎作品一覧 (作品名クリックで詳細レビューページに飛びます)
      </h3>
      <div class="content">
+      <img class="m-artwork" src="/img/artwork/flying_teapot.jpg" border="0" alt="flying_teapot.jpg(32570 byte)" />
+      <a class="album-name" href="/progressive_rock/gong/flying_teapot.shtml">
+       Flying Teapot
+      </a>
+      <br />
+      Radio Gnome３部作の１作目。聴いていてとても心地よさを感じるスペーシーなジャズ・ロックです。
+      <p class="clear-left">
+      </p>
+
       <img class="m-artwork" src="/img/artwork/gazeuse.jpg" border="0" alt="gazeuse.jpg(32570 byte)" />
       <a class="album-name" href="/progressive_rock/gong/gazeuse.shtml">
        Gazeuse!
