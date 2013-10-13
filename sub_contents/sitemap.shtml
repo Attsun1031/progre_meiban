@@ -292,6 +292,22 @@
       </ul>
       <ul class="column">
        <li>
+        <a href="/progressive_rock/carpe_diem.shtml">
+         Carpe Diem
+        </a>
+       </li>
+       <li>
+        <ul class="child-column">
+         <li>
+          <a href="/progressive_rock/carpe_diem/cueille_le_jour.shtml">
+           Cueille Le Jour
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <ul class="column">
+       <li>
         <a href="/progressive_rock/cervello.shtml">
          Cervello (チェルベロ)
         </a>

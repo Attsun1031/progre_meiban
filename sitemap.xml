@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/index.shtml</loc>
-  <lastmod>2013-06-02T13:52:24Z</lastmod>
+  <lastmod>2013-10-06T12:26:58Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -570,6 +570,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://progre-meiban.com/progressive_rock/carpe_diem.shtml</loc>
+  <lastmod>2013-10-13T03:19:32Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://progre-meiban.com/progressive_rock/carpe_diem/cueille_le_jour.shtml</loc>
+  <lastmod>2013-10-13T03:17:51Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://progre-meiban.com/progressive_rock/cervello.shtml</loc>
   <lastmod>2012-12-30T02:26:30Z</lastmod>
   <priority>0.5000</priority>
@@ -761,7 +771,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/progressive_rock/gong/flying_teapot.shtml</loc>
-  <lastmod>2013-09-23T00:33:19Z</lastmod>
+  <lastmod>2013-09-23T00:37:23Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -1301,7 +1311,7 @@
  </url>
  <url>
   <loc>http://progre-meiban.com/sub_contents/sitemap.shtml</loc>
-  <lastmod>2013-09-23T00:33:53Z</lastmod>
+  <lastmod>2013-10-13T03:20:40Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

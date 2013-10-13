@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta name="keywords" content="夢魔,Carpe Diem,アトール,フランス,プログレ,ジャズロック,フュージョン,名盤" />
+  <meta name="description" content="サックスとキーボードが織り成す耽美で温和な世界観が魅力的なフレンチプログレ。" />
+  <title>
+   Cueille Le Jour - Carpe Diem - プログレ名盤選
+  </title>
+  <!--#include virtual="/common/head.shtml"-->
+ </head>
+ <body>
+  <div id="body">
+   <div id="header">
+    <!--#include virtual="/common/header.shtml"-->
+   </div>
+   <div id="navi">
+    <!--#include virtual="/common/navi.shtml"-->
+   </div>
+   <div id="main">
+    <!--#include virtual="/common/bread_crumbs/progressive_rock/cueille_le_jour.html"-->
+    <h1>
+      Cueille Le Jour
+    </h1>
+    <!--#include virtual="/common/social.html"-->
+    <div id="main-content">
+     <img class="artwork" src="/img/artwork/cueille_le_jour.jpg" border="0" alt="cueille_le_jour.jpg(17631 byte)" />
+     <div class="content">
+       本作はフランスのプログレバンド、Carpe Diemの2ndアルバム。<br /><br />
+       <span class="black">サックスとキーボードが織り成す耽美で温和な世界観が非常に特徴的</span>。<br />
+       また、大きめの音量で延々と繰り出される柔らかいベースラインは、Radio Gnome時代の<a href="/progressive_rock/gong.shtml">Gong</a>やホークウィンドといったスペーシーなロックに通ずるところもあります。<br /><br />
+       イタリア系プログレの魅力である大げさなフレーズや禍々しいフレーズはないですが、本作のような作品もまたこれはこれでいいんじゃないでしょうか。<br />
+       このバンドに限らず、フランスは先ほど挙げた<a href="/progressive_rock/gong.shtml">Gong</a>を始め、<a href="/progressive_rock/atoll.shtml">Atoll</a>や<a href="/progressive_rock/asia_minor.shtml">Asis Minor</a>など、他国にはない不思議な気持よさを持った音楽が多いですねぇ。
+      </div>
+      <div class="youtube-movie">
+        <iframe width="420" height="315" src="//www.youtube.com/embed/-789-iIqRoM" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="amazon-link">
+        <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=progremeibans-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=B00004VA0C" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+      </div>
+      <!--#include virtual="/common/ads.html"-->
+      <div class="related-recommendation">
+       ◎この作品が好きな人へのおすすめ作品
+       <ul>
+        <li>
+         Gong「<a href="/progressive_rock/gong/flying_teapot.shtml">Flying Teapot</a>」
+        </li>
+       </ul>
+      </div>
+      <a id="parent-url" href="javascript:void(0)">
+       &lt;&lt;戻る
+      </a>
+    </div>
+   </div>
+   <div id="footer">
+    <!--#include virtual="/common/footer.shtml"-->
+   </div>
+  </div>
+ </body>
+</html>
